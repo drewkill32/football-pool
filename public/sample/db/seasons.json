@@ -1,0 +1,122 @@
+[
+  {
+    "season": "2020",
+    "week": 1,
+    "seasonType": "regular",
+    "firstGameStart": "2020-09-04T00:00:00.000Z",
+    "lastGameStart": "2021-01-01T01:00:00.000Z",
+    "games": 8
+  },
+  {
+    "season": "2020",
+    "week": 2,
+    "seasonType": "regular",
+    "firstGameStart": "2020-09-11T00:00:00.000Z",
+    "lastGameStart": "2021-02-20T05:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 3,
+    "seasonType": "regular",
+    "firstGameStart": "2020-09-18T23:30:00.000Z",
+    "lastGameStart": "2020-09-20T01:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 4,
+    "seasonType": "regular",
+    "firstGameStart": "2020-09-24T23:30:00.000Z",
+    "lastGameStart": "2020-09-27T02:15:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 5,
+    "seasonType": "regular",
+    "firstGameStart": "2020-10-02T23:00:00.000Z",
+    "lastGameStart": "2020-10-04T00:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 6,
+    "seasonType": "regular",
+    "firstGameStart": "2020-10-08T23:30:00.000Z",
+    "lastGameStart": "2020-10-11T00:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 7,
+    "seasonType": "regular",
+    "firstGameStart": "2020-10-14T23:30:00.000Z",
+    "lastGameStart": "2020-10-18T00:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 8,
+    "seasonType": "regular",
+    "firstGameStart": "2020-10-22T23:30:00.000Z",
+    "lastGameStart": "2020-10-25T02:30:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 9,
+    "seasonType": "regular",
+    "firstGameStart": "2020-10-29T23:30:00.000Z",
+    "lastGameStart": "2020-11-01T02:30:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 10,
+    "seasonType": "regular",
+    "firstGameStart": "2020-11-04T23:00:00.000Z",
+    "lastGameStart": "2020-11-08T04:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 11,
+    "seasonType": "regular",
+    "firstGameStart": "2020-11-11T00:00:00.000Z",
+    "lastGameStart": "2020-11-15T04:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 12,
+    "seasonType": "regular",
+    "firstGameStart": "2020-11-15T17:00:00.000Z",
+    "lastGameStart": "2020-11-22T04:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 13,
+    "seasonType": "regular",
+    "firstGameStart": "2020-11-27T00:00:00.000Z",
+    "lastGameStart": "2020-11-29T04:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 14,
+    "seasonType": "regular",
+    "firstGameStart": "2020-12-03T23:00:00.000Z",
+    "lastGameStart": "2020-12-07T00:30:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 15,
+    "seasonType": "regular",
+    "firstGameStart": "2020-12-10T23:30:00.000Z",
+    "lastGameStart": "2020-12-13T04:00:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 16,
+    "seasonType": "regular",
+    "firstGameStart": "2020-12-19T00:00:00.000Z",
+    "lastGameStart": "2020-12-20T03:30:00.000Z"
+  },
+  {
+    "season": "2020",
+    "week": 1,
+    "seasonType": "postseason",
+    "firstGameStart": "2020-12-21T19:30:00.000Z",
+    "lastGameStart": "2021-01-12T01:00:00.000Z"
+  }
+]

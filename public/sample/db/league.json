@@ -1,0 +1,27 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Drew",
+      "email": "adk@killion.me",
+      "profile_pic": "sample/img/sample-profile.jpg",
+      "team": {
+        "id": 2199,
+        "school": "Eastern Michigan",
+        "mascot": "Eagles",
+        "abbreviation": "EMU",
+        "alt_name1": null,
+        "alt_name2": "EMU",
+        "alt_name3": "E Michigan",
+        "conference": "Mid-American",
+        "division": "West",
+        "color": "#00331b",
+        "alt_color": "#f0f0f0",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png"
+        ]
+      }
+    }
+  ]
+}
