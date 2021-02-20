@@ -6,7 +6,7 @@ import ProviderAuth from './auth';
 import Home from './pages/Home/Home';
 import Login from './pages/Login';
 import NotFound from './pages/NotFound';
-import PreseasonHome from './pages/Preseason';
+import Profile from './pages/Profile';
 import GlobalRoute from './routes/GlobalRoute';
 import PrivateRoute from './routes/PrivateRoute';
 
@@ -22,8 +22,8 @@ function App() {
             <PrivateRoute exact path="/">
               <Home />
             </PrivateRoute>
-            <PrivateRoute path="/preseason">
-              <PreseasonHome />
+            <PrivateRoute path="/profile">
+              <Profile />
             </PrivateRoute>
             <GlobalRoute>
               <NotFound />

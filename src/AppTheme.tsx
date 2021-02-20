@@ -16,6 +16,13 @@ const theme = createMuiTheme({
       contrastText: '#ffffff',
     },
   },
+  overrides: {
+    MuiTooltip: {
+      tooltip: {
+        fontSize: '1.2em',
+      },
+    },
+  },
 });
 
 const AppTheme: React.FC = ({ children }) => {

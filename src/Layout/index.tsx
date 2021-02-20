@@ -1,59 +1,32 @@
 import React, { useState } from 'react';
-import AppBar from '@material-ui/core/AppBar';
-import CssBaseline from '@material-ui/core/CssBaseline';
-import Divider from '@material-ui/core/Divider';
-import Drawer from '@material-ui/core/Drawer';
-import Hidden from '@material-ui/core/Hidden';
-import IconButton from '@material-ui/core/IconButton';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
-import ListItemText from '@material-ui/core/ListItemText';
-import MailIcon from '@material-ui/icons/Mail';
-import MenuIcon from '@material-ui/icons/Menu';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
+import {
+  AppBar,
+  CssBaseline,
+  Drawer,
+  Hidden,
+  IconButton,
+  Toolbar,
+  Typography,
+  Button,
+  Container,
+} from '@material-ui/core';
 
 import { useStyles } from './layout.styles';
 import { useTheme } from '@material-ui/core/styles';
+import { useHistory } from 'react-router';
+import { Menu } from '@material-ui/icons';
+import NavDrawer from './NavDrawer';
+import AccountButton from './AccountButton';
 
 const Layout: React.FC = ({ children }) => {
   const classes = useStyles();
   const theme = useTheme();
+  const history = useHistory();
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
   };
-
-  const drawer = (
-    <div>
-      <div className={classes.toolbar} />
-      <Divider />
-      <List>
-        {['Inbox', 'Starred', 'Send email', 'Drafts'].map((text, index) => (
-          <ListItem button key={text}>
-            <ListItemIcon>
-              {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-            </ListItemIcon>
-            <ListItemText primary={text} />
-          </ListItem>
-        ))}
-      </List>
-      <Divider />
-      <List>
-        {['All mail', 'Trash', 'Spam'].map((text, index) => (
-          <ListItem button key={text}>
-            <ListItemIcon>
-              {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-            </ListItemIcon>
-            <ListItemText primary={text} />
-          </ListItem>
-        ))}
-      </List>
-    </div>
-  );
 
   return (
     <div className={classes.root}>
@@ -67,16 +40,24 @@ const Layout: React.FC = ({ children }) => {
             onClick={handleDrawerToggle}
             className={classes.menuButton}
           >
-            <MenuIcon />
+            <Menu />
           </IconButton>
-          <Typography variant="h6" noWrap>
-            Responsive drawer
+          <Typography variant="h6" noWrap className={classes.title}>
+            St. Pete Football Pool
           </Typography>
+          <Hidden xsDown>
+            <nav>
+              <Button color="inherit" onClick={() => history.push('/')}>
+                Home
+              </Button>
+              <AccountButton />
+            </nav>
+          </Hidden>
         </Toolbar>
       </AppBar>
-      <nav className={classes.drawer} aria-label="mailbox folders">
-        {/* The implementation can be swapped with js to avoid SEO duplication of links. */}
-        <Hidden smUp implementation="css">
+
+      <Hidden smUp>
+        <nav className={classes.drawer}>
           <Drawer
             variant="temporary"
             anchor={theme.direction === 'rtl' ? 'right' : 'left'}
@@ -89,25 +70,17 @@ const Layout: React.FC = ({ children }) => {
               keepMounted: true, // Better open performance on mobile.
             }}
           >
-            {drawer}
+            <NavDrawer />
           </Drawer>
-        </Hidden>
-        <Hidden xsDown implementation="css">
-          <Drawer
-            classes={{
-              paper: classes.drawerPaper,
-            }}
-            variant="permanent"
-            open
-          >
-            {drawer}
-          </Drawer>
-        </Hidden>
-      </nav>
-      <main className={classes.content}>
-        <div className={classes.toolbar} />
-        {children}
-      </main>
+        </nav>
+      </Hidden>
+
+      <Container maxWidth="md">
+        <main className={classes.content}>
+          <div className={classes.toolbar} />
+          {children}
+        </main>
+      </Container>
     </div>
   );
 };

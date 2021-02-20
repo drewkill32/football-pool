@@ -13,17 +13,15 @@ export const useStyles = makeStyles((theme: Theme) =>
         flexShrink: 0,
       },
     },
-    appBar: {
-      [theme.breakpoints.up('sm')]: {
-        width: `calc(100% - ${drawerWidth}px)`,
-        marginLeft: drawerWidth,
-      },
-    },
+    appBar: {},
     menuButton: {
       marginRight: theme.spacing(2),
       [theme.breakpoints.up('sm')]: {
         display: 'none',
       },
+    },
+    title: {
+      flexGrow: 1,
     },
     // necessary for content to be below app bar
     toolbar: theme.mixins.toolbar,
@@ -31,7 +29,6 @@ export const useStyles = makeStyles((theme: Theme) =>
       width: drawerWidth,
     },
     content: {
-      flexGrow: 1,
       padding: theme.spacing(3),
     },
   })
