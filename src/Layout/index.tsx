@@ -43,7 +43,7 @@ const Layout: React.FC = ({ children }) => {
             <Menu />
           </IconButton>
           <Typography variant="h6" noWrap className={classes.title}>
-            St. Pete Football Pool
+            St. Pete College Football Pick'em
           </Typography>
           <Hidden xsDown>
             <nav>
@@ -75,10 +75,12 @@ const Layout: React.FC = ({ children }) => {
         </nav>
       </Hidden>
 
-      <Container maxWidth="md">
-        <main className={classes.content}>
+      <Container maxWidth="lg">
+        <main>
           <div className={classes.toolbar} />
-          {children}
+          <div className={classes.content} id="content">
+            {children}
+          </div>
         </main>
       </Container>
     </div>

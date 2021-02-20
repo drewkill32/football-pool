@@ -1,19 +1,25 @@
+import { createStyles, makeStyles, Theme } from '@material-ui/core';
 import React from 'react';
-import { useHistory } from 'react-router-dom';
-import { useAuth } from '../../auth';
-import PreseasonHome from '../Preseason';
+import WeekSlider from '../../components/WeekSlider';
+
+const useStyles = makeStyles((theme: Theme) =>
+  createStyles({
+    root: {
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      alignItems: 'center',
+      width: '100%',
+    },
+  })
+);
 
 const Home = () => {
-  const { user, signout } = useAuth();
-  const isPreseason = true;
-  const history = useHistory();
-
-  return isPreseason ? (
-    <PreseasonHome />
-  ) : (
-    <div >
-      <p>Welcome {user!.name}</p>
-      <button onClick={() => signout(() => history.push('/'))}>Sign Out</button>
+  const classes = useStyles();
+  return (
+    <div className={classes.root}>
+      <WeekSlider />
+      <p>Hello</p>
     </div>
   );
 };

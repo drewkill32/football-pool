@@ -57,6 +57,7 @@ const Login = () => {
                   component={TextInput}
                   variant="outlined"
                   required
+                  autofocus
                   type="email"
                   InputProps={{
                     startAdornment: (

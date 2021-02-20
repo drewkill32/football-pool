@@ -24,12 +24,18 @@ export const useStyles = makeStyles((theme: Theme) =>
       flexGrow: 1,
     },
     // necessary for content to be below app bar
-    toolbar: theme.mixins.toolbar,
+    toolbar: {
+      ...theme.mixins.toolbar,
+    },
     drawerPaper: {
       width: drawerWidth,
     },
     content: {
-      padding: theme.spacing(3),
+      padding: theme.spacing(2),
+      display: 'flex',
+      flexDirection: 'row',
+      justifyContent: 'center',
+      alignItems: 'center',
     },
   })
 );
