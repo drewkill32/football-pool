@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Switch } from 'react-router-dom';
 
 import AppTheme from './AppTheme';
 import ProviderAuth from './auth';
-import Home from './pages/Home/Home';
+import Admin from './pages/Admin';
+import Home from './pages/Home';
 import Login from './pages/Login';
 import NotFound from './pages/NotFound';
 import Profile from './pages/Profile';
@@ -24,6 +25,9 @@ function App() {
             </PrivateRoute>
             <PrivateRoute path="/profile">
               <Profile />
+            </PrivateRoute>
+            <PrivateRoute path="/admin">
+              <Admin />
             </PrivateRoute>
             <GlobalRoute>
               <NotFound />

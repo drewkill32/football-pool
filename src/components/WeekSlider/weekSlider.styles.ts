@@ -8,6 +8,7 @@ export const useStyles = makeStyles(() =>
       display: 'flex',
       minWidth: '200px',
       width: '100%',
+      maxHeight: '180px',
     },
     slideContainer: {
       padding: '0 10px',

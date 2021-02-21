@@ -1,16 +1,16 @@
-import React, { useEffect, useState, useContext } from 'react';
+import React, { useEffect, useState } from 'react';
 import SwipeableViews from 'react-swipeable-views';
 import { useDebounce } from '../../hooks/useDebounce';
 import { Week } from '../../models';
 import WeekCard, { Arrow } from '../WeekCard';
 import { useStyles } from './weekSlider.styles';
-import { WeekContext } from '../../context/WeekContext.Provider';
+import { useSelectedWeek } from '../../context/WeekContext.Provider';
 
 const WeekSlider = () => {
   const [index, setIndex] = useState(0);
   const [season, setSeason] = useState<Week[]>();
 
-  const [, setWeek] = useContext(WeekContext);
+  const [, setWeek] = useSelectedWeek();
 
   useEffect(() => {
     const loadData = async () => {

@@ -36,6 +36,11 @@ export const useStyles = makeStyles((theme: Theme) =>
       flexDirection: 'row',
       justifyContent: 'center',
       alignItems: 'center',
+      height: '100%',
+    },
+    container: {
+      height: '100%',
+      width: '100%',
     },
   })
 );

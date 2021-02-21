@@ -8,7 +8,12 @@ import {
   ListItemIcon,
   ListItemText,
 } from '@material-ui/core';
-import { AccountCircle, ExitToApp, Home } from '@material-ui/icons';
+import {
+  AccountCircle,
+  ExitToApp,
+  Home,
+  SupervisorAccount,
+} from '@material-ui/icons';
 import { useAuth } from '../auth';
 
 const NavDrawer = () => {
@@ -23,6 +28,12 @@ const NavDrawer = () => {
             <Home />
           </ListItemIcon>
           <ListItemText primary="Home" />
+        </ListItem>
+        <ListItem button onClick={() => history.push('/admin')}>
+          <ListItemIcon>
+            <SupervisorAccount />
+          </ListItemIcon>
+          <ListItemText primary="Admin" />
         </ListItem>
         <Divider />
         <ListItem button onClick={() => history.push('/profile')}>

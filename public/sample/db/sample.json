@@ -1,6 +1,6 @@
 [
   {
-    "id": 401238035,
+    "id": 1,
     "homeScore": 45,
     "awayScore": 35,
     "weekNum": 1,
@@ -31,10 +31,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2110.png"
       ]
-    }
+    },
+    "gameId": 401238035,
+    "pickTeamId": 5,
+    "result": 1
   },
   {
-    "id": 401207101,
+    "id": 2,
     "homeScore": 21,
     "awayScore": 32,
     "weekNum": 1,
@@ -65,10 +68,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/6.png"
       ]
-    }
+    },
+    "gameId": 401207101,
+    "pickTeamId": 2572,
+    "result": 0
   },
   {
-    "id": 401237353,
+    "id": 3,
     "homeScore": 59,
     "awayScore": 0,
     "weekNum": 1,
@@ -99,10 +105,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2198.png"
       ]
-    }
+    },
+    "gameId": 401237353,
+    "pickTeamId": 276,
+    "result": 1
   },
   {
-    "id": 401235700,
+    "id": 4,
     "homeScore": 42,
     "awayScore": 0,
     "weekNum": 1,
@@ -133,10 +142,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
       ]
-    }
+    },
+    "gameId": 401235700,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401212484,
+    "id": 5,
     "homeScore": 24,
     "awayScore": 31,
     "weekNum": 1,
@@ -167,10 +179,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
       ]
-    }
+    },
+    "gameId": 401212484,
+    "pickTeamId": 326,
+    "result": 0
   },
   {
-    "id": 401207098,
+    "id": 6,
     "homeScore": 57,
     "awayScore": 31,
     "weekNum": 1,
@@ -201,10 +216,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2277.png"
       ]
-    }
+    },
+    "gameId": 401207098,
+    "pickTeamId": 249,
+    "result": 1
   },
   {
-    "id": 401212553,
+    "id": 7,
     "homeScore": 37,
     "awayScore": 24,
     "weekNum": 1,
@@ -235,10 +253,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
       ]
-    }
+    },
+    "gameId": 401212553,
+    "pickTeamId": 235,
+    "result": 1
   },
   {
-    "id": 401239884,
+    "id": 8,
     "homeScore": 24,
     "awayScore": 14,
     "weekNum": 1,
@@ -269,10 +290,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png"
       ]
-    }
+    },
+    "gameId": 401239884,
+    "pickTeamId": 2638,
+    "result": 1
   },
   {
-    "id": 401234576,
+    "id": 9,
     "homeScore": 3,
     "awayScore": 55,
     "weekNum": 1,
@@ -303,10 +327,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
       ]
-    }
+    },
+    "gameId": 401234576,
+    "pickTeamId": 2426,
+    "result": 0
   },
   {
-    "id": 401256193,
+    "id": 10,
     "homeScore": null,
     "awayScore": null,
     "weekNum": 1,
@@ -337,10 +364,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
       ]
-    }
+    },
+    "gameId": 401256193,
+    "pickTeamId": 142,
+    "result": 0
   },
   {
-    "id": 401256198,
+    "id": 11,
     "homeScore": null,
     "awayScore": null,
     "weekNum": 1,
@@ -371,10 +401,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
       ]
-    }
+    },
+    "gameId": 401256198,
+    "pickTeamId": 2628,
+    "result": 0
   },
   {
-    "id": 401234559,
+    "id": 12,
     "homeScore": 31,
     "awayScore": 14,
     "weekNum": 2,
@@ -405,10 +438,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
       ]
-    }
+    },
+    "gameId": 401234559,
+    "pickTeamId": 2390,
+    "result": 1
   },
   {
-    "id": 401236038,
+    "id": 13,
     "homeScore": 56,
     "awayScore": 10,
     "weekNum": 2,
@@ -439,10 +475,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2198.png"
       ]
-    }
+    },
+    "gameId": 401236038,
+    "pickTeamId": 277,
+    "result": 1
   },
   {
-    "id": 401234565,
+    "id": 14,
     "homeScore": 31,
     "awayScore": 6,
     "weekNum": 2,
@@ -473,10 +512,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
       ]
-    }
+    },
+    "gameId": 401234565,
+    "pickTeamId": 153,
+    "result": 1
   },
   {
-    "id": 401236221,
+    "id": 15,
     "homeScore": 14,
     "awayScore": 31,
     "weekNum": 2,
@@ -507,10 +549,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
       ]
-    }
+    },
+    "gameId": 401236221,
+    "pickTeamId": 66,
+    "result": 0
   },
   {
-    "id": 401236053,
+    "id": 16,
     "homeScore": 31,
     "awayScore": 35,
     "weekNum": 2,
@@ -541,10 +586,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
       ]
-    }
+    },
+    "gameId": 401236053,
+    "pickTeamId": 2306,
+    "result": 0
   },
   {
-    "id": 401236081,
+    "id": 17,
     "homeScore": 35,
     "awayScore": 20,
     "weekNum": 2,
@@ -575,10 +623,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2429.png"
       ]
-    }
+    },
+    "gameId": 401236081,
+    "pickTeamId": 2026,
+    "result": 1
   },
   {
-    "id": 401240113,
+    "id": 18,
     "homeScore": 37,
     "awayScore": 7,
     "weekNum": 2,
@@ -609,10 +660,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png"
       ]
-    }
+    },
+    "gameId": 401240113,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401234574,
+    "id": 19,
     "homeScore": 27,
     "awayScore": 13,
     "weekNum": 2,
@@ -643,10 +697,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
       ]
-    }
+    },
+    "gameId": 401234574,
+    "pickTeamId": 87,
+    "result": 1
   },
   {
-    "id": 401207113,
+    "id": 20,
     "homeScore": 48,
     "awayScore": 51,
     "weekNum": 2,
@@ -677,10 +734,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png"
       ]
-    }
+    },
+    "gameId": 401207113,
+    "pickTeamId": 326,
+    "result": 0
   },
   {
-    "id": 401240233,
+    "id": 21,
     "homeScore": 55,
     "awayScore": 0,
     "weekNum": 2,
@@ -711,10 +771,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2046.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2046.png"
       ]
-    }
+    },
+    "gameId": 401240233,
+    "pickTeamId": 221,
+    "result": 1
   },
   {
-    "id": 401234563,
+    "id": 22,
     "homeScore": 13,
     "awayScore": 16,
     "weekNum": 2,
@@ -745,10 +808,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png"
       ]
-    }
+    },
+    "gameId": 401234563,
+    "pickTeamId": 52,
+    "result": 0
   },
   {
-    "id": 401215298,
+    "id": 23,
     "homeScore": 27,
     "awayScore": 26,
     "weekNum": 2,
@@ -779,10 +845,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2097.png"
       ]
-    }
+    },
+    "gameId": 401215298,
+    "pickTeamId": 290,
+    "result": 1
   },
   {
-    "id": 401240039,
+    "id": 24,
     "homeScore": 27,
     "awayScore": 6,
     "weekNum": 2,
@@ -813,10 +882,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2643.png"
       ]
-    }
+    },
+    "gameId": 401240039,
+    "pickTeamId": 58,
+    "result": 1
   },
   {
-    "id": 401236054,
+    "id": 25,
     "homeScore": 48,
     "awayScore": 0,
     "weekNum": 2,
@@ -847,10 +919,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2623.png"
       ]
-    }
+    },
+    "gameId": 401236054,
+    "pickTeamId": 201,
+    "result": 1
   },
   {
-    "id": 401239973,
+    "id": 26,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 2,
@@ -881,10 +956,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
       ]
-    }
+    },
+    "gameId": 401239973,
+    "pickTeamId": 6,
+    "result": 0
   },
   {
-    "id": 401234562,
+    "id": 27,
     "homeScore": 13,
     "awayScore": 37,
     "weekNum": 2,
@@ -915,10 +993,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
       ]
-    }
+    },
+    "gameId": 401234562,
+    "pickTeamId": 154,
+    "result": 0
   },
   {
-    "id": 401236039,
+    "id": 28,
     "homeScore": 35,
     "awayScore": 33,
     "weekNum": 2,
@@ -949,10 +1030,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2277.png"
       ]
-    }
+    },
+    "gameId": 401236039,
+    "pickTeamId": 2641,
+    "result": 1
   },
   {
-    "id": 401234564,
+    "id": 29,
     "homeScore": 35,
     "awayScore": 21,
     "weekNum": 2,
@@ -983,10 +1067,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
       ]
-    }
+    },
+    "gameId": 401234564,
+    "pickTeamId": 97,
+    "result": 1
   },
   {
-    "id": 401236222,
+    "id": 30,
     "homeScore": 59,
     "awayScore": 3,
     "weekNum": 2,
@@ -1017,10 +1104,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
       ]
-    }
+    },
+    "gameId": 401236222,
+    "pickTeamId": 251,
+    "result": 1
   },
   {
-    "id": 401236658,
+    "id": 31,
     "homeScore": 23,
     "awayScore": 38,
     "weekNum": 2,
@@ -1051,10 +1141,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/324.png"
       ]
-    }
+    },
+    "gameId": 401236658,
+    "pickTeamId": 2305,
+    "result": 0
   },
   {
-    "id": 401279084,
+    "id": 32,
     "homeScore": null,
     "awayScore": null,
     "weekNum": 2,
@@ -1085,10 +1178,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2627.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2627.png"
       ]
-    }
+    },
+    "gameId": 401279084,
+    "pickTeamId": 166,
+    "result": 0
   },
   {
-    "id": 401240126,
+    "id": 33,
     "homeScore": 43,
     "awayScore": 21,
     "weekNum": 3,
@@ -1119,10 +1215,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2097.png"
       ]
-    }
+    },
+    "gameId": 401240126,
+    "pickTeamId": 324,
+    "result": 1
   },
   {
-    "id": 401212541,
+    "id": 34,
     "homeScore": 55,
     "awayScore": 20,
     "weekNum": 3,
@@ -1153,10 +1252,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2046.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2046.png"
       ]
-    }
+    },
+    "gameId": 401212541,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401234567,
+    "id": 35,
     "homeScore": 6,
     "awayScore": 26,
     "weekNum": 3,
@@ -1187,10 +1289,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
       ]
-    }
+    },
+    "gameId": 401234567,
+    "pickTeamId": 150,
+    "result": 0
   },
   {
-    "id": 401234571,
+    "id": 36,
     "homeScore": 21,
     "awayScore": 10,
     "weekNum": 3,
@@ -1221,10 +1326,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
       ]
-    }
+    },
+    "gameId": 401234571,
+    "pickTeamId": 221,
+    "result": 1
   },
   {
-    "id": 401207124,
+    "id": 37,
     "homeScore": 24,
     "awayScore": 30,
     "weekNum": 3,
@@ -1255,10 +1363,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2335.png"
       ]
-    }
+    },
+    "gameId": 401207124,
+    "pickTeamId": 98,
+    "result": 0
   },
   {
-    "id": 401215301,
+    "id": 38,
     "homeScore": 31,
     "awayScore": 34,
     "weekNum": 3,
@@ -1289,10 +1400,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
       ]
-    }
+    },
+    "gameId": 401215301,
+    "pickTeamId": 2247,
+    "result": 0
   },
   {
-    "id": 401236041,
+    "id": 39,
     "homeScore": 16,
     "awayScore": 7,
     "weekNum": 3,
@@ -1323,10 +1437,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/202.png"
       ]
-    }
+    },
+    "gameId": 401236041,
+    "pickTeamId": 197,
+    "result": 1
   },
   {
-    "id": 401212522,
+    "id": 40,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 3,
@@ -1357,10 +1474,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
       ]
-    }
+    },
+    "gameId": 401212522,
+    "pickTeamId": 2655,
+    "result": 0
   },
   {
-    "id": 401241282,
+    "id": 41,
     "homeScore": 52,
     "awayScore": 0,
     "weekNum": 3,
@@ -1391,10 +1511,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/58.png"
       ]
-    }
+    },
+    "gameId": 401241282,
+    "pickTeamId": 87,
+    "result": 1
   },
   {
-    "id": 401240640,
+    "id": 42,
     "homeScore": 14,
     "awayScore": 47,
     "weekNum": 3,
@@ -1425,10 +1548,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
       ]
-    }
+    },
+    "gameId": 401240640,
+    "pickTeamId": 2393,
+    "result": 0
   },
   {
-    "id": 401236939,
+    "id": 43,
     "homeScore": 17,
     "awayScore": 7,
     "weekNum": 3,
@@ -1459,10 +1585,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2026.png"
       ]
-    }
+    },
+    "gameId": 401236939,
+    "pickTeamId": 276,
+    "result": 1
   },
   {
-    "id": 401234568,
+    "id": 44,
     "homeScore": 21,
     "awayScore": 49,
     "weekNum": 3,
@@ -1493,10 +1622,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"
       ]
-    }
+    },
+    "gameId": 401234568,
+    "pickTeamId": 59,
+    "result": 0
   },
   {
-    "id": 401240041,
+    "id": 45,
     "homeScore": 24,
     "awayScore": 10,
     "weekNum": 3,
@@ -1527,10 +1659,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png"
       ]
-    }
+    },
+    "gameId": 401240041,
+    "pickTeamId": 2636,
+    "result": 1
   },
   {
-    "id": 401237492,
+    "id": 46,
     "homeScore": 49,
     "awayScore": 0,
     "weekNum": 3,
@@ -1561,10 +1696,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2643.png"
       ]
-    }
+    },
+    "gameId": 401237492,
+    "pickTeamId": 228,
+    "result": 1
   },
   {
-    "id": 401207120,
+    "id": 47,
     "homeScore": 35,
     "awayScore": 65,
     "weekNum": 3,
@@ -1595,10 +1733,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
       ]
-    }
+    },
+    "gameId": 401207120,
+    "pickTeamId": 249,
+    "result": 0
   },
   {
-    "id": 401207106,
+    "id": 48,
     "homeScore": 30,
     "awayScore": 31,
     "weekNum": 3,
@@ -1629,10 +1770,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
       ]
-    }
+    },
+    "gameId": 401207106,
+    "pickTeamId": 2572,
+    "result": 0
   },
   {
-    "id": 401234569,
+    "id": 49,
     "homeScore": 34,
     "awayScore": 47,
     "weekNum": 3,
@@ -1663,10 +1807,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
       ]
-    }
+    },
+    "gameId": 401234569,
+    "pickTeamId": 97,
+    "result": 0
   },
   {
-    "id": 401215302,
+    "id": 50,
     "homeScore": 17,
     "awayScore": 38,
     "weekNum": 3,
@@ -1697,10 +1844,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/326.png"
       ]
-    }
+    },
+    "gameId": 401215302,
+    "pickTeamId": 2433,
+    "result": 0
   },
   {
-    "id": 401234570,
+    "id": 51,
     "homeScore": 45,
     "awayScore": 42,
     "weekNum": 3,
@@ -1731,10 +1881,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/154.png"
       ]
-    }
+    },
+    "gameId": 401234570,
+    "pickTeamId": 152,
+    "result": 1
   },
   {
-    "id": 401239885,
+    "id": 52,
     "homeScore": 17,
     "awayScore": 13,
     "weekNum": 3,
@@ -1765,10 +1918,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png"
       ]
-    }
+    },
+    "gameId": 401239885,
+    "pickTeamId": 2638,
+    "result": 1
   },
   {
-    "id": 401207132,
+    "id": 53,
     "homeScore": 10,
     "awayScore": 42,
     "weekNum": 4,
@@ -1799,10 +1955,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
       ]
-    }
+    },
+    "gameId": 401207132,
+    "pickTeamId": 6,
+    "result": 0
   },
   {
-    "id": 401207134,
+    "id": 54,
     "homeScore": 37,
     "awayScore": 35,
     "weekNum": 4,
@@ -1833,10 +1992,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
       ]
-    }
+    },
+    "gameId": 401207134,
+    "pickTeamId": 2636,
+    "result": 1
   },
   {
-    "id": 401212536,
+    "id": 55,
     "homeScore": 28,
     "awayScore": 51,
     "weekNum": 4,
@@ -1867,10 +2029,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"
       ]
-    }
+    },
+    "gameId": 401212536,
+    "pickTeamId": 151,
+    "result": 0
   },
   {
-    "id": 401236952,
+    "id": 56,
     "homeScore": 35,
     "awayScore": 51,
     "weekNum": 4,
@@ -1901,10 +2066,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
       ]
-    }
+    },
+    "gameId": 401236952,
+    "pickTeamId": 145,
+    "result": 0
   },
   {
-    "id": 401235996,
+    "id": 57,
     "homeScore": 35,
     "awayScore": 38,
     "weekNum": 4,
@@ -1935,10 +2103,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
       ]
-    }
+    },
+    "gameId": 401235996,
+    "pickTeamId": 201,
+    "result": 0
   },
   {
-    "id": 401234594,
+    "id": 58,
     "homeScore": 37,
     "awayScore": 20,
     "weekNum": 4,
@@ -1969,10 +2140,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png"
       ]
-    }
+    },
+    "gameId": 401234594,
+    "pickTeamId": 183,
+    "result": 1
   },
   {
-    "id": 401236253,
+    "id": 59,
     "homeScore": 52,
     "awayScore": 21,
     "weekNum": 4,
@@ -2003,10 +2177,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2097.png"
       ]
-    }
+    },
+    "gameId": 401236253,
+    "pickTeamId": 2026,
+    "result": 1
   },
   {
-    "id": 401215303,
+    "id": 60,
     "homeScore": 20,
     "awayScore": 18,
     "weekNum": 4,
@@ -2037,10 +2214,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/290.png"
       ]
-    }
+    },
+    "gameId": 401215303,
+    "pickTeamId": 309,
+    "result": 1
   },
   {
-    "id": 401234595,
+    "id": 61,
     "homeScore": 23,
     "awayScore": 20,
     "weekNum": 4,
@@ -2071,10 +2251,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
       ]
-    }
+    },
+    "gameId": 401234595,
+    "pickTeamId": 221,
+    "result": 1
   },
   {
-    "id": 401237034,
+    "id": 62,
     "homeScore": 29,
     "awayScore": 13,
     "weekNum": 4,
@@ -2105,10 +2288,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
       ]
-    }
+    },
+    "gameId": 401237034,
+    "pickTeamId": 2,
+    "result": 1
   },
   {
-    "id": 401207126,
+    "id": 63,
     "homeScore": 36,
     "awayScore": 34,
     "weekNum": 4,
@@ -2139,10 +2325,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2229.png"
       ]
-    }
+    },
+    "gameId": 401207126,
+    "pickTeamId": 2335,
+    "result": 1
   },
   {
-    "id": 401235994,
+    "id": 64,
     "homeScore": 34,
     "awayScore": 37,
     "weekNum": 4,
@@ -2173,10 +2362,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/66.png"
       ]
-    }
+    },
+    "gameId": 401235994,
+    "pickTeamId": 2628,
+    "result": 0
   },
   {
-    "id": 401240194,
+    "id": 65,
     "homeScore": 6,
     "awayScore": 31,
     "weekNum": 4,
@@ -2207,10 +2399,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
       ]
-    }
+    },
+    "gameId": 401240194,
+    "pickTeamId": 2433,
+    "result": 0
   },
   {
-    "id": 401237035,
+    "id": 66,
     "homeScore": 34,
     "awayScore": 44,
     "weekNum": 4,
@@ -2241,10 +2436,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
       ]
-    }
+    },
+    "gameId": 401237035,
+    "pickTeamId": 99,
+    "result": 0
   },
   {
-    "id": 401235995,
+    "id": 67,
     "homeScore": 56,
     "awayScore": 63,
     "weekNum": 4,
@@ -2275,10 +2473,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
       ]
-    }
+    },
+    "gameId": 401235995,
+    "pickTeamId": 2641,
+    "result": 0
   },
   {
-    "id": 401235997,
+    "id": 68,
     "homeScore": 27,
     "awayScore": 13,
     "weekNum": 4,
@@ -2309,10 +2510,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/277.png"
       ]
-    }
+    },
+    "gameId": 401235997,
+    "pickTeamId": 197,
+    "result": 1
   },
   {
-    "id": 401240996,
+    "id": 69,
     "homeScore": 24,
     "awayScore": 10,
     "weekNum": 4,
@@ -2343,10 +2547,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
       ]
-    }
+    },
+    "gameId": 401240996,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401234638,
+    "id": 70,
     "homeScore": 38,
     "awayScore": 20,
     "weekNum": 4,
@@ -2377,10 +2584,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
       ]
-    }
+    },
+    "gameId": 401234638,
+    "pickTeamId": 258,
+    "result": 1
   },
   {
-    "id": 401237033,
+    "id": 71,
     "homeScore": 10,
     "awayScore": 37,
     "weekNum": 4,
@@ -2411,10 +2621,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
       ]
-    }
+    },
+    "gameId": 401237033,
+    "pickTeamId": 8,
+    "result": 0
   },
   {
-    "id": 401241303,
+    "id": 72,
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 4,
@@ -2445,10 +2658,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/326.png"
       ]
-    }
+    },
+    "gameId": 401241303,
+    "pickTeamId": 103,
+    "result": 1
   },
   {
-    "id": 401212485,
+    "id": 73,
     "homeScore": 50,
     "awayScore": 7,
     "weekNum": 4,
@@ -2479,10 +2695,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png"
       ]
-    }
+    },
+    "gameId": 401212485,
+    "pickTeamId": 2567,
+    "result": 1
   },
   {
-    "id": 401232157,
+    "id": 74,
     "homeScore": 66,
     "awayScore": 38,
     "weekNum": 4,
@@ -2513,10 +2732,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2277.png"
       ]
-    }
+    },
+    "gameId": 401232157,
+    "pickTeamId": 2348,
+    "result": 1
   },
   {
-    "id": 401236951,
+    "id": 75,
     "homeScore": 19,
     "awayScore": 38,
     "weekNum": 4,
@@ -2547,10 +2769,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
       ]
-    }
+    },
+    "gameId": 401236951,
+    "pickTeamId": 142,
+    "result": 0
   },
   {
-    "id": 401234734,
+    "id": 76,
     "homeScore": 24,
     "awayScore": 66,
     "weekNum": 4,
@@ -2581,10 +2806,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
       ]
-    }
+    },
+    "gameId": 401234734,
+    "pickTeamId": 2572,
+    "result": 0
   },
   {
-    "id": 401235993,
+    "id": 77,
     "homeScore": 47,
     "awayScore": 14,
     "weekNum": 4,
@@ -2615,10 +2843,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
       ]
-    }
+    },
+    "gameId": 401235993,
+    "pickTeamId": 239,
+    "result": 1
   },
   {
-    "id": 401237037,
+    "id": 78,
     "homeScore": 17,
     "awayScore": 12,
     "weekNum": 4,
@@ -2649,10 +2880,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png"
       ]
-    }
+    },
+    "gameId": 401237037,
+    "pickTeamId": 245,
+    "result": 1
   },
   {
-    "id": 401237036,
+    "id": 79,
     "homeScore": 27,
     "awayScore": 31,
     "weekNum": 4,
@@ -2683,10 +2917,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
       ]
-    }
+    },
+    "gameId": 401237036,
+    "pickTeamId": 2579,
+    "result": 0
   },
   {
-    "id": 401234593,
+    "id": 80,
     "homeScore": 52,
     "awayScore": 10,
     "weekNum": 4,
@@ -2717,10 +2954,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/52.png"
       ]
-    }
+    },
+    "gameId": 401234593,
+    "pickTeamId": 2390,
+    "result": 1
   },
   {
-    "id": 401234566,
+    "id": 81,
     "homeScore": 45,
     "awayScore": 24,
     "weekNum": 4,
@@ -2751,10 +2991,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
       ]
-    }
+    },
+    "gameId": 401234566,
+    "pickTeamId": 259,
+    "result": 1
   },
   {
-    "id": 401236223,
+    "id": 82,
     "homeScore": 48,
     "awayScore": 7,
     "weekNum": 4,
@@ -2785,10 +3028,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
       ]
-    }
+    },
+    "gameId": 401236223,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401240282,
+    "id": 83,
     "homeScore": 66,
     "awayScore": 14,
     "weekNum": 5,
@@ -2819,10 +3065,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2097.png"
       ]
-    }
+    },
+    "gameId": 401240282,
+    "pickTeamId": 154,
+    "result": 1
   },
   {
-    "id": 401246275,
+    "id": 84,
     "homeScore": 45,
     "awayScore": 14,
     "weekNum": 5,
@@ -2853,10 +3102,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
       ]
-    }
+    },
+    "gameId": 401246275,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401237099,
+    "id": 85,
     "homeScore": 35,
     "awayScore": 12,
     "weekNum": 5,
@@ -2887,10 +3139,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
       ]
-    }
+    },
+    "gameId": 401237099,
+    "pickTeamId": 2633,
+    "result": 1
   },
   {
-    "id": 401235998,
+    "id": 86,
     "homeScore": 27,
     "awayScore": 21,
     "weekNum": 5,
@@ -2921,10 +3176,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png"
       ]
-    }
+    },
+    "gameId": 401235998,
+    "pickTeamId": 277,
+    "result": 1
   },
   {
-    "id": 401212547,
+    "id": 87,
     "homeScore": 49,
     "awayScore": 29,
     "weekNum": 5,
@@ -2955,10 +3213,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/151.png"
       ]
-    }
+    },
+    "gameId": 401212547,
+    "pickTeamId": 2247,
+    "result": 1
   },
   {
-    "id": 401215304,
+    "id": 88,
     "homeScore": 52,
     "awayScore": 23,
     "weekNum": 5,
@@ -2989,10 +3250,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
       ]
-    }
+    },
+    "gameId": 401215304,
+    "pickTeamId": 324,
+    "result": 1
   },
   {
-    "id": 401234600,
+    "id": 89,
     "homeScore": 29,
     "awayScore": 30,
     "weekNum": 5,
@@ -3023,10 +3287,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
       ]
-    }
+    },
+    "gameId": 401234600,
+    "pickTeamId": 221,
+    "result": 0
   },
   {
-    "id": 401236002,
+    "id": 90,
     "homeScore": 31,
     "awayScore": 33,
     "weekNum": 5,
@@ -3057,10 +3324,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2628.png"
       ]
-    }
+    },
+    "gameId": 401236002,
+    "pickTeamId": 251,
+    "result": 0
   },
   {
-    "id": 401237096,
+    "id": 91,
     "homeScore": 38,
     "awayScore": 24,
     "weekNum": 5,
@@ -3091,10 +3361,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
       ]
-    }
+    },
+    "gameId": 401237096,
+    "pickTeamId": 57,
+    "result": 1
   },
   {
-    "id": 401207141,
+    "id": 92,
     "homeScore": 21,
     "awayScore": 13,
     "weekNum": 5,
@@ -3125,10 +3398,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png"
       ]
-    }
+    },
+    "gameId": 401207141,
+    "pickTeamId": 5,
+    "result": 1
   },
   {
-    "id": 401237513,
+    "id": 93,
     "homeScore": 28,
     "awayScore": 7,
     "weekNum": 5,
@@ -3159,10 +3435,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2453.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2453.png"
       ]
-    }
+    },
+    "gameId": 401237513,
+    "pickTeamId": 2335,
+    "result": 1
   },
   {
-    "id": 401240040,
+    "id": 94,
     "homeScore": 55,
     "awayScore": 23,
     "weekNum": 5,
@@ -3193,10 +3472,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png"
       ]
-    }
+    },
+    "gameId": 401240040,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401237093,
+    "id": 95,
     "homeScore": 52,
     "awayScore": 24,
     "weekNum": 5,
@@ -3227,10 +3509,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png"
       ]
-    }
+    },
+    "gameId": 401237093,
+    "pickTeamId": 333,
+    "result": 1
   },
   {
-    "id": 401234597,
+    "id": 96,
     "homeScore": 22,
     "awayScore": 26,
     "weekNum": 5,
@@ -3261,10 +3546,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/153.png"
       ]
-    }
+    },
+    "gameId": 401234597,
+    "pickTeamId": 103,
+    "result": 0
   },
   {
-    "id": 401236000,
+    "id": 97,
     "homeScore": 7,
     "awayScore": 47,
     "weekNum": 5,
@@ -3295,10 +3583,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
       ]
-    }
+    },
+    "gameId": 401236000,
+    "pickTeamId": 2305,
+    "result": 0
   },
   {
-    "id": 401212476,
+    "id": 98,
     "homeScore": 28,
     "awayScore": 7,
     "weekNum": 5,
@@ -3329,10 +3620,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/58.png"
       ]
-    }
+    },
+    "gameId": 401212476,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401236001,
+    "id": 99,
     "homeScore": 31,
     "awayScore": 21,
     "weekNum": 5,
@@ -3363,10 +3657,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
       ]
-    }
+    },
+    "gameId": 401236001,
+    "pickTeamId": 2306,
+    "result": 1
   },
   {
-    "id": 401212486,
+    "id": 100,
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 5,
@@ -3397,10 +3694,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/235.png"
       ]
-    }
+    },
+    "gameId": 401212486,
+    "pickTeamId": 2567,
+    "result": 1
   },
   {
-    "id": 401237097,
+    "id": 101,
     "homeScore": 41,
     "awayScore": 42,
     "weekNum": 5,
@@ -3431,10 +3731,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
       ]
-    }
+    },
+    "gameId": 401237097,
+    "pickTeamId": 96,
+    "result": 0
   },
   {
-    "id": 401207136,
+    "id": 102,
     "homeScore": 21,
     "awayScore": 17,
     "weekNum": 5,
@@ -3465,10 +3768,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2429.png"
       ]
-    }
+    },
+    "gameId": 401207136,
+    "pickTeamId": 2226,
+    "result": 1
   },
   {
-    "id": 401238034,
+    "id": 103,
     "homeScore": 41,
     "awayScore": 24,
     "weekNum": 5,
@@ -3499,10 +3805,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/55.png"
       ]
-    }
+    },
+    "gameId": 401238034,
+    "pickTeamId": 52,
+    "result": 1
   },
   {
-    "id": 401234599,
+    "id": 104,
     "homeScore": 31,
     "awayScore": 38,
     "weekNum": 5,
@@ -3533,10 +3842,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
       ]
-    }
+    },
+    "gameId": 401234599,
+    "pickTeamId": 150,
+    "result": 0
   },
   {
-    "id": 401207138,
+    "id": 105,
     "homeScore": 17,
     "awayScore": 20,
     "weekNum": 5,
@@ -3567,10 +3879,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
       ]
-    }
+    },
+    "gameId": 401207138,
+    "pickTeamId": 2393,
+    "result": 0
   },
   {
-    "id": 401212557,
+    "id": 106,
     "homeScore": 40,
     "awayScore": 7,
     "weekNum": 5,
@@ -3601,10 +3916,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
       ]
-    }
+    },
+    "gameId": 401212557,
+    "pickTeamId": 2005,
+    "result": 1
   },
   {
-    "id": 401215305,
+    "id": 107,
     "homeScore": 30,
     "awayScore": 35,
     "weekNum": 5,
@@ -3635,10 +3953,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/290.png"
       ]
-    }
+    },
+    "gameId": 401215305,
+    "pickTeamId": 2433,
+    "result": 0
   },
   {
-    "id": 401207139,
+    "id": 108,
     "homeScore": 31,
     "awayScore": 41,
     "weekNum": 5,
@@ -3669,10 +3990,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2572.png"
       ]
-    }
+    },
+    "gameId": 401207139,
+    "pickTeamId": 249,
+    "result": 0
   },
   {
-    "id": 401235999,
+    "id": 109,
     "homeScore": 37,
     "awayScore": 30,
     "weekNum": 5,
@@ -3703,10 +4027,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
       ]
-    }
+    },
+    "gameId": 401235999,
+    "pickTeamId": 66,
+    "result": 1
   },
   {
-    "id": 401212531,
+    "id": 110,
     "homeScore": 26,
     "awayScore": 34,
     "weekNum": 5,
@@ -3737,10 +4064,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/202.png"
       ]
-    }
+    },
+    "gameId": 401212531,
+    "pickTeamId": 2116,
+    "result": 0
   },
   {
-    "id": 401237095,
+    "id": 111,
     "homeScore": 27,
     "awayScore": 6,
     "weekNum": 5,
@@ -3771,10 +4101,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
       ]
-    }
+    },
+    "gameId": 401237095,
+    "pickTeamId": 61,
+    "result": 1
   },
   {
-    "id": 401237098,
+    "id": 112,
     "homeScore": 7,
     "awayScore": 41,
     "weekNum": 5,
@@ -3805,10 +4138,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
       ]
-    }
+    },
+    "gameId": 401237098,
+    "pickTeamId": 238,
+    "result": 0
   },
   {
-    "id": 401237094,
+    "id": 113,
     "homeScore": 14,
     "awayScore": 21,
     "weekNum": 5,
@@ -3839,10 +4175,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
       ]
-    }
+    },
+    "gameId": 401237094,
+    "pickTeamId": 344,
+    "result": 0
   },
   {
-    "id": 401234598,
+    "id": 114,
     "homeScore": 41,
     "awayScore": 23,
     "weekNum": 5,
@@ -3873,10 +4212,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png"
       ]
-    }
+    },
+    "gameId": 401234598,
+    "pickTeamId": 228,
+    "result": 1
   },
   {
-    "id": 401212523,
+    "id": 115,
     "homeScore": 49,
     "awayScore": 31,
     "weekNum": 6,
@@ -3907,10 +4249,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
       ]
-    }
+    },
+    "gameId": 401212523,
+    "pickTeamId": 248,
+    "result": 1
   },
   {
-    "id": 401234601,
+    "id": 116,
     "homeScore": 46,
     "awayScore": 27,
     "weekNum": 6,
@@ -3941,10 +4286,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
       ]
-    }
+    },
+    "gameId": 401234601,
+    "pickTeamId": 59,
+    "result": 1
   },
   {
-    "id": 401207215,
+    "id": 117,
     "homeScore": 40,
     "awayScore": 7,
     "weekNum": 6,
@@ -3975,10 +4323,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png"
       ]
-    }
+    },
+    "gameId": 401207215,
+    "pickTeamId": 2335,
+    "result": 1
   },
   {
-    "id": 401237102,
+    "id": 118,
     "homeScore": 41,
     "awayScore": 38,
     "weekNum": 6,
@@ -4009,10 +4360,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
       ]
-    }
+    },
+    "gameId": 401237102,
+    "pickTeamId": 245,
+    "result": 1
   },
   {
-    "id": 401234607,
+    "id": 119,
     "homeScore": 56,
     "awayScore": 45,
     "weekNum": 6,
@@ -4043,10 +4397,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
       ]
-    }
+    },
+    "gameId": 401234607,
+    "pickTeamId": 153,
+    "result": 1
   },
   {
-    "id": 401234608,
+    "id": 120,
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 6,
@@ -4077,10 +4434,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
       ]
-    }
+    },
+    "gameId": 401234608,
+    "pickTeamId": 258,
+    "result": 0
   },
   {
-    "id": 401237106,
+    "id": 121,
     "homeScore": 7,
     "awayScore": 41,
     "weekNum": 6,
@@ -4111,10 +4471,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
       ]
-    }
+    },
+    "gameId": 401237106,
+    "pickTeamId": 238,
+    "result": 0
   },
   {
-    "id": 401237105,
+    "id": 122,
     "homeScore": 41,
     "awayScore": 45,
     "weekNum": 6,
@@ -4145,10 +4508,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
       ]
-    }
+    },
+    "gameId": 401237105,
+    "pickTeamId": 99,
+    "result": 0
   },
   {
-    "id": 401236005,
+    "id": 123,
     "homeScore": 53,
     "awayScore": 45,
     "weekNum": 6,
@@ -4179,10 +4545,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
       ]
-    }
+    },
+    "gameId": 401236005,
+    "pickTeamId": 201,
+    "result": 1
   },
   {
-    "id": 401234605,
+    "id": 124,
     "homeScore": 24,
     "awayScore": 38,
     "weekNum": 6,
@@ -4213,10 +4582,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
       ]
-    }
+    },
+    "gameId": 401234605,
+    "pickTeamId": 183,
+    "result": 0
   },
   {
-    "id": 401240114,
+    "id": 125,
     "homeScore": 14,
     "awayScore": 9,
     "weekNum": 6,
@@ -4247,10 +4619,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2643.png"
       ]
-    }
+    },
+    "gameId": 401240114,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401240997,
+    "id": 126,
     "homeScore": 27,
     "awayScore": 20,
     "weekNum": 6,
@@ -4281,10 +4656,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png"
       ]
-    }
+    },
+    "gameId": 401240997,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401246425,
+    "id": 127,
     "homeScore": 50,
     "awayScore": 27,
     "weekNum": 6,
@@ -4315,10 +4693,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2110.png"
       ]
-    }
+    },
+    "gameId": 401246425,
+    "pickTeamId": 2032,
+    "result": 1
   },
   {
-    "id": 401215308,
+    "id": 128,
     "homeScore": 37,
     "awayScore": 17,
     "weekNum": 6,
@@ -4349,10 +4730,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/326.png"
       ]
-    }
+    },
+    "gameId": 401215308,
+    "pickTeamId": 2653,
+    "result": 1
   },
   {
-    "id": 401236003,
+    "id": 129,
     "homeScore": 31,
     "awayScore": 15,
     "weekNum": 6,
@@ -4383,10 +4767,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
       ]
-    }
+    },
+    "gameId": 401236003,
+    "pickTeamId": 66,
+    "result": 1
   },
   {
-    "id": 401237103,
+    "id": 130,
     "homeScore": 44,
     "awayScore": 21,
     "weekNum": 6,
@@ -4417,10 +4804,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
       ]
-    }
+    },
+    "gameId": 401237103,
+    "pickTeamId": 61,
+    "result": 1
   },
   {
-    "id": 401207143,
+    "id": 131,
     "homeScore": 28,
     "awayScore": 31,
     "weekNum": 6,
@@ -4451,10 +4841,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
       ]
-    }
+    },
+    "gameId": 401207143,
+    "pickTeamId": 2229,
+    "result": 0
   },
   {
-    "id": 401237101,
+    "id": 132,
     "homeScore": 30,
     "awayScore": 28,
     "weekNum": 6,
@@ -4485,10 +4878,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
       ]
-    }
+    },
+    "gameId": 401237101,
+    "pickTeamId": 2,
+    "result": 1
   },
   {
-    "id": 401234603,
+    "id": 133,
     "homeScore": 31,
     "awayScore": 30,
     "weekNum": 6,
@@ -4519,10 +4915,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/221.png"
       ]
-    }
+    },
+    "gameId": 401234603,
+    "pickTeamId": 103,
+    "result": 1
   },
   {
-    "id": 401236004,
+    "id": 134,
     "homeScore": 14,
     "awayScore": 21,
     "weekNum": 6,
@@ -4553,10 +4952,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
       ]
-    }
+    },
+    "gameId": 401236004,
+    "pickTeamId": 2628,
+    "result": 0
   },
   {
-    "id": 401212515,
+    "id": 135,
     "homeScore": 31,
     "awayScore": 29,
     "weekNum": 6,
@@ -4587,10 +4989,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/218.png"
       ]
-    }
+    },
+    "gameId": 401212515,
+    "pickTeamId": 2426,
+    "result": 1
   },
   {
-    "id": 401212477,
+    "id": 136,
     "homeScore": 24,
     "awayScore": 44,
     "weekNum": 6,
@@ -4621,10 +5026,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/151.png"
       ]
-    }
+    },
+    "gameId": 401212477,
+    "pickTeamId": 58,
+    "result": 0
   },
   {
-    "id": 401234606,
+    "id": 137,
     "homeScore": 42,
     "awayScore": 26,
     "weekNum": 6,
@@ -4655,10 +5063,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/52.png"
       ]
-    }
+    },
+    "gameId": 401234606,
+    "pickTeamId": 87,
+    "result": 1
   },
   {
-    "id": 401234604,
+    "id": 138,
     "homeScore": 42,
     "awayScore": 17,
     "weekNum": 6,
@@ -4689,10 +5100,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
       ]
-    }
+    },
+    "gameId": 401234604,
+    "pickTeamId": 228,
+    "result": 1
   },
   {
-    "id": 401237100,
+    "id": 139,
     "homeScore": 48,
     "awayScore": 63,
     "weekNum": 6,
@@ -4723,10 +5137,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
       ]
-    }
+    },
+    "gameId": 401237100,
+    "pickTeamId": 145,
+    "result": 0
   },
   {
-    "id": 401237104,
+    "id": 140,
     "homeScore": 24,
     "awayScore": 2,
     "weekNum": 6,
@@ -4757,10 +5174,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
       ]
-    }
+    },
+    "gameId": 401237104,
+    "pickTeamId": 96,
+    "result": 1
   },
   {
-    "id": 401207145,
+    "id": 141,
     "homeScore": 21,
     "awayScore": 17,
     "weekNum": 6,
@@ -4791,10 +5211,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
       ]
-    }
+    },
+    "gameId": 401207145,
+    "pickTeamId": 2348,
+    "result": 1
   },
   {
-    "id": 401207146,
+    "id": 142,
     "homeScore": 14,
     "awayScore": 38,
     "weekNum": 6,
@@ -4825,10 +5248,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/276.png"
       ]
-    }
+    },
+    "gameId": 401207146,
+    "pickTeamId": 98,
+    "result": 0
   },
   {
-    "id": 401207142,
+    "id": 143,
     "homeScore": 21,
     "awayScore": 49,
     "weekNum": 6,
@@ -4859,10 +5285,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2429.png"
       ]
-    }
+    },
+    "gameId": 401207142,
+    "pickTeamId": 249,
+    "result": 0
   },
   {
-    "id": 401215311,
+    "id": 144,
     "homeScore": 27,
     "awayScore": 30,
     "weekNum": 7,
@@ -4893,10 +5322,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/324.png"
       ]
-    }
+    },
+    "gameId": 401215311,
+    "pickTeamId": 309,
+    "result": 0
   },
   {
-    "id": 401215310,
+    "id": 145,
     "homeScore": 59,
     "awayScore": 52,
     "weekNum": 7,
@@ -4927,10 +5359,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2247.png"
       ]
-    }
+    },
+    "gameId": 401215310,
+    "pickTeamId": 2032,
+    "result": 1
   },
   {
-    "id": 401212487,
+    "id": 146,
     "homeScore": 34,
     "awayScore": 37,
     "weekNum": 7,
@@ -4961,10 +5396,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
       ]
-    }
+    },
+    "gameId": 401212487,
+    "pickTeamId": 2655,
+    "result": 0
   },
   {
-    "id": 401212551,
+    "id": 147,
     "homeScore": 26,
     "awayScore": 43,
     "weekNum": 7,
@@ -4995,10 +5433,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
       ]
-    }
+    },
+    "gameId": 401212551,
+    "pickTeamId": 248,
+    "result": 0
   },
   {
-    "id": 401215313,
+    "id": 148,
     "homeScore": 30,
     "awayScore": 20,
     "weekNum": 7,
@@ -5029,10 +5470,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/326.png"
       ]
-    }
+    },
+    "gameId": 401215313,
+    "pickTeamId": 6,
+    "result": 1
   },
   {
-    "id": 401234614,
+    "id": 149,
     "homeScore": 31,
     "awayScore": 19,
     "weekNum": 7,
@@ -5063,10 +5507,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/221.png"
       ]
-    }
+    },
+    "gameId": 401234614,
+    "pickTeamId": 2390,
+    "result": 1
   },
   {
-    "id": 401234615,
+    "id": 150,
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 7,
@@ -5097,10 +5544,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2335.png"
       ]
-    }
+    },
+    "gameId": 401234615,
+    "pickTeamId": 183,
+    "result": 0
   },
   {
-    "id": 401237109,
+    "id": 151,
     "homeScore": 30,
     "awayScore": 22,
     "weekNum": 7,
@@ -5131,10 +5581,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
       ]
-    }
+    },
+    "gameId": 401237109,
+    "pickTeamId": 2579,
+    "result": 1
   },
   {
-    "id": 401236007,
+    "id": 152,
     "homeScore": 38,
     "awayScore": 17,
     "weekNum": 7,
@@ -5165,10 +5618,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
       ]
-    }
+    },
+    "gameId": 401236007,
+    "pickTeamId": 277,
+    "result": 1
   },
   {
-    "id": 401234610,
+    "id": 153,
     "homeScore": 7,
     "awayScore": 73,
     "weekNum": 7,
@@ -5199,10 +5655,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
       ]
-    }
+    },
+    "gameId": 401234610,
+    "pickTeamId": 59,
+    "result": 0
   },
   {
-    "id": 401212478,
+    "id": 154,
     "homeScore": 39,
     "awayScore": 37,
     "weekNum": 7,
@@ -5233,10 +5692,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/58.png"
       ]
-    }
+    },
+    "gameId": 401212478,
+    "pickTeamId": 218,
+    "result": 1
   },
   {
-    "id": 401212548,
+    "id": 155,
     "homeScore": 23,
     "awayScore": 27,
     "weekNum": 7,
@@ -5267,10 +5729,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
       ]
-    }
+    },
+    "gameId": 401212548,
+    "pickTeamId": 151,
+    "result": 0
   },
   {
-    "id": 401237111,
+    "id": 156,
     "homeScore": 7,
     "awayScore": 34,
     "weekNum": 7,
@@ -5301,10 +5766,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
       ]
-    }
+    },
+    "gameId": 401237111,
+    "pickTeamId": 2633,
+    "result": 0
   },
   {
-    "id": 401207153,
+    "id": 157,
     "homeScore": 37,
     "awayScore": 14,
     "weekNum": 7,
@@ -5335,10 +5803,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
       ]
-    }
+    },
+    "gameId": 401207153,
+    "pickTeamId": 5,
+    "result": 1
   },
   {
-    "id": 401240115,
+    "id": 158,
     "homeScore": 16,
     "awayScore": 28,
     "weekNum": 7,
@@ -5369,10 +5840,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
       ]
-    }
+    },
+    "gameId": 401240115,
+    "pickTeamId": 2636,
+    "result": 0
   },
   {
-    "id": 401234613,
+    "id": 159,
     "homeScore": 12,
     "awayScore": 7,
     "weekNum": 7,
@@ -5403,10 +5877,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
       ]
-    }
+    },
+    "gameId": 401234613,
+    "pickTeamId": 87,
+    "result": 1
   },
   {
-    "id": 401234611,
+    "id": 160,
     "homeScore": 31,
     "awayScore": 20,
     "weekNum": 7,
@@ -5437,10 +5914,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
       ]
-    }
+    },
+    "gameId": 401234611,
+    "pickTeamId": 152,
+    "result": 1
   },
   {
-    "id": 401212537,
+    "id": 161,
     "homeScore": 50,
     "awayScore": 49,
     "weekNum": 7,
@@ -5471,10 +5951,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"
       ]
-    }
+    },
+    "gameId": 401212537,
+    "pickTeamId": 235,
+    "result": 1
   },
   {
-    "id": 401237108,
+    "id": 162,
     "homeScore": 33,
     "awayScore": 21,
     "weekNum": 7,
@@ -5505,10 +5988,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
       ]
-    }
+    },
+    "gameId": 401237108,
+    "pickTeamId": 8,
+    "result": 1
   },
   {
-    "id": 401239872,
+    "id": 163,
     "homeScore": 31,
     "awayScore": 29,
     "weekNum": 7,
@@ -5539,10 +6025,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2198.png"
       ]
-    }
+    },
+    "gameId": 401239872,
+    "pickTeamId": 2653,
+    "result": 1
   },
   {
-    "id": 401234616,
+    "id": 164,
     "homeScore": 40,
     "awayScore": 23,
     "weekNum": 7,
@@ -5573,10 +6062,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png"
       ]
-    }
+    },
+    "gameId": 401234616,
+    "pickTeamId": 154,
+    "result": 1
   },
   {
-    "id": 401250215,
+    "id": 165,
     "homeScore": 41,
     "awayScore": 0,
     "weekNum": 7,
@@ -5607,10 +6099,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png"
       ]
-    }
+    },
+    "gameId": 401250215,
+    "pickTeamId": 290,
+    "result": 1
   },
   {
-    "id": 401237112,
+    "id": 166,
     "homeScore": 14,
     "awayScore": 28,
     "weekNum": 7,
@@ -5641,10 +6136,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png"
       ]
-    }
+    },
+    "gameId": 401237112,
+    "pickTeamId": 344,
+    "result": 0
   },
   {
-    "id": 401207150,
+    "id": 167,
     "homeScore": 35,
     "awayScore": 52,
     "weekNum": 7,
@@ -5675,10 +6173,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png"
       ]
-    }
+    },
+    "gameId": 401207150,
+    "pickTeamId": 2393,
+    "result": 0
   },
   {
-    "id": 401207149,
+    "id": 168,
     "homeScore": 17,
     "awayScore": 35,
     "weekNum": 7,
@@ -5709,10 +6210,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/276.png"
       ]
-    }
+    },
+    "gameId": 401207149,
+    "pickTeamId": 2348,
+    "result": 0
   },
   {
-    "id": 401234612,
+    "id": 169,
     "homeScore": 31,
     "awayScore": 28,
     "weekNum": 7,
@@ -5743,10 +6247,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/153.png"
       ]
-    }
+    },
+    "gameId": 401234612,
+    "pickTeamId": 52,
+    "result": 1
   },
   {
-    "id": 401234609,
+    "id": 170,
     "homeScore": 40,
     "awayScore": 14,
     "weekNum": 7,
@@ -5777,10 +6284,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
       ]
-    }
+    },
+    "gameId": 401234609,
+    "pickTeamId": 259,
+    "result": 1
   },
   {
-    "id": 401237107,
+    "id": 171,
     "homeScore": 41,
     "awayScore": 24,
     "weekNum": 7,
@@ -5811,10 +6321,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
       ]
-    }
+    },
+    "gameId": 401237107,
+    "pickTeamId": 333,
+    "result": 1
   },
   {
-    "id": 401240642,
+    "id": 172,
     "homeScore": 45,
     "awayScore": 17,
     "weekNum": 8,
@@ -5845,10 +6358,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
       ]
-    }
+    },
+    "gameId": 401240642,
+    "pickTeamId": 2026,
+    "result": 1
   },
   {
-    "id": 401250783,
+    "id": 173,
     "homeScore": 10,
     "awayScore": 19,
     "weekNum": 8,
@@ -5879,10 +6395,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/55.png"
       ]
-    }
+    },
+    "gameId": 401250783,
+    "pickTeamId": 2229,
+    "result": 0
   },
   {
-    "id": 401212479,
+    "id": 174,
     "homeScore": 13,
     "awayScore": 42,
     "weekNum": 8,
@@ -5913,10 +6432,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/202.png"
       ]
-    }
+    },
+    "gameId": 401212479,
+    "pickTeamId": 58,
+    "result": 0
   },
   {
-    "id": 401238036,
+    "id": 175,
     "homeScore": 20,
     "awayScore": 24,
     "weekNum": 8,
@@ -5947,10 +6469,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
       ]
-    }
+    },
+    "gameId": 401238036,
+    "pickTeamId": 5,
+    "result": 0
   },
   {
-    "id": 401247297,
+    "id": 176,
     "homeScore": 45,
     "awayScore": 7,
     "weekNum": 8,
@@ -5981,10 +6506,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
       ]
-    }
+    },
+    "gameId": 401247297,
+    "pickTeamId": 275,
+    "result": 1
   },
   {
-    "id": 401237115,
+    "id": 177,
     "homeScore": 28,
     "awayScore": 35,
     "weekNum": 8,
@@ -6015,10 +6543,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
       ]
-    }
+    },
+    "gameId": 401237115,
+    "pickTeamId": 145,
+    "result": 0
   },
   {
-    "id": 401236010,
+    "id": 178,
     "homeScore": 55,
     "awayScore": 14,
     "weekNum": 8,
@@ -6049,10 +6580,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
       ]
-    }
+    },
+    "gameId": 401236010,
+    "pickTeamId": 2306,
+    "result": 1
   },
   {
-    "id": 401234619,
+    "id": 179,
     "homeScore": 48,
     "awayScore": 16,
     "weekNum": 8,
@@ -6083,10 +6617,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/52.png"
       ]
-    }
+    },
+    "gameId": 401234619,
+    "pickTeamId": 97,
+    "result": 1
   },
   {
-    "id": 401207154,
+    "id": 180,
     "homeScore": 38,
     "awayScore": 28,
     "weekNum": 8,
@@ -6117,10 +6654,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
       ]
-    }
+    },
+    "gameId": 401207154,
+    "pickTeamId": 2429,
+    "result": 1
   },
   {
-    "id": 401212516,
+    "id": 181,
     "homeScore": 41,
     "awayScore": 29,
     "weekNum": 8,
@@ -6151,10 +6691,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/218.png"
       ]
-    }
+    },
+    "gameId": 401212516,
+    "pickTeamId": 235,
+    "result": 1
   },
   {
-    "id": 401215316,
+    "id": 182,
     "homeScore": 28,
     "awayScore": 14,
     "weekNum": 8,
@@ -6185,10 +6728,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/290.png"
       ]
-    }
+    },
+    "gameId": 401215316,
+    "pickTeamId": 324,
+    "result": 1
   },
   {
-    "id": 401234621,
+    "id": 183,
     "homeScore": 48,
     "awayScore": 21,
     "weekNum": 8,
@@ -6219,10 +6765,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
       ]
-    }
+    },
+    "gameId": 401234621,
+    "pickTeamId": 153,
+    "result": 1
   },
   {
-    "id": 401247299,
+    "id": 184,
     "homeScore": 27,
     "awayScore": 38,
     "weekNum": 8,
@@ -6253,10 +6802,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/164.png"
       ]
-    }
+    },
+    "gameId": 401247299,
+    "pickTeamId": 127,
+    "result": 0
   },
   {
-    "id": 401236011,
+    "id": 185,
     "homeScore": 14,
     "awayScore": 33,
     "weekNum": 8,
@@ -6287,10 +6839,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
       ]
-    }
+    },
+    "gameId": 401236011,
+    "pickTeamId": 2628,
+    "result": 0
   },
   {
-    "id": 401247293,
+    "id": 186,
     "homeScore": 52,
     "awayScore": 17,
     "weekNum": 8,
@@ -6321,10 +6876,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
       ]
-    }
+    },
+    "gameId": 401247293,
+    "pickTeamId": 194,
+    "result": 1
   },
   {
-    "id": 401240116,
+    "id": 187,
     "homeScore": 49,
     "awayScore": 3,
     "weekNum": 8,
@@ -6355,10 +6913,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2382.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2382.png"
       ]
-    }
+    },
+    "gameId": 401240116,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401234618,
+    "id": 188,
     "homeScore": 47,
     "awayScore": 21,
     "weekNum": 8,
@@ -6389,10 +6950,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
       ]
-    }
+    },
+    "gameId": 401234618,
+    "pickTeamId": 228,
+    "result": 1
   },
   {
-    "id": 401207160,
+    "id": 189,
     "homeScore": 56,
     "awayScore": 35,
     "weekNum": 8,
@@ -6423,10 +6987,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2572.png"
       ]
-    }
+    },
+    "gameId": 401207160,
+    "pickTeamId": 2335,
+    "result": 1
   },
   {
-    "id": 401212524,
+    "id": 190,
     "homeScore": 51,
     "awayScore": 34,
     "weekNum": 8,
@@ -6457,10 +7024,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
       ]
-    }
+    },
+    "gameId": 401212524,
+    "pickTeamId": 2116,
+    "result": 1
   },
   {
-    "id": 401207156,
+    "id": 191,
     "homeScore": 20,
     "awayScore": 9,
     "weekNum": 8,
@@ -6491,10 +7061,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
       ]
-    }
+    },
+    "gameId": 401207156,
+    "pickTeamId": 276,
+    "result": 1
   },
   {
-    "id": 401247295,
+    "id": 192,
     "homeScore": 36,
     "awayScore": 35,
     "weekNum": 8,
@@ -6525,10 +7098,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png"
       ]
-    }
+    },
+    "gameId": 401247295,
+    "pickTeamId": 84,
+    "result": 1
   },
   {
-    "id": 401236008,
+    "id": 193,
     "homeScore": 27,
     "awayScore": 16,
     "weekNum": 8,
@@ -6559,10 +7135,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png"
       ]
-    }
+    },
+    "gameId": 401236008,
+    "pickTeamId": 251,
+    "result": 1
   },
   {
-    "id": 401212552,
+    "id": 194,
     "homeScore": 21,
     "awayScore": 37,
     "weekNum": 8,
@@ -6593,10 +7172,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/248.png"
       ]
-    }
+    },
+    "gameId": 401212552,
+    "pickTeamId": 2426,
+    "result": 0
   },
   {
-    "id": 401207158,
+    "id": 195,
     "homeScore": 34,
     "awayScore": 40,
     "weekNum": 8,
@@ -6627,10 +7209,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
       ]
-    }
+    },
+    "gameId": 401207158,
+    "pickTeamId": 242,
+    "result": 0
   },
   {
-    "id": 401236009,
+    "id": 196,
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 8,
@@ -6661,10 +7246,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/66.png"
       ]
-    }
+    },
+    "gameId": 401236009,
+    "pickTeamId": 197,
+    "result": 1
   },
   {
-    "id": 401247296,
+    "id": 197,
     "homeScore": 24,
     "awayScore": 20,
     "weekNum": 8,
@@ -6695,10 +7283,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
       ]
-    }
+    },
+    "gameId": 401247296,
+    "pickTeamId": 2509,
+    "result": 1
   },
   {
-    "id": 401234623,
+    "id": 198,
     "homeScore": 23,
     "awayScore": 16,
     "weekNum": 8,
@@ -6729,10 +7320,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
       ]
-    }
+    },
+    "gameId": 401234623,
+    "pickTeamId": 154,
+    "result": 1
   },
   {
-    "id": 401237114,
+    "id": 199,
     "homeScore": 17,
     "awayScore": 48,
     "weekNum": 8,
@@ -6763,10 +7357,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
       ]
-    }
+    },
+    "gameId": 401237114,
+    "pickTeamId": 2633,
+    "result": 0
   },
   {
-    "id": 401234622,
+    "id": 200,
     "homeScore": 3,
     "awayScore": 45,
     "weekNum": 8,
@@ -6797,10 +7394,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"
       ]
-    }
+    },
+    "gameId": 401234622,
+    "pickTeamId": 221,
+    "result": 0
   },
   {
-    "id": 401215317,
+    "id": 201,
     "homeScore": 34,
     "awayScore": 36,
     "weekNum": 8,
@@ -6831,10 +7431,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2247.png"
       ]
-    }
+    },
+    "gameId": 401215317,
+    "pickTeamId": 2653,
+    "result": 0
   },
   {
-    "id": 401207102,
+    "id": 202,
     "homeScore": 13,
     "awayScore": 10,
     "weekNum": 8,
@@ -6865,10 +7468,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/236.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/236.png"
       ]
-    }
+    },
+    "gameId": 401207102,
+    "pickTeamId": 98,
+    "result": 1
   },
   {
-    "id": 401234617,
+    "id": 203,
     "homeScore": 48,
     "awayScore": 27,
     "weekNum": 8,
@@ -6899,10 +7505,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png"
       ]
-    }
+    },
+    "gameId": 401234617,
+    "pickTeamId": 103,
+    "result": 1
   },
   {
-    "id": 401237122,
+    "id": 204,
     "homeScore": 20,
     "awayScore": 10,
     "weekNum": 8,
@@ -6933,10 +7542,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
       ]
-    }
+    },
+    "gameId": 401237122,
+    "pickTeamId": 142,
+    "result": 1
   },
   {
-    "id": 401236012,
+    "id": 205,
     "homeScore": 34,
     "awayScore": 27,
     "weekNum": 8,
@@ -6967,10 +7579,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/277.png"
       ]
-    }
+    },
+    "gameId": 401236012,
+    "pickTeamId": 2641,
+    "result": 1
   },
   {
-    "id": 401248997,
+    "id": 206,
     "homeScore": 42,
     "awayScore": 13,
     "weekNum": 8,
@@ -7001,10 +7616,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/328.png"
       ]
-    }
+    },
+    "gameId": 401248997,
+    "pickTeamId": 68,
+    "result": 1
   },
   {
-    "id": 401237118,
+    "id": 207,
     "homeScore": 52,
     "awayScore": 24,
     "weekNum": 8,
@@ -7035,10 +7653,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
       ]
-    }
+    },
+    "gameId": 401237118,
+    "pickTeamId": 99,
+    "result": 1
   },
   {
-    "id": 401250784,
+    "id": 208,
     "homeScore": 38,
     "awayScore": 14,
     "weekNum": 8,
@@ -7069,10 +7690,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png"
       ]
-    }
+    },
+    "gameId": 401250784,
+    "pickTeamId": 6,
+    "result": 1
   },
   {
-    "id": 401248998,
+    "id": 209,
     "homeScore": 37,
     "awayScore": 34,
     "weekNum": 8,
@@ -7103,10 +7727,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2751.png"
       ]
-    }
+    },
+    "gameId": 401248998,
+    "pickTeamId": 2440,
+    "result": 1
   },
   {
-    "id": 401247294,
+    "id": 210,
     "homeScore": 24,
     "awayScore": 49,
     "weekNum": 8,
@@ -7137,10 +7764,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png"
       ]
-    }
+    },
+    "gameId": 401247294,
+    "pickTeamId": 135,
+    "result": 0
   },
   {
-    "id": 401248994,
+    "id": 211,
     "homeScore": 19,
     "awayScore": 34,
     "weekNum": 8,
@@ -7171,10 +7801,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/62.png"
       ]
-    }
+    },
+    "gameId": 401248994,
+    "pickTeamId": 278,
+    "result": 0
   },
   {
-    "id": 401247298,
+    "id": 212,
     "homeScore": 43,
     "awayScore": 3,
     "weekNum": 8,
@@ -7205,10 +7838,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/120.png"
       ]
-    }
+    },
+    "gameId": 401247298,
+    "pickTeamId": 77,
+    "result": 1
   },
   {
-    "id": 401207157,
+    "id": 213,
     "homeScore": 27,
     "awayScore": 26,
     "weekNum": 8,
@@ -7239,10 +7875,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
       ]
-    }
+    },
+    "gameId": 401207157,
+    "pickTeamId": 2636,
+    "result": 1
   },
   {
-    "id": 401234620,
+    "id": 214,
     "homeScore": 19,
     "awayScore": 14,
     "weekNum": 8,
@@ -7273,10 +7912,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png"
       ]
-    }
+    },
+    "gameId": 401234620,
+    "pickTeamId": 2390,
+    "result": 1
   },
   {
-    "id": 401212488,
+    "id": 215,
     "homeScore": 13,
     "awayScore": 42,
     "weekNum": 8,
@@ -7307,10 +7949,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2132.png"
       ]
-    }
+    },
+    "gameId": 401212488,
+    "pickTeamId": 2567,
+    "result": 0
   },
   {
-    "id": 401240998,
+    "id": 216,
     "homeScore": 52,
     "awayScore": 14,
     "weekNum": 8,
@@ -7341,10 +7986,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/326.png"
       ]
-    }
+    },
+    "gameId": 401240998,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401248993,
+    "id": 217,
     "homeScore": 17,
     "awayScore": 6,
     "weekNum": 8,
@@ -7375,10 +8023,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2005.png"
       ]
-    }
+    },
+    "gameId": 401248993,
+    "pickTeamId": 23,
+    "result": 1
   },
   {
-    "id": 401248996,
+    "id": 218,
     "homeScore": 34,
     "awayScore": 6,
     "weekNum": 8,
@@ -7409,10 +8060,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2439.png"
       ]
-    }
+    },
+    "gameId": 401248996,
+    "pickTeamId": 21,
+    "result": 1
   },
   {
-    "id": 401215321,
+    "id": 219,
     "homeScore": 24,
     "awayScore": 17,
     "weekNum": 9,
@@ -7443,10 +8097,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/6.png"
       ]
-    }
+    },
+    "gameId": 401215321,
+    "pickTeamId": 290,
+    "result": 1
   },
   {
-    "id": 401249000,
+    "id": 220,
     "homeScore": 38,
     "awayScore": 17,
     "weekNum": 9,
@@ -7477,10 +8134,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/36.png"
       ]
-    }
+    },
+    "gameId": 401249000,
+    "pickTeamId": 278,
+    "result": 1
   },
   {
-    "id": 401247302,
+    "id": 221,
     "homeScore": 45,
     "awayScore": 44,
     "weekNum": 9,
@@ -7511,10 +8171,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/135.png"
       ]
-    }
+    },
+    "gameId": 401247302,
+    "pickTeamId": 120,
+    "result": 1
   },
   {
-    "id": 401212533,
+    "id": 222,
     "homeScore": 34,
     "awayScore": 30,
     "weekNum": 9,
@@ -7545,10 +8208,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/151.png"
       ]
-    }
+    },
+    "gameId": 401212533,
+    "pickTeamId": 202,
+    "result": 1
   },
   {
-    "id": 401249001,
+    "id": 223,
     "homeScore": 31,
     "awayScore": 7,
     "weekNum": 9,
@@ -7579,10 +8245,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/62.png"
       ]
-    }
+    },
+    "gameId": 401249001,
+    "pickTeamId": 2751,
+    "result": 1
   },
   {
-    "id": 401212517,
+    "id": 224,
     "homeScore": 38,
     "awayScore": 3,
     "weekNum": 9,
@@ -7613,10 +8282,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/218.png"
       ]
-    }
+    },
+    "gameId": 401212517,
+    "pickTeamId": 2655,
+    "result": 1
   },
   {
-    "id": 401237117,
+    "id": 225,
     "homeScore": 3,
     "awayScore": 14,
     "weekNum": 9,
@@ -7647,10 +8319,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
       ]
-    }
+    },
+    "gameId": 401237117,
+    "pickTeamId": 96,
+    "result": 0
   },
   {
-    "id": 401247301,
+    "id": 226,
     "homeScore": 24,
     "awayScore": 31,
     "weekNum": 9,
@@ -7681,10 +8356,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2509.png"
       ]
-    }
+    },
+    "gameId": 401247301,
+    "pickTeamId": 356,
+    "result": 0
   },
   {
-    "id": 401247305,
+    "id": 227,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 9,
@@ -7715,10 +8393,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/127.png"
       ]
-    }
+    },
+    "gameId": 401247305,
+    "pickTeamId": 130,
+    "result": 0
   },
   {
-    "id": 401234629,
+    "id": 228,
     "homeScore": 14,
     "awayScore": 38,
     "weekNum": 9,
@@ -7749,10 +8430,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/154.png"
       ]
-    }
+    },
+    "gameId": 401234629,
+    "pickTeamId": 183,
+    "result": 0
   },
   {
-    "id": 401236014,
+    "id": 229,
     "homeScore": 22,
     "awayScore": 52,
     "weekNum": 9,
@@ -7783,10 +8467,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/66.png"
       ]
-    }
+    },
+    "gameId": 401236014,
+    "pickTeamId": 2305,
+    "result": 0
   },
   {
-    "id": 401215318,
+    "id": 230,
     "homeScore": 0,
     "awayScore": 51,
     "weekNum": 9,
@@ -7817,10 +8504,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/324.png"
       ]
-    }
+    },
+    "gameId": 401215318,
+    "pickTeamId": 2247,
+    "result": 0
   },
   {
-    "id": 401234624,
+    "id": 231,
     "homeScore": 34,
     "awayScore": 28,
     "weekNum": 9,
@@ -7851,10 +8541,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
       ]
-    }
+    },
+    "gameId": 401234624,
+    "pickTeamId": 228,
+    "result": 1
   },
   {
-    "id": 401212543,
+    "id": 232,
     "homeScore": 49,
     "awayScore": 10,
     "weekNum": 9,
@@ -7885,10 +8578,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/235.png"
       ]
-    }
+    },
+    "gameId": 401212543,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401236015,
+    "id": 233,
     "homeScore": 37,
     "awayScore": 10,
     "weekNum": 9,
@@ -7919,10 +8615,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
       ]
-    }
+    },
+    "gameId": 401236015,
+    "pickTeamId": 277,
+    "result": 1
   },
   {
-    "id": 401207162,
+    "id": 234,
     "homeScore": 24,
     "awayScore": 3,
     "weekNum": 9,
@@ -7953,10 +8652,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png"
       ]
-    }
+    },
+    "gameId": 401207162,
+    "pickTeamId": 2226,
+    "result": 1
   },
   {
-    "id": 401212538,
+    "id": 235,
     "homeScore": 21,
     "awayScore": 44,
     "weekNum": 9,
@@ -7987,10 +8689,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"
       ]
-    }
+    },
+    "gameId": 401212538,
+    "pickTeamId": 248,
+    "result": 0
   },
   {
-    "id": 401207166,
+    "id": 236,
     "homeScore": 6,
     "awayScore": 30,
     "weekNum": 9,
@@ -8021,10 +8726,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/242.png"
       ]
-    }
+    },
+    "gameId": 401207166,
+    "pickTeamId": 2572,
+    "result": 0
   },
   {
-    "id": 401215320,
+    "id": 237,
     "homeScore": 10,
     "awayScore": 38,
     "weekNum": 9,
@@ -8055,10 +8763,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
       ]
-    }
+    },
+    "gameId": 401215320,
+    "pickTeamId": 2032,
+    "result": 0
   },
   {
-    "id": 401236013,
+    "id": 238,
     "homeScore": 23,
     "awayScore": 33,
     "weekNum": 9,
@@ -8089,10 +8800,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2628.png"
       ]
-    }
+    },
+    "gameId": 401236013,
+    "pickTeamId": 239,
+    "result": 0
   },
   {
-    "id": 401247303,
+    "id": 239,
     "homeScore": 20,
     "awayScore": 21,
     "weekNum": 9,
@@ -8123,10 +8837,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
       ]
-    }
+    },
+    "gameId": 401247303,
+    "pickTeamId": 2294,
+    "result": 0
   },
   {
-    "id": 401234626,
+    "id": 240,
     "homeScore": 13,
     "awayScore": 31,
     "weekNum": 9,
@@ -8157,10 +8874,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"
       ]
-    }
+    },
+    "gameId": 401234626,
+    "pickTeamId": 59,
+    "result": 0
   },
   {
-    "id": 401237121,
+    "id": 241,
     "homeScore": 48,
     "awayScore": 11,
     "weekNum": 9,
@@ -8191,10 +8911,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
       ]
-    }
+    },
+    "gameId": 401237121,
+    "pickTeamId": 2,
+    "result": 1
   },
   {
-    "id": 401247300,
+    "id": 242,
     "homeScore": 21,
     "awayScore": 37,
     "weekNum": 9,
@@ -8225,10 +8948,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
       ]
-    }
+    },
+    "gameId": 401247300,
+    "pickTeamId": 164,
+    "result": 0
   },
   {
-    "id": 401207163,
+    "id": 243,
     "homeScore": 37,
     "awayScore": 34,
     "weekNum": 9,
@@ -8259,10 +8985,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
       ]
-    }
+    },
+    "gameId": 401207163,
+    "pickTeamId": 2348,
+    "result": 1
   },
   {
-    "id": 401237123,
+    "id": 244,
     "homeScore": 21,
     "awayScore": 54,
     "weekNum": 9,
@@ -8293,10 +9022,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
       ]
-    }
+    },
+    "gameId": 401237123,
+    "pickTeamId": 238,
+    "result": 0
   },
   {
-    "id": 401236017,
+    "id": 245,
     "homeScore": 34,
     "awayScore": 41,
     "weekNum": 9,
@@ -8327,10 +9059,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
       ]
-    }
+    },
+    "gameId": 401236017,
+    "pickTeamId": 197,
+    "result": 0
   },
   {
-    "id": 401234627,
+    "id": 246,
     "homeScore": 35,
     "awayScore": 42,
     "weekNum": 9,
@@ -8361,10 +9096,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
       ]
-    }
+    },
+    "gameId": 401234627,
+    "pickTeamId": 97,
+    "result": 0
   },
   {
-    "id": 401215319,
+    "id": 247,
     "homeScore": 13,
     "awayScore": 31,
     "weekNum": 9,
@@ -8395,10 +9133,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2026.png"
       ]
-    }
+    },
+    "gameId": 401215319,
+    "pickTeamId": 2433,
+    "result": 0
   },
   {
-    "id": 401248999,
+    "id": 248,
     "homeScore": 30,
     "awayScore": 49,
     "weekNum": 9,
@@ -8429,10 +9170,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/68.png"
       ]
-    }
+    },
+    "gameId": 401248999,
+    "pickTeamId": 2005,
+    "result": 0
   },
   {
-    "id": 401237119,
+    "id": 249,
     "homeScore": 41,
     "awayScore": 0,
     "weekNum": 9,
@@ -8463,10 +9207,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
       ]
-    }
+    },
+    "gameId": 401237119,
+    "pickTeamId": 333,
+    "result": 1
   },
   {
-    "id": 401249003,
+    "id": 250,
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 9,
@@ -8497,10 +9244,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/23.png"
       ]
-    }
+    },
+    "gameId": 401249003,
+    "pickTeamId": 167,
+    "result": 0
   },
   {
-    "id": 401234625,
+    "id": 251,
     "homeScore": 53,
     "awayScore": 19,
     "weekNum": 9,
@@ -8531,10 +9281,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2429.png"
       ]
-    }
+    },
+    "gameId": 401234625,
+    "pickTeamId": 150,
+    "result": 1
   },
   {
-    "id": 401237120,
+    "id": 252,
     "homeScore": 42,
     "awayScore": 31,
     "weekNum": 9,
@@ -8565,10 +9318,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
       ]
-    }
+    },
+    "gameId": 401237120,
+    "pickTeamId": 245,
+    "result": 1
   },
   {
-    "id": 401247306,
+    "id": 253,
     "homeScore": 25,
     "awayScore": 38,
     "weekNum": 9,
@@ -8599,10 +9355,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png"
       ]
-    }
+    },
+    "gameId": 401247306,
+    "pickTeamId": 213,
+    "result": 0
   },
   {
-    "id": 401237116,
+    "id": 254,
     "homeScore": 41,
     "awayScore": 17,
     "weekNum": 9,
@@ -8633,10 +9392,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
       ]
-    }
+    },
+    "gameId": 401237116,
+    "pickTeamId": 57,
+    "result": 1
   },
   {
-    "id": 401212489,
+    "id": 255,
     "homeScore": 51,
     "awayScore": 37,
     "weekNum": 9,
@@ -8667,10 +9429,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
       ]
-    }
+    },
+    "gameId": 401212489,
+    "pickTeamId": 2567,
+    "result": 1
   },
   {
-    "id": 401236016,
+    "id": 256,
     "homeScore": 28,
     "awayScore": 62,
     "weekNum": 9,
@@ -8701,10 +9466,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
       ]
-    }
+    },
+    "gameId": 401236016,
+    "pickTeamId": 2641,
+    "result": 0
   },
   {
-    "id": 401234628,
+    "id": 257,
     "homeScore": 44,
     "awayScore": 41,
     "weekNum": 9,
@@ -8735,10 +9503,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/153.png"
       ]
-    }
+    },
+    "gameId": 401234628,
+    "pickTeamId": 258,
+    "result": 1
   },
   {
-    "id": 401215322,
+    "id": 258,
     "homeScore": 34,
     "awayScore": 44,
     "weekNum": 9,
@@ -8769,10 +9540,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
       ]
-    }
+    },
+    "gameId": 401215322,
+    "pickTeamId": 326,
+    "result": 0
   },
   {
-    "id": 401249004,
+    "id": 259,
     "homeScore": 7,
     "awayScore": 38,
     "weekNum": 9,
@@ -8803,10 +9577,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/21.png"
       ]
-    }
+    },
+    "gameId": 401249004,
+    "pickTeamId": 328,
+    "result": 0
   },
   {
-    "id": 401239887,
+    "id": 260,
     "homeScore": 41,
     "awayScore": 10,
     "weekNum": 9,
@@ -8837,10 +9614,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
       ]
-    }
+    },
+    "gameId": 401239887,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401249002,
+    "id": 261,
     "homeScore": 19,
     "awayScore": 37,
     "weekNum": 9,
@@ -8871,10 +9651,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2440.png"
       ]
-    }
+    },
+    "gameId": 401249002,
+    "pickTeamId": 2439,
+    "result": 0
   },
   {
-    "id": 401249856,
+    "id": 262,
     "homeScore": 27,
     "awayScore": 23,
     "weekNum": 10,
@@ -8905,10 +9688,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png"
       ]
-    }
+    },
+    "gameId": 401249856,
+    "pickTeamId": 2309,
+    "result": 1
   },
   {
-    "id": 401249857,
+    "id": 263,
     "homeScore": 13,
     "awayScore": 58,
     "weekNum": 10,
@@ -8939,10 +9725,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2711.png"
       ]
-    }
+    },
+    "gameId": 401249857,
+    "pickTeamId": 2006,
+    "result": 0
   },
   {
-    "id": 401249889,
+    "id": 264,
     "homeScore": 38,
     "awayScore": 31,
     "weekNum": 10,
@@ -8973,10 +9762,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2050.png"
       ]
-    }
+    },
+    "gameId": 401249889,
+    "pickTeamId": 193,
+    "result": 1
   },
   {
-    "id": 401249859,
+    "id": 265,
     "homeScore": 30,
     "awayScore": 49,
     "weekNum": 10,
@@ -9007,10 +9799,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2084.png"
       ]
-    }
+    },
+    "gameId": 401249859,
+    "pickTeamId": 2459,
+    "result": 0
   },
   {
-    "id": 401249860,
+    "id": 266,
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 10,
@@ -9041,10 +9836,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/195.png"
       ]
-    }
+    },
+    "gameId": 401249860,
+    "pickTeamId": 2117,
+    "result": 1
   },
   {
-    "id": 401249858,
+    "id": 267,
     "homeScore": 38,
     "awayScore": 3,
     "weekNum": 10,
@@ -9075,10 +9873,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/189.png"
       ]
-    }
+    },
+    "gameId": 401249858,
+    "pickTeamId": 2649,
+    "result": 1
   },
   {
-    "id": 401249009,
+    "id": 268,
     "homeScore": 34,
     "awayScore": 9,
     "weekNum": 10,
@@ -9109,10 +9910,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/328.png"
       ]
-    }
+    },
+    "gameId": 401249009,
+    "pickTeamId": 2440,
+    "result": 1
   },
   {
-    "id": 401249010,
+    "id": 269,
     "homeScore": 34,
     "awayScore": 24,
     "weekNum": 10,
@@ -9143,10 +9947,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2751.png"
       ]
-    }
+    },
+    "gameId": 401249010,
+    "pickTeamId": 36,
+    "result": 1
   },
   {
-    "id": 401234630,
+    "id": 270,
     "homeScore": 41,
     "awayScore": 44,
     "weekNum": 10,
@@ -9177,10 +9984,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
       ]
-    }
+    },
+    "gameId": 401234630,
+    "pickTeamId": 152,
+    "result": 0
   },
   {
-    "id": 401249008,
+    "id": 271,
     "homeScore": 17,
     "awayScore": 28,
     "weekNum": 10,
@@ -9211,10 +10021,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/23.png"
       ]
-    }
+    },
+    "gameId": 401249008,
+    "pickTeamId": 21,
+    "result": 0
   },
   {
-    "id": 401249005,
+    "id": 272,
     "homeScore": 17,
     "awayScore": 51,
     "weekNum": 10,
@@ -9245,10 +10058,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
       ]
-    }
+    },
+    "gameId": 401249005,
+    "pickTeamId": 68,
+    "result": 0
   },
   {
-    "id": 401253924,
+    "id": 273,
     "homeScore": 27,
     "awayScore": 20,
     "weekNum": 10,
@@ -9279,10 +10095,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
       ]
-    }
+    },
+    "gameId": 401253924,
+    "pickTeamId": 309,
+    "result": 1
   },
   {
-    "id": 401212525,
+    "id": 274,
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 10,
@@ -9313,10 +10132,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
       ]
-    }
+    },
+    "gameId": 401212525,
+    "pickTeamId": 151,
+    "result": 0
   },
   {
-    "id": 401215327,
+    "id": 275,
     "homeScore": 52,
     "awayScore": 34,
     "weekNum": 10,
@@ -9347,10 +10169,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png"
       ]
-    }
+    },
+    "gameId": 401215327,
+    "pickTeamId": 2247,
+    "result": 1
   },
   {
-    "id": 401247307,
+    "id": 276,
     "homeScore": 21,
     "awayScore": 13,
     "weekNum": 10,
@@ -9381,10 +10206,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
       ]
-    }
+    },
+    "gameId": 401247307,
+    "pickTeamId": 77,
+    "result": 1
   },
   {
-    "id": 401247309,
+    "id": 277,
     "homeScore": 38,
     "awayScore": 21,
     "weekNum": 10,
@@ -9415,10 +10243,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png"
       ]
-    }
+    },
+    "gameId": 401247309,
+    "pickTeamId": 84,
+    "result": 1
   },
   {
-    "id": 401212480,
+    "id": 278,
     "homeScore": 34,
     "awayScore": 33,
     "weekNum": 10,
@@ -9449,10 +10280,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/58.png"
       ]
-    }
+    },
+    "gameId": 401212480,
+    "pickTeamId": 235,
+    "result": 1
   },
   {
-    "id": 401247313,
+    "id": 279,
     "homeScore": 49,
     "awayScore": 7,
     "weekNum": 10,
@@ -9483,10 +10317,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/127.png"
       ]
-    }
+    },
+    "gameId": 401247313,
+    "pickTeamId": 2294,
+    "result": 1
   },
   {
-    "id": 401212490,
+    "id": 280,
     "homeScore": 23,
     "awayScore": 47,
     "weekNum": 10,
@@ -9517,10 +10354,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
       ]
-    }
+    },
+    "gameId": 401212490,
+    "pickTeamId": 218,
+    "result": 0
   },
   {
-    "id": 401236022,
+    "id": 281,
     "homeScore": 17,
     "awayScore": 13,
     "weekNum": 10,
@@ -9551,10 +10391,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/277.png"
       ]
-    }
+    },
+    "gameId": 401236022,
+    "pickTeamId": 251,
+    "result": 1
   },
   {
-    "id": 401249400,
+    "id": 282,
     "homeScore": 28,
     "awayScore": 27,
     "weekNum": 10,
@@ -9585,10 +10428,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png"
       ]
-    }
+    },
+    "gameId": 401249400,
+    "pickTeamId": 30,
+    "result": 1
   },
   {
-    "id": 401234633,
+    "id": 283,
     "homeScore": 24,
     "awayScore": 56,
     "weekNum": 10,
@@ -9619,10 +10465,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/153.png"
       ]
-    }
+    },
+    "gameId": 401234633,
+    "pickTeamId": 150,
+    "result": 0
   },
   {
-    "id": 401234636,
+    "id": 284,
     "homeScore": 35,
     "awayScore": 38,
     "weekNum": 10,
@@ -9653,10 +10502,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2335.png"
       ]
-    }
+    },
+    "gameId": 401234636,
+    "pickTeamId": 259,
+    "result": 0
   },
   {
-    "id": 401215326,
+    "id": 285,
     "homeScore": 20,
     "awayScore": 13,
     "weekNum": 10,
@@ -9687,10 +10539,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
       ]
-    }
+    },
+    "gameId": 401215326,
+    "pickTeamId": 290,
+    "result": 1
   },
   {
-    "id": 401234631,
+    "id": 286,
     "homeScore": 13,
     "awayScore": 16,
     "weekNum": 10,
@@ -9721,10 +10576,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
       ]
-    }
+    },
+    "gameId": 401234631,
+    "pickTeamId": 183,
+    "result": 0
   },
   {
-    "id": 401251931,
+    "id": 287,
     "homeScore": 51,
     "awayScore": 10,
     "weekNum": 10,
@@ -9755,10 +10613,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png"
       ]
-    }
+    },
+    "gameId": 401251931,
+    "pickTeamId": 276,
+    "result": 1
   },
   {
-    "id": 401215324,
+    "id": 288,
     "homeScore": 17,
     "awayScore": 38,
     "weekNum": 10,
@@ -9789,10 +10650,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2026.png"
       ]
-    }
+    },
+    "gameId": 401215324,
+    "pickTeamId": 326,
+    "result": 0
   },
   {
-    "id": 401240035,
+    "id": 289,
     "homeScore": 24,
     "awayScore": 13,
     "weekNum": 10,
@@ -9823,10 +10687,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2453.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2453.png"
       ]
-    }
+    },
+    "gameId": 401240035,
+    "pickTeamId": 2572,
+    "result": 1
   },
   {
-    "id": 401236019,
+    "id": 290,
     "homeScore": 62,
     "awayScore": 9,
     "weekNum": 10,
@@ -9857,10 +10724,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
       ]
-    }
+    },
+    "gameId": 401236019,
+    "pickTeamId": 201,
+    "result": 1
   },
   {
-    "id": 401212544,
+    "id": 291,
     "homeScore": 38,
     "awayScore": 10,
     "weekNum": 10,
@@ -9891,10 +10761,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/248.png"
       ]
-    }
+    },
+    "gameId": 401212544,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401249006,
+    "id": 292,
     "homeScore": 27,
     "awayScore": 40,
     "weekNum": 10,
@@ -9925,10 +10798,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/278.png"
       ]
-    }
+    },
+    "gameId": 401249006,
+    "pickTeamId": 2439,
+    "result": 0
   },
   {
-    "id": 401236021,
+    "id": 293,
     "homeScore": 34,
     "awayScore": 18,
     "weekNum": 10,
@@ -9959,10 +10835,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
       ]
-    }
+    },
+    "gameId": 401236021,
+    "pickTeamId": 2628,
+    "result": 1
   },
   {
-    "id": 401237126,
+    "id": 294,
     "homeScore": 24,
     "awayScore": 17,
     "weekNum": 10,
@@ -9993,10 +10872,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png"
       ]
-    }
+    },
+    "gameId": 401237126,
+    "pickTeamId": 344,
+    "result": 1
   },
   {
-    "id": 401247312,
+    "id": 295,
     "homeScore": 19,
     "awayScore": 35,
     "weekNum": 10,
@@ -10027,10 +10909,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/120.png"
       ]
-    }
+    },
+    "gameId": 401247312,
+    "pickTeamId": 213,
+    "result": 0
   },
   {
-    "id": 401247308,
+    "id": 296,
     "homeScore": 14,
     "awayScore": 41,
     "weekNum": 10,
@@ -10061,10 +10946,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/135.png"
       ]
-    }
+    },
+    "gameId": 401247308,
+    "pickTeamId": 356,
+    "result": 0
   },
   {
-    "id": 401237125,
+    "id": 297,
     "homeScore": 28,
     "awayScore": 44,
     "weekNum": 10,
@@ -10095,10 +10983,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
       ]
-    }
+    },
+    "gameId": 401237125,
+    "pickTeamId": 61,
+    "result": 0
   },
   {
-    "id": 401234634,
+    "id": 298,
     "homeScore": 17,
     "awayScore": 41,
     "weekNum": 10,
@@ -10129,10 +11020,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/221.png"
       ]
-    }
+    },
+    "gameId": 401234634,
+    "pickTeamId": 52,
+    "result": 0
   },
   {
-    "id": 401236020,
+    "id": 299,
     "homeScore": 18,
     "awayScore": 20,
     "weekNum": 10,
@@ -10163,10 +11057,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
       ]
-    }
+    },
+    "gameId": 401236020,
+    "pickTeamId": 2306,
+    "result": 0
   },
   {
-    "id": 401207169,
+    "id": 300,
     "homeScore": 10,
     "awayScore": 6,
     "weekNum": 10,
@@ -10197,10 +11094,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
       ]
-    }
+    },
+    "gameId": 401207169,
+    "pickTeamId": 2226,
+    "result": 1
   },
   {
-    "id": 401249402,
+    "id": 301,
     "homeScore": 48,
     "awayScore": 42,
     "weekNum": 10,
@@ -10231,10 +11131,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png"
       ]
-    }
+    },
+    "gameId": 401249402,
+    "pickTeamId": 38,
+    "result": 1
   },
   {
-    "id": 401236018,
+    "id": 302,
     "homeScore": 38,
     "awayScore": 31,
     "weekNum": 10,
@@ -10265,10 +11168,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png"
       ]
-    }
+    },
+    "gameId": 401236018,
+    "pickTeamId": 66,
+    "result": 1
   },
   {
-    "id": 401237127,
+    "id": 303,
     "homeScore": 3,
     "awayScore": 48,
     "weekNum": 10,
@@ -10299,10 +11205,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png"
       ]
-    }
+    },
+    "gameId": 401237127,
+    "pickTeamId": 2579,
+    "result": 0
   },
   {
-    "id": 401237124,
+    "id": 304,
     "homeScore": 24,
     "awayScore": 13,
     "weekNum": 10,
@@ -10333,10 +11242,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
       ]
-    }
+    },
+    "gameId": 401237124,
+    "pickTeamId": 8,
+    "result": 1
   },
   {
-    "id": 401234632,
+    "id": 305,
     "homeScore": 47,
     "awayScore": 40,
     "weekNum": 10,
@@ -10367,10 +11279,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
       ]
-    }
+    },
+    "gameId": 401234632,
+    "pickTeamId": 87,
+    "result": 1
   },
   {
-    "id": 401247310,
+    "id": 306,
     "homeScore": 49,
     "awayScore": 27,
     "weekNum": 10,
@@ -10401,10 +11316,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/164.png"
       ]
-    }
+    },
+    "gameId": 401247310,
+    "pickTeamId": 194,
+    "result": 1
   },
   {
-    "id": 401249399,
+    "id": 307,
     "homeScore": 35,
     "awayScore": 14,
     "weekNum": 10,
@@ -10435,10 +11353,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/24.png"
       ]
-    }
+    },
+    "gameId": 401249399,
+    "pickTeamId": 2483,
+    "result": 1
   },
   {
-    "id": 401215325,
+    "id": 308,
     "homeScore": 23,
     "awayScore": 6,
     "weekNum": 10,
@@ -10469,10 +11390,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/6.png"
       ]
-    }
+    },
+    "gameId": 401215325,
+    "pickTeamId": 324,
+    "result": 1
   },
   {
-    "id": 401249397,
+    "id": 309,
     "homeScore": 28,
     "awayScore": 38,
     "weekNum": 10,
@@ -10503,10 +11427,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/265.png"
       ]
-    }
+    },
+    "gameId": 401249397,
+    "pickTeamId": 204,
+    "result": 0
   },
   {
-    "id": 401249007,
+    "id": 310,
     "homeScore": 39,
     "awayScore": 33,
     "weekNum": 10,
@@ -10537,10 +11464,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/167.png"
       ]
-    }
+    },
+    "gameId": 401249007,
+    "pickTeamId": 62,
+    "result": 1
   },
   {
-    "id": 401249861,
+    "id": 311,
     "homeScore": 24,
     "awayScore": 10,
     "weekNum": 11,
@@ -10571,10 +11501,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png"
       ]
-    }
+    },
+    "gameId": 401249861,
+    "pickTeamId": 195,
+    "result": 1
   },
   {
-    "id": 401249862,
+    "id": 312,
     "homeScore": 24,
     "awayScore": 62,
     "weekNum": 11,
@@ -10605,10 +11538,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2309.png"
       ]
-    }
+    },
+    "gameId": 401249862,
+    "pickTeamId": 189,
+    "result": 0
   },
   {
-    "id": 401249890,
+    "id": 313,
     "homeScore": 42,
     "awayScore": 10,
     "weekNum": 11,
@@ -10639,10 +11575,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/193.png"
       ]
-    }
+    },
+    "gameId": 401249890,
+    "pickTeamId": 2084,
+    "result": 1
   },
   {
-    "id": 401249865,
+    "id": 314,
     "homeScore": 38,
     "awayScore": 31,
     "weekNum": 11,
@@ -10673,10 +11612,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png"
       ]
-    }
+    },
+    "gameId": 401249865,
+    "pickTeamId": 2050,
+    "result": 1
   },
   {
-    "id": 401249866,
+    "id": 315,
     "homeScore": 41,
     "awayScore": 38,
     "weekNum": 11,
@@ -10707,10 +11649,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png"
       ]
-    }
+    },
+    "gameId": 401249866,
+    "pickTeamId": 2711,
+    "result": 1
   },
   {
-    "id": 401249864,
+    "id": 316,
     "homeScore": 10,
     "awayScore": 40,
     "weekNum": 11,
@@ -10741,10 +11686,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2117.png"
       ]
-    }
+    },
+    "gameId": 401249864,
+    "pickTeamId": 2459,
+    "result": 0
   },
   {
-    "id": 401249012,
+    "id": 317,
     "homeScore": 52,
     "awayScore": 21,
     "weekNum": 11,
@@ -10775,10 +11723,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/36.png"
       ]
-    }
+    },
+    "gameId": 401249012,
+    "pickTeamId": 68,
+    "result": 1
   },
   {
-    "id": 401207174,
+    "id": 318,
     "homeScore": 19,
     "awayScore": 38,
     "weekNum": 11,
@@ -10809,10 +11760,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
       ]
-    }
+    },
+    "gameId": 401207174,
+    "pickTeamId": 2229,
+    "result": 0
   },
   {
-    "id": 401247317,
+    "id": 319,
     "homeScore": 7,
     "awayScore": 35,
     "weekNum": 11,
@@ -10843,10 +11797,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
       ]
-    }
+    },
+    "gameId": 401247317,
+    "pickTeamId": 135,
+    "result": 0
   },
   {
-    "id": 401212545,
+    "id": 320,
     "homeScore": 55,
     "awayScore": 17,
     "weekNum": 11,
@@ -10877,10 +11834,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/151.png"
       ]
-    }
+    },
+    "gameId": 401212545,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401207176,
+    "id": 321,
     "homeScore": 42,
     "awayScore": 14,
     "weekNum": 11,
@@ -10911,10 +11871,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
       ]
-    }
+    },
+    "gameId": 401207176,
+    "pickTeamId": 276,
+    "result": 1
   },
   {
-    "id": 401207218,
+    "id": 322,
     "homeScore": 58,
     "awayScore": 14,
     "weekNum": 11,
@@ -10945,10 +11908,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2717.png"
       ]
-    }
+    },
+    "gameId": 401207218,
+    "pickTeamId": 2335,
+    "result": 1
   },
   {
-    "id": 401234641,
+    "id": 323,
     "homeScore": 24,
     "awayScore": 25,
     "weekNum": 11,
@@ -10979,10 +11945,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
       ]
-    }
+    },
+    "gameId": 401234641,
+    "pickTeamId": 259,
+    "result": 0
   },
   {
-    "id": 401247316,
+    "id": 324,
     "homeScore": 0,
     "awayScore": 24,
     "weekNum": 11,
@@ -11013,10 +11982,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
       ]
-    }
+    },
+    "gameId": 401247316,
+    "pickTeamId": 127,
+    "result": 0
   },
   {
-    "id": 401234642,
+    "id": 325,
     "homeScore": 59,
     "awayScore": 53,
     "weekNum": 11,
@@ -11047,10 +12019,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/154.png"
       ]
-    }
+    },
+    "gameId": 401234642,
+    "pickTeamId": 153,
+    "result": 1
   },
   {
-    "id": 401247320,
+    "id": 326,
     "homeScore": 30,
     "awayScore": 23,
     "weekNum": 11,
@@ -11081,10 +12056,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png"
       ]
-    }
+    },
+    "gameId": 401247320,
+    "pickTeamId": 158,
+    "result": 1
   },
   {
-    "id": 401207200,
+    "id": 327,
     "homeScore": 38,
     "awayScore": 12,
     "weekNum": 11,
@@ -11115,10 +12093,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
       ]
-    }
+    },
+    "gameId": 401207200,
+    "pickTeamId": 2655,
+    "result": 1
   },
   {
-    "id": 401236024,
+    "id": 328,
     "homeScore": 24,
     "awayScore": 6,
     "weekNum": 11,
@@ -11149,10 +12130,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2628.png"
       ]
-    }
+    },
+    "gameId": 401236024,
+    "pickTeamId": 277,
+    "result": 1
   },
   {
-    "id": 401237132,
+    "id": 329,
     "homeScore": 38,
     "awayScore": 35,
     "weekNum": 11,
@@ -11183,10 +12167,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png"
       ]
-    }
+    },
+    "gameId": 401237132,
+    "pickTeamId": 96,
+    "result": 1
   },
   {
-    "id": 401247314,
+    "id": 330,
     "homeScore": 20,
     "awayScore": 23,
     "weekNum": 11,
@@ -11217,10 +12204,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
       ]
-    }
+    },
+    "gameId": 401247314,
+    "pickTeamId": 164,
+    "result": 0
   },
   {
-    "id": 401215332,
+    "id": 331,
     "homeScore": 38,
     "awayScore": 10,
     "weekNum": 11,
@@ -11251,10 +12241,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/6.png"
       ]
-    }
+    },
+    "gameId": 401215332,
+    "pickTeamId": 309,
+    "result": 1
   },
   {
-    "id": 401249013,
+    "id": 332,
     "homeScore": 16,
     "awayScore": 35,
     "weekNum": 11,
@@ -11285,10 +12278,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/278.png"
       ]
-    }
+    },
+    "gameId": 401249013,
+    "pickTeamId": 328,
+    "result": 0
   },
   {
-    "id": 401215328,
+    "id": 333,
     "homeScore": 17,
     "awayScore": 13,
     "weekNum": 11,
@@ -11319,10 +12315,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2247.png"
       ]
-    }
+    },
+    "gameId": 401215328,
+    "pickTeamId": 2026,
+    "result": 1
   },
   {
-    "id": 401207179,
+    "id": 334,
     "homeScore": 52,
     "awayScore": 21,
     "weekNum": 11,
@@ -11353,10 +12352,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
       ]
-    }
+    },
+    "gameId": 401207179,
+    "pickTeamId": 2636,
+    "result": 1
   },
   {
-    "id": 401257934,
+    "id": 335,
     "homeScore": 31,
     "awayScore": 17,
     "weekNum": 11,
@@ -11387,10 +12389,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
       ]
-    }
+    },
+    "gameId": 401257934,
+    "pickTeamId": 258,
+    "result": 1
   },
   {
-    "id": 401207178,
+    "id": 336,
     "homeScore": 10,
     "awayScore": 7,
     "weekNum": 11,
@@ -11421,10 +12426,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2572.png"
       ]
-    }
+    },
+    "gameId": 401207178,
+    "pickTeamId": 98,
+    "result": 1
   },
   {
-    "id": 401234637,
+    "id": 337,
     "homeScore": 31,
     "awayScore": 45,
     "weekNum": 11,
@@ -11455,10 +12463,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"
       ]
-    }
+    },
+    "gameId": 401234637,
+    "pickTeamId": 103,
+    "result": 0
   },
   {
-    "id": 401215331,
+    "id": 338,
     "homeScore": 40,
     "awayScore": 38,
     "weekNum": 11,
@@ -11489,10 +12500,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/326.png"
       ]
-    }
+    },
+    "gameId": 401215331,
+    "pickTeamId": 290,
+    "result": 1
   },
   {
-    "id": 401249403,
+    "id": 339,
     "homeScore": 30,
     "awayScore": 34,
     "weekNum": 11,
@@ -11523,10 +12537,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/30.png"
       ]
-    }
+    },
+    "gameId": 401249403,
+    "pickTeamId": 12,
+    "result": 0
   },
   {
-    "id": 401249406,
+    "id": 340,
     "homeScore": 32,
     "awayScore": 35,
     "weekNum": 11,
@@ -11557,10 +12574,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png"
       ]
-    }
+    },
+    "gameId": 401249406,
+    "pickTeamId": 24,
+    "result": 0
   },
   {
-    "id": 401212481,
+    "id": 341,
     "homeScore": 56,
     "awayScore": 21,
     "weekNum": 11,
@@ -11591,10 +12611,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/58.png"
       ]
-    }
+    },
+    "gameId": 401212481,
+    "pickTeamId": 248,
+    "result": 1
   },
   {
-    "id": 401236023,
+    "id": 342,
     "homeScore": 24,
     "awayScore": 23,
     "weekNum": 11,
@@ -11625,10 +12648,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png"
       ]
-    }
+    },
+    "gameId": 401236023,
+    "pickTeamId": 2641,
+    "result": 1
   },
   {
-    "id": 401249014,
+    "id": 343,
     "homeScore": 34,
     "awayScore": 10,
     "weekNum": 11,
@@ -11659,10 +12685,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/62.png"
       ]
-    }
+    },
+    "gameId": 401249014,
+    "pickTeamId": 21,
+    "result": 1
   },
   {
-    "id": 401247315,
+    "id": 344,
     "homeScore": 20,
     "awayScore": 27,
     "weekNum": 11,
@@ -11693,10 +12722,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
       ]
-    }
+    },
+    "gameId": 401247315,
+    "pickTeamId": 2509,
+    "result": 0
   },
   {
-    "id": 401249015,
+    "id": 345,
     "homeScore": 20,
     "awayScore": 27,
     "weekNum": 11,
@@ -11727,10 +12759,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2440.png"
       ]
-    }
+    },
+    "gameId": 401249015,
+    "pickTeamId": 167,
+    "result": 0
   },
   {
-    "id": 401237129,
+    "id": 346,
     "homeScore": 63,
     "awayScore": 35,
     "weekNum": 11,
@@ -11761,10 +12796,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
       ]
-    }
+    },
+    "gameId": 401237129,
+    "pickTeamId": 57,
+    "result": 1
   },
   {
-    "id": 401249405,
+    "id": 347,
     "homeScore": 29,
     "awayScore": 43,
     "weekNum": 11,
@@ -11795,10 +12833,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png"
       ]
-    }
+    },
+    "gameId": 401249405,
+    "pickTeamId": 265,
+    "result": 0
   },
   {
-    "id": 401212491,
+    "id": 348,
     "homeScore": 28,
     "awayScore": 24,
     "weekNum": 11,
@@ -11829,10 +12870,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
       ]
-    }
+    },
+    "gameId": 401212491,
+    "pickTeamId": 202,
+    "result": 1
   },
   {
-    "id": 401212518,
+    "id": 349,
     "homeScore": 38,
     "awayScore": 13,
     "weekNum": 11,
@@ -11863,10 +12907,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/218.png"
       ]
-    }
+    },
+    "gameId": 401212518,
+    "pickTeamId": 2116,
+    "result": 1
   },
   {
-    "id": 401237133,
+    "id": 350,
     "homeScore": 59,
     "awayScore": 42,
     "weekNum": 11,
@@ -11897,10 +12944,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
       ]
-    }
+    },
+    "gameId": 401237133,
+    "pickTeamId": 145,
+    "result": 1
   },
   {
-    "id": 401234639,
+    "id": 351,
     "homeScore": 38,
     "awayScore": 22,
     "weekNum": 11,
@@ -11931,10 +12981,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/52.png"
       ]
-    }
+    },
+    "gameId": 401234639,
+    "pickTeamId": 152,
+    "result": 1
   },
   {
-    "id": 401247319,
+    "id": 352,
     "homeScore": 11,
     "awayScore": 49,
     "weekNum": 11,
@@ -11965,10 +13018,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/275.png"
       ]
-    }
+    },
+    "gameId": 401247319,
+    "pickTeamId": 130,
+    "result": 0
   },
   {
-    "id": 401249016,
+    "id": 353,
     "homeScore": 34,
     "awayScore": 17,
     "weekNum": 11,
@@ -11999,10 +13055,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2439.png"
       ]
-    }
+    },
+    "gameId": 401249016,
+    "pickTeamId": 23,
+    "result": 1
   },
   {
-    "id": 401249404,
+    "id": 354,
     "homeScore": 27,
     "awayScore": 21,
     "weekNum": 11,
@@ -12033,10 +13092,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/204.png"
       ]
-    }
+    },
+    "gameId": 401249404,
+    "pickTeamId": 264,
+    "result": 1
   },
   {
-    "id": 401261454,
+    "id": 355,
     "homeScore": 34,
     "awayScore": 10,
     "weekNum": 12,
@@ -12067,10 +13129,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/25.png"
       ]
-    }
+    },
+    "gameId": 401261454,
+    "pickTeamId": 26,
+    "result": 1
   },
   {
-    "id": 401249868,
+    "id": 356,
     "homeScore": 17,
     "awayScore": 42,
     "weekNum": 12,
@@ -12101,10 +13166,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2084.png"
       ]
-    }
+    },
+    "gameId": 401249868,
+    "pickTeamId": 189,
+    "result": 0
   },
   {
-    "id": 401249867,
+    "id": 357,
     "homeScore": 69,
     "awayScore": 35,
     "weekNum": 12,
@@ -12135,10 +13203,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png"
       ]
-    }
+    },
+    "gameId": 401249867,
+    "pickTeamId": 2309,
+    "result": 1
   },
   {
-    "id": 401249870,
+    "id": 358,
     "homeScore": 31,
     "awayScore": 25,
     "weekNum": 12,
@@ -12169,10 +13240,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2459.png"
       ]
-    }
+    },
+    "gameId": 401249870,
+    "pickTeamId": 2050,
+    "result": 1
   },
   {
-    "id": 401249872,
+    "id": 359,
     "homeScore": 44,
     "awayScore": 52,
     "weekNum": 12,
@@ -12203,10 +13277,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2711.png"
       ]
-    }
+    },
+    "gameId": 401249872,
+    "pickTeamId": 2117,
+    "result": 0
   },
   {
-    "id": 401249871,
+    "id": 360,
     "homeScore": 28,
     "awayScore": 45,
     "weekNum": 12,
@@ -12237,10 +13314,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png"
       ]
-    }
+    },
+    "gameId": 401249871,
+    "pickTeamId": 2199,
+    "result": 0
   },
   {
-    "id": 401212526,
+    "id": 361,
     "homeScore": 30,
     "awayScore": 24,
     "weekNum": 12,
@@ -12271,10 +13351,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
       ]
-    }
+    },
+    "gameId": 401212526,
+    "pickTeamId": 202,
+    "result": 1
   },
   {
-    "id": 401234643,
+    "id": 362,
     "homeScore": 30,
     "awayScore": 0,
     "weekNum": 12,
@@ -12305,10 +13388,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
       ]
-    }
+    },
+    "gameId": 401234643,
+    "pickTeamId": 97,
+    "result": 1
   },
   {
-    "id": 401247325,
+    "id": 363,
     "homeScore": 34,
     "awayScore": 31,
     "weekNum": 12,
@@ -12339,10 +13425,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2509.png"
       ]
-    }
+    },
+    "gameId": 401247325,
+    "pickTeamId": 135,
+    "result": 1
   },
   {
-    "id": 401261674,
+    "id": 364,
     "homeScore": 24,
     "awayScore": 2,
     "weekNum": 12,
@@ -12373,10 +13462,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png"
       ]
-    }
+    },
+    "gameId": 401261674,
+    "pickTeamId": 2226,
+    "result": 1
   },
   {
-    "id": 401249018,
+    "id": 365,
     "homeScore": 28,
     "awayScore": 0,
     "weekNum": 12,
@@ -12407,10 +13499,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/167.png"
       ]
-    }
+    },
+    "gameId": 401249018,
+    "pickTeamId": 2005,
+    "result": 1
   },
   {
-    "id": 401215333,
+    "id": 366,
     "homeScore": 34,
     "awayScore": 23,
     "weekNum": 12,
@@ -12441,10 +13536,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2026.png"
       ]
-    }
+    },
+    "gameId": 401215333,
+    "pickTeamId": 324,
+    "result": 1
   },
   {
-    "id": 401235975,
+    "id": 367,
     "homeScore": 28,
     "awayScore": 27,
     "weekNum": 12,
@@ -12475,10 +13573,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/290.png"
       ]
-    }
+    },
+    "gameId": 401235975,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401215334,
+    "id": 368,
     "homeScore": 47,
     "awayScore": 45,
     "weekNum": 12,
@@ -12509,10 +13610,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
       ]
-    }
+    },
+    "gameId": 401215334,
+    "pickTeamId": 326,
+    "result": 1
   },
   {
-    "id": 401212519,
+    "id": 369,
     "homeScore": 3,
     "awayScore": 28,
     "weekNum": 12,
@@ -12543,10 +13647,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/151.png"
       ]
-    }
+    },
+    "gameId": 401212519,
+    "pickTeamId": 218,
+    "result": 0
   },
   {
-    "id": 401247374,
+    "id": 370,
     "homeScore": 56,
     "awayScore": 14,
     "weekNum": 12,
@@ -12577,10 +13684,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png"
       ]
-    }
+    },
+    "gameId": 401247374,
+    "pickTeamId": 235,
+    "result": 1
   },
   {
-    "id": 401237136,
+    "id": 371,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 12,
@@ -12611,10 +13721,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
       ]
-    }
+    },
+    "gameId": 401237136,
+    "pickTeamId": 8,
+    "result": 0
   },
   {
-    "id": 401247321,
+    "id": 372,
     "homeScore": 23,
     "awayScore": 41,
     "weekNum": 12,
@@ -12645,10 +13758,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
       ]
-    }
+    },
+    "gameId": 401247321,
+    "pickTeamId": 158,
+    "result": 0
   },
   {
-    "id": 401237138,
+    "id": 373,
     "homeScore": 17,
     "awayScore": 38,
     "weekNum": 12,
@@ -12679,10 +13795,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
       ]
-    }
+    },
+    "gameId": 401237138,
+    "pickTeamId": 238,
+    "result": 0
   },
   {
-    "id": 401247326,
+    "id": 374,
     "homeScore": 42,
     "awayScore": 35,
     "weekNum": 12,
@@ -12713,10 +13832,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
       ]
-    }
+    },
+    "gameId": 401247326,
+    "pickTeamId": 194,
+    "result": 1
   },
   {
-    "id": 401207181,
+    "id": 375,
     "homeScore": 38,
     "awayScore": 21,
     "weekNum": 12,
@@ -12747,10 +13869,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2229.png"
       ]
-    }
+    },
+    "gameId": 401207181,
+    "pickTeamId": 98,
+    "result": 1
   },
   {
-    "id": 401207184,
+    "id": 376,
     "homeScore": 27,
     "awayScore": 17,
     "weekNum": 12,
@@ -12781,10 +13906,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/242.png"
       ]
-    }
+    },
+    "gameId": 401207184,
+    "pickTeamId": 249,
+    "result": 1
   },
   {
-    "id": 401207185,
+    "id": 377,
     "homeScore": 20,
     "awayScore": 23,
     "weekNum": 12,
@@ -12815,10 +13943,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png"
       ]
-    }
+    },
+    "gameId": 401207185,
+    "pickTeamId": 2572,
+    "result": 0
   },
   {
-    "id": 401209818,
+    "id": 378,
     "homeScore": 66,
     "awayScore": 14,
     "weekNum": 12,
@@ -12849,10 +13980,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2453.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2453.png"
       ]
-    }
+    },
+    "gameId": 401209818,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401247323,
+    "id": 379,
     "homeScore": 17,
     "awayScore": 7,
     "weekNum": 12,
@@ -12883,10 +14017,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/275.png"
       ]
-    }
+    },
+    "gameId": 401247323,
+    "pickTeamId": 77,
+    "result": 1
   },
   {
-    "id": 401212540,
+    "id": 380,
     "homeScore": 33,
     "awayScore": 36,
     "weekNum": 12,
@@ -12917,10 +14054,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2132.png"
       ]
-    }
+    },
+    "gameId": 401212540,
+    "pickTeamId": 2116,
+    "result": 0
   },
   {
-    "id": 401249411,
+    "id": 381,
     "homeScore": 31,
     "awayScore": 27,
     "weekNum": 12,
@@ -12951,10 +14091,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/25.png"
       ]
-    }
+    },
+    "gameId": 401249411,
+    "pickTeamId": 204,
+    "result": 1
   },
   {
-    "id": 401240641,
+    "id": 382,
     "homeScore": 17,
     "awayScore": 20,
     "weekNum": 12,
@@ -12985,10 +14128,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
       ]
-    }
+    },
+    "gameId": 401240641,
+    "pickTeamId": 2653,
+    "result": 0
   },
   {
-    "id": 401215335,
+    "id": 383,
     "homeScore": 14,
     "awayScore": 31,
     "weekNum": 12,
@@ -13019,10 +14165,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2247.png"
       ]
-    }
+    },
+    "gameId": 401215335,
+    "pickTeamId": 6,
+    "result": 0
   },
   {
-    "id": 401249415,
+    "id": 384,
     "homeScore": 38,
     "awayScore": 35,
     "weekNum": 12,
@@ -13053,10 +14202,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png"
       ]
-    }
+    },
+    "gameId": 401249415,
+    "pickTeamId": 2483,
+    "result": 1
   },
   {
-    "id": 401247327,
+    "id": 385,
     "homeScore": 21,
     "awayScore": 41,
     "weekNum": 12,
@@ -13087,10 +14239,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
       ]
-    }
+    },
+    "gameId": 401247327,
+    "pickTeamId": 213,
+    "result": 0
   },
   {
-    "id": 401249019,
+    "id": 386,
     "homeScore": 26,
     "awayScore": 21,
     "weekNum": 12,
@@ -13121,10 +14276,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/21.png"
       ]
-    }
+    },
+    "gameId": 401249019,
+    "pickTeamId": 2440,
+    "result": 1
   },
   {
-    "id": 401237135,
+    "id": 387,
     "homeScore": 63,
     "awayScore": 3,
     "weekNum": 12,
@@ -13155,10 +14313,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
       ]
-    }
+    },
+    "gameId": 401237135,
+    "pickTeamId": 333,
+    "result": 1
   },
   {
-    "id": 401234648,
+    "id": 388,
     "homeScore": 47,
     "awayScore": 14,
     "weekNum": 12,
@@ -13189,10 +14350,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
       ]
-    }
+    },
+    "gameId": 401234648,
+    "pickTeamId": 221,
+    "result": 1
   },
   {
-    "id": 401248275,
+    "id": 389,
     "homeScore": 55,
     "awayScore": 15,
     "weekNum": 12,
@@ -13223,10 +14387,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png"
       ]
-    }
+    },
+    "gameId": 401248275,
+    "pickTeamId": 258,
+    "result": 1
   },
   {
-    "id": 401236025,
+    "id": 390,
     "homeScore": 45,
     "awayScore": 0,
     "weekNum": 12,
@@ -13257,10 +14424,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
       ]
-    }
+    },
+    "gameId": 401236025,
+    "pickTeamId": 66,
+    "result": 1
   },
   {
-    "id": 401237137,
+    "id": 391,
     "homeScore": 30,
     "awayScore": 17,
     "weekNum": 12,
@@ -13291,10 +14461,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
       ]
-    }
+    },
+    "gameId": 401237137,
+    "pickTeamId": 2,
+    "result": 1
   },
   {
-    "id": 401247324,
+    "id": 392,
     "homeScore": 42,
     "awayScore": 48,
     "weekNum": 12,
@@ -13325,10 +14498,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png"
       ]
-    }
+    },
+    "gameId": 401247324,
+    "pickTeamId": 164,
+    "result": 0
   },
   {
-    "id": 401237139,
+    "id": 393,
     "homeScore": 31,
     "awayScore": 24,
     "weekNum": 12,
@@ -13359,10 +14535,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
       ]
-    }
+    },
+    "gameId": 401237139,
+    "pickTeamId": 61,
+    "result": 1
   },
   {
-    "id": 401234647,
+    "id": 394,
     "homeScore": 15,
     "awayScore": 14,
     "weekNum": 12,
@@ -13393,10 +14572,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2335.png"
       ]
-    }
+    },
+    "gameId": 401234647,
+    "pickTeamId": 152,
+    "result": 1
   },
   {
-    "id": 401236027,
+    "id": 395,
     "homeScore": 41,
     "awayScore": 13,
     "weekNum": 12,
@@ -13427,10 +14609,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
       ]
-    }
+    },
+    "gameId": 401236027,
+    "pickTeamId": 201,
+    "result": 1
   },
   {
-    "id": 401237141,
+    "id": 396,
     "homeScore": 10,
     "awayScore": 17,
     "weekNum": 12,
@@ -13461,10 +14646,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
       ]
-    }
+    },
+    "gameId": 401237141,
+    "pickTeamId": 2579,
+    "result": 0
   },
   {
-    "id": 401249413,
+    "id": 397,
     "homeScore": 44,
     "awayScore": 27,
     "weekNum": 12,
@@ -13495,10 +14683,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/12.png"
       ]
-    }
+    },
+    "gameId": 401249413,
+    "pickTeamId": 264,
+    "result": 1
   },
   {
-    "id": 401249410,
+    "id": 398,
     "homeScore": 17,
     "awayScore": 33,
     "weekNum": 12,
@@ -13529,10 +14720,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/30.png"
       ]
-    }
+    },
+    "gameId": 401249410,
+    "pickTeamId": 254,
+    "result": 0
   },
   {
-    "id": 401249017,
+    "id": 399,
     "homeScore": 32,
     "awayScore": 40,
     "weekNum": 12,
@@ -13563,10 +14757,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/68.png"
       ]
-    }
+    },
+    "gameId": 401249017,
+    "pickTeamId": 62,
+    "result": 0
   },
   {
-    "id": 401249025,
+    "id": 400,
     "homeScore": 41,
     "awayScore": 27,
     "weekNum": 13,
@@ -13597,10 +14794,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/167.png"
       ]
-    }
+    },
+    "gameId": 401249025,
+    "pickTeamId": 328,
+    "result": 1
   },
   {
-    "id": 401236029,
+    "id": 401,
     "homeScore": 20,
     "awayScore": 23,
     "weekNum": 13,
@@ -13631,10 +14831,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/66.png"
       ]
-    }
+    },
+    "gameId": 401236029,
+    "pickTeamId": 251,
+    "result": 0
   },
   {
-    "id": 401251926,
+    "id": 402,
     "homeScore": 45,
     "awayScore": 0,
     "weekNum": 13,
@@ -13665,10 +14868,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png"
       ]
-    }
+    },
+    "gameId": 401251926,
+    "pickTeamId": 2335,
+    "result": 1
   },
   {
-    "id": 401247332,
+    "id": 403,
     "homeScore": 26,
     "awayScore": 20,
     "weekNum": 13,
@@ -13699,10 +14905,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
       ]
-    }
+    },
+    "gameId": 401247332,
+    "pickTeamId": 2294,
+    "result": 1
   },
   {
-    "id": 401212483,
+    "id": 404,
     "homeScore": 46,
     "awayScore": 58,
     "weekNum": 13,
@@ -13733,10 +14942,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"
       ]
-    }
+    },
+    "gameId": 401212483,
+    "pickTeamId": 58,
+    "result": 0
   },
   {
-    "id": 401234650,
+    "id": 405,
     "homeScore": 17,
     "awayScore": 31,
     "weekNum": 13,
@@ -13767,10 +14979,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"
       ]
-    }
+    },
+    "gameId": 401234650,
+    "pickTeamId": 153,
+    "result": 0
   },
   {
-    "id": 401249874,
+    "id": 406,
     "homeScore": 23,
     "awayScore": 31,
     "weekNum": 13,
@@ -13801,10 +15016,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2117.png"
       ]
-    }
+    },
+    "gameId": 401249874,
+    "pickTeamId": 2199,
+    "result": 0
   },
   {
-    "id": 401249028,
+    "id": 407,
     "homeScore": 14,
     "awayScore": 45,
     "weekNum": 13,
@@ -13835,10 +15053,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2751.png"
       ]
-    }
+    },
+    "gameId": 401249028,
+    "pickTeamId": 2439,
+    "result": 0
   },
   {
-    "id": 401249417,
+    "id": 408,
     "homeScore": 23,
     "awayScore": 24,
     "weekNum": 13,
@@ -13869,10 +15090,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/24.png"
       ]
-    }
+    },
+    "gameId": 401249417,
+    "pickTeamId": 25,
+    "result": 0
   },
   {
-    "id": 401249418,
+    "id": 409,
     "homeScore": 41,
     "awayScore": 38,
     "weekNum": 13,
@@ -13903,10 +15127,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png"
       ]
-    }
+    },
+    "gameId": 401249418,
+    "pickTeamId": 204,
+    "result": 1
   },
   {
-    "id": 401249877,
+    "id": 410,
     "homeScore": 70,
     "awayScore": 41,
     "weekNum": 13,
@@ -13937,10 +15164,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2309.png"
       ]
-    }
+    },
+    "gameId": 401249877,
+    "pickTeamId": 2084,
+    "result": 1
   },
   {
-    "id": 401249873,
+    "id": 411,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 13,
@@ -13971,10 +15201,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2050.png"
       ]
-    }
+    },
+    "gameId": 401249873,
+    "pickTeamId": 2649,
+    "result": 0
   },
   {
-    "id": 401247329,
+    "id": 412,
     "homeScore": 27,
     "awayScore": 11,
     "weekNum": 13,
@@ -14005,10 +15238,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/120.png"
       ]
-    }
+    },
+    "gameId": 401247329,
+    "pickTeamId": 84,
+    "result": 1
   },
   {
-    "id": 401234655,
+    "id": 413,
     "homeScore": 29,
     "awayScore": 36,
     "weekNum": 13,
@@ -14039,10 +15275,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
       ]
-    }
+    },
+    "gameId": 401234655,
+    "pickTeamId": 183,
+    "result": 0
   },
   {
-    "id": 401215339,
+    "id": 414,
     "homeScore": 30,
     "awayScore": 24,
     "weekNum": 13,
@@ -14073,10 +15312,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/290.png"
       ]
-    }
+    },
+    "gameId": 401215339,
+    "pickTeamId": 2247,
+    "result": 1
   },
   {
-    "id": 401247333,
+    "id": 415,
     "homeScore": 17,
     "awayScore": 27,
     "weekNum": 13,
@@ -14107,10 +15349,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png"
       ]
-    }
+    },
+    "gameId": 401247333,
+    "pickTeamId": 130,
+    "result": 0
   },
   {
-    "id": 401249875,
+    "id": 416,
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 13,
@@ -14141,10 +15386,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2459.png"
       ]
-    }
+    },
+    "gameId": 401249875,
+    "pickTeamId": 2711,
+    "result": 1
   },
   {
-    "id": 401249876,
+    "id": 417,
     "homeScore": 52,
     "awayScore": 10,
     "weekNum": 13,
@@ -14175,10 +15423,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/189.png"
       ]
-    }
+    },
+    "gameId": 401249876,
+    "pickTeamId": 195,
+    "result": 1
   },
   {
-    "id": 401237143,
+    "id": 418,
     "homeScore": 41,
     "awayScore": 0,
     "weekNum": 13,
@@ -14209,10 +15460,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png"
       ]
-    }
+    },
+    "gameId": 401237143,
+    "pickTeamId": 142,
+    "result": 1
   },
   {
-    "id": 401236032,
+    "id": 419,
     "homeScore": 50,
     "awayScore": 44,
     "weekNum": 13,
@@ -14243,10 +15497,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
       ]
-    }
+    },
+    "gameId": 401236032,
+    "pickTeamId": 197,
+    "result": 1
   },
   {
-    "id": 401237144,
+    "id": 420,
     "homeScore": 34,
     "awayScore": 10,
     "weekNum": 13,
@@ -14277,10 +15534,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
       ]
-    }
+    },
+    "gameId": 401237144,
+    "pickTeamId": 57,
+    "result": 1
   },
   {
-    "id": 401212513,
+    "id": 421,
     "homeScore": 52,
     "awayScore": 38,
     "weekNum": 13,
@@ -14311,10 +15571,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
       ]
-    }
+    },
+    "gameId": 401212513,
+    "pickTeamId": 151,
+    "result": 1
   },
   {
-    "id": 401249892,
+    "id": 422,
     "homeScore": 7,
     "awayScore": 38,
     "weekNum": 13,
@@ -14345,10 +15608,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/193.png"
       ]
-    }
+    },
+    "gameId": 401249892,
+    "pickTeamId": 2006,
+    "result": 0
   },
   {
-    "id": 401207191,
+    "id": 423,
     "homeScore": 49,
     "awayScore": 17,
     "weekNum": 13,
@@ -14379,10 +15645,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png"
       ]
-    }
+    },
+    "gameId": 401207191,
+    "pickTeamId": 2636,
+    "result": 1
   },
   {
-    "id": 401215337,
+    "id": 424,
     "homeScore": 31,
     "awayScore": 38,
     "weekNum": 13,
@@ -14413,10 +15682,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/6.png"
       ]
-    }
+    },
+    "gameId": 401215337,
+    "pickTeamId": 2032,
+    "result": 0
   },
   {
-    "id": 401215340,
+    "id": 425,
     "homeScore": 20,
     "awayScore": 70,
     "weekNum": 13,
@@ -14447,10 +15719,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
       ]
-    }
+    },
+    "gameId": 401215340,
+    "pickTeamId": 2433,
+    "result": 0
   },
   {
-    "id": 401215338,
+    "id": 426,
     "homeScore": 14,
     "awayScore": 49,
     "weekNum": 13,
@@ -14481,10 +15756,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/324.png"
       ]
-    }
+    },
+    "gameId": 401215338,
+    "pickTeamId": 326,
+    "result": 0
   },
   {
-    "id": 401234651,
+    "id": 427,
     "homeScore": 52,
     "awayScore": 17,
     "weekNum": 13,
@@ -14515,10 +15793,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/221.png"
       ]
-    }
+    },
+    "gameId": 401234651,
+    "pickTeamId": 228,
+    "result": 1
   },
   {
-    "id": 401215336,
+    "id": 428,
     "homeScore": 47,
     "awayScore": 10,
     "weekNum": 13,
@@ -14549,10 +15830,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
       ]
-    }
+    },
+    "gameId": 401215336,
+    "pickTeamId": 2026,
+    "result": 1
   },
   {
-    "id": 401247330,
+    "id": 429,
     "homeScore": 29,
     "awayScore": 20,
     "weekNum": 13,
@@ -14583,10 +15867,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
       ]
-    }
+    },
+    "gameId": 401247330,
+    "pickTeamId": 127,
+    "result": 1
   },
   {
-    "id": 401237142,
+    "id": 430,
     "homeScore": 42,
     "awayScore": 13,
     "weekNum": 13,
@@ -14617,10 +15904,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
       ]
-    }
+    },
+    "gameId": 401237142,
+    "pickTeamId": 333,
+    "result": 1
   },
   {
-    "id": 401234649,
+    "id": 431,
     "homeScore": 34,
     "awayScore": 27,
     "weekNum": 13,
@@ -14651,10 +15941,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
       ]
-    }
+    },
+    "gameId": 401234649,
+    "pickTeamId": 103,
+    "result": 1
   },
   {
-    "id": 401247328,
+    "id": 432,
     "homeScore": 30,
     "awayScore": 37,
     "weekNum": 13,
@@ -14685,10 +15978,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/164.png"
       ]
-    }
+    },
+    "gameId": 401247328,
+    "pickTeamId": 2509,
+    "result": 0
   },
   {
-    "id": 401237147,
+    "id": 433,
     "homeScore": 31,
     "awayScore": 24,
     "weekNum": 13,
@@ -14719,10 +16015,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
       ]
-    }
+    },
+    "gameId": 401237147,
+    "pickTeamId": 145,
+    "result": 1
   },
   {
-    "id": 401265734,
+    "id": 434,
     "homeScore": 20,
     "awayScore": 10,
     "weekNum": 13,
@@ -14753,10 +16052,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/21.png"
       ]
-    }
+    },
+    "gameId": 401265734,
+    "pickTeamId": 38,
+    "result": 1
   },
   {
-    "id": 401237146,
+    "id": 435,
     "homeScore": 20,
     "awayScore": 7,
     "weekNum": 13,
@@ -14787,10 +16089,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
       ]
-    }
+    },
+    "gameId": 401237146,
+    "pickTeamId": 245,
+    "result": 1
   },
   {
-    "id": 401236028,
+    "id": 436,
     "homeScore": 32,
     "awayScore": 31,
     "weekNum": 13,
@@ -14821,10 +16126,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
       ]
-    }
+    },
+    "gameId": 401236028,
+    "pickTeamId": 239,
+    "result": 1
   },
   {
-    "id": 401264080,
+    "id": 437,
     "homeScore": 7,
     "awayScore": 10,
     "weekNum": 13,
@@ -14855,10 +16163,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/235.png"
       ]
-    }
+    },
+    "gameId": 401264080,
+    "pickTeamId": 2426,
+    "result": 0
   },
   {
-    "id": 401234652,
+    "id": 438,
     "homeScore": 56,
     "awayScore": 33,
     "weekNum": 13,
@@ -14889,10 +16200,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
       ]
-    }
+    },
+    "gameId": 401234652,
+    "pickTeamId": 59,
+    "result": 1
   },
   {
-    "id": 401265458,
+    "id": 439,
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 13,
@@ -14923,10 +16237,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/254.png"
       ]
-    }
+    },
+    "gameId": 401265458,
+    "pickTeamId": 264,
+    "result": 1
   },
   {
-    "id": 401237145,
+    "id": 440,
     "homeScore": 16,
     "awayScore": 45,
     "weekNum": 13,
@@ -14957,10 +16274,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
       ]
-    }
+    },
+    "gameId": 401237145,
+    "pickTeamId": 2579,
+    "result": 0
   },
   {
-    "id": 401249421,
+    "id": 441,
     "homeScore": 27,
     "awayScore": 10,
     "weekNum": 13,
@@ -14991,10 +16311,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/12.png"
       ]
-    }
+    },
+    "gameId": 401249421,
+    "pickTeamId": 26,
+    "result": 1
   },
   {
-    "id": 401236030,
+    "id": 442,
     "homeScore": 23,
     "awayScore": 59,
     "weekNum": 13,
@@ -15025,10 +16348,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2628.png"
       ]
-    }
+    },
+    "gameId": 401236030,
+    "pickTeamId": 2305,
+    "result": 0
   },
   {
-    "id": 401249024,
+    "id": 443,
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 13,
@@ -15059,10 +16385,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2440.png"
       ]
-    }
+    },
+    "gameId": 401249024,
+    "pickTeamId": 62,
+    "result": 1
   },
   {
-    "id": 401265703,
+    "id": 444,
     "homeScore": 31,
     "awayScore": 42,
     "weekNum": 14,
@@ -15093,10 +16422,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
       ]
-    }
+    },
+    "gameId": 401265703,
+    "pickTeamId": 249,
+    "result": 0
   },
   {
-    "id": 401249029,
+    "id": 445,
     "homeScore": 7,
     "awayScore": 35,
     "weekNum": 14,
@@ -15127,10 +16459,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2005.png"
       ]
-    }
+    },
+    "gameId": 401249029,
+    "pickTeamId": 328,
+    "result": 0
   },
   {
-    "id": 401252117,
+    "id": 446,
     "homeScore": 21,
     "awayScore": 24,
     "weekNum": 14,
@@ -15161,10 +16496,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
       ]
-    }
+    },
+    "gameId": 401252117,
+    "pickTeamId": 2026,
+    "result": 0
   },
   {
-    "id": 401236037,
+    "id": 447,
     "homeScore": 29,
     "awayScore": 22,
     "weekNum": 14,
@@ -15195,10 +16533,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
       ]
-    }
+    },
+    "gameId": 401236037,
+    "pickTeamId": 2628,
+    "result": 1
   },
   {
-    "id": 401236036,
+    "id": 448,
     "homeScore": 31,
     "awayScore": 69,
     "weekNum": 14,
@@ -15229,10 +16570,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
       ]
-    }
+    },
+    "gameId": 401236036,
+    "pickTeamId": 2306,
+    "result": 0
   },
   {
-    "id": 401236035,
+    "id": 449,
     "homeScore": 16,
     "awayScore": 13,
     "weekNum": 14,
@@ -15263,10 +16607,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
       ]
-    }
+    },
+    "gameId": 401236035,
+    "pickTeamId": 2641,
+    "result": 1
   },
   {
-    "id": 401248781,
+    "id": 450,
     "homeScore": 49,
     "awayScore": 9,
     "weekNum": 14,
@@ -15297,10 +16644,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2717.png"
       ]
-    }
+    },
+    "gameId": 401248781,
+    "pickTeamId": 153,
+    "result": 1
   },
   {
-    "id": 401247336,
+    "id": 451,
     "homeScore": 7,
     "awayScore": 23,
     "weekNum": 14,
@@ -15331,10 +16681,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png"
       ]
-    }
+    },
+    "gameId": 401247336,
+    "pickTeamId": 164,
+    "result": 0
   },
   {
-    "id": 401247335,
+    "id": 452,
     "homeScore": 27,
     "awayScore": 37,
     "weekNum": 14,
@@ -15365,10 +16718,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
       ]
-    }
+    },
+    "gameId": 401247335,
+    "pickTeamId": 2509,
+    "result": 0
   },
   {
-    "id": 401264082,
+    "id": 453,
     "homeScore": 35,
     "awayScore": 21,
     "weekNum": 14,
@@ -15399,10 +16755,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/235.png"
       ]
-    }
+    },
+    "gameId": 401264082,
+    "pickTeamId": 2655,
+    "result": 1
   },
   {
-    "id": 401247340,
+    "id": 454,
     "homeScore": 12,
     "awayScore": 52,
     "weekNum": 14,
@@ -15433,10 +16792,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png"
       ]
-    }
+    },
+    "gameId": 401247340,
+    "pickTeamId": 127,
+    "result": 0
   },
   {
-    "id": 401257812,
+    "id": 455,
     "homeScore": 0,
     "awayScore": 20,
     "weekNum": 14,
@@ -15467,10 +16829,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/242.png"
       ]
-    }
+    },
+    "gameId": 401257812,
+    "pickTeamId": 276,
+    "result": 0
   },
   {
-    "id": 401237150,
+    "id": 456,
     "homeScore": 20,
     "awayScore": 31,
     "weekNum": 14,
@@ -15501,10 +16866,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png"
       ]
-    }
+    },
+    "gameId": 401237150,
+    "pickTeamId": 2,
+    "result": 0
   },
   {
-    "id": 401249880,
+    "id": 457,
     "homeScore": 24,
     "awayScore": 41,
     "weekNum": 14,
@@ -15535,10 +16903,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png"
       ]
-    }
+    },
+    "gameId": 401249880,
+    "pickTeamId": 2459,
+    "result": 0
   },
   {
-    "id": 401265818,
+    "id": 458,
     "homeScore": 50,
     "awayScore": 48,
     "weekNum": 14,
@@ -15569,10 +16940,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
       ]
-    }
+    },
+    "gameId": 401265818,
+    "pickTeamId": 142,
+    "result": 1
   },
   {
-    "id": 401249881,
+    "id": 459,
     "homeScore": 31,
     "awayScore": 3,
     "weekNum": 14,
@@ -15603,10 +16977,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/189.png"
       ]
-    }
+    },
+    "gameId": 401249881,
+    "pickTeamId": 2006,
+    "result": 1
   },
   {
-    "id": 401249878,
+    "id": 460,
     "homeScore": 20,
     "awayScore": 45,
     "weekNum": 14,
@@ -15637,10 +17014,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2050.png"
       ]
-    }
+    },
+    "gameId": 401249878,
+    "pickTeamId": 2117,
+    "result": 0
   },
   {
-    "id": 401249879,
+    "id": 461,
     "homeScore": 42,
     "awayScore": 53,
     "weekNum": 14,
@@ -15671,10 +17051,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png"
       ]
-    }
+    },
+    "gameId": 401249879,
+    "pickTeamId": 2711,
+    "result": 0
   },
   {
-    "id": 401262494,
+    "id": 462,
     "homeScore": 0,
     "awayScore": 29,
     "weekNum": 14,
@@ -15705,10 +17088,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
       ]
-    }
+    },
+    "gameId": 401262494,
+    "pickTeamId": 6,
+    "result": 0
   },
   {
-    "id": 401234662,
+    "id": 463,
     "homeScore": 45,
     "awayScore": 21,
     "weekNum": 14,
@@ -15739,10 +17125,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
       ]
-    }
+    },
+    "gameId": 401234662,
+    "pickTeamId": 87,
+    "result": 1
   },
   {
-    "id": 401262493,
+    "id": 464,
     "homeScore": 48,
     "awayScore": 15,
     "weekNum": 14,
@@ -15773,10 +17162,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png"
       ]
-    }
+    },
+    "gameId": 401262493,
+    "pickTeamId": 2032,
+    "result": 1
   },
   {
-    "id": 401237151,
+    "id": 465,
     "homeScore": 19,
     "awayScore": 31,
     "weekNum": 14,
@@ -15807,10 +17199,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
       ]
-    }
+    },
+    "gameId": 401237151,
+    "pickTeamId": 2633,
+    "result": 0
   },
   {
-    "id": 401264083,
+    "id": 466,
     "homeScore": 6,
     "awayScore": 19,
     "weekNum": 14,
@@ -15841,10 +17236,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/202.png"
       ]
-    }
+    },
+    "gameId": 401264083,
+    "pickTeamId": 2426,
+    "result": 0
   },
   {
-    "id": 401247337,
+    "id": 467,
     "homeScore": 21,
     "awayScore": 35,
     "weekNum": 14,
@@ -15875,10 +17273,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
       ]
-    }
+    },
+    "gameId": 401247337,
+    "pickTeamId": 356,
+    "result": 0
   },
   {
-    "id": 401247338,
+    "id": 468,
     "homeScore": 6,
     "awayScore": 14,
     "weekNum": 14,
@@ -15909,10 +17310,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
       ]
-    }
+    },
+    "gameId": 401247338,
+    "pickTeamId": 275,
+    "result": 0
   },
   {
-    "id": 401234656,
+    "id": 469,
     "homeScore": 43,
     "awayScore": 32,
     "weekNum": 14,
@@ -15943,10 +17347,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
       ]
-    }
+    },
+    "gameId": 401234656,
+    "pickTeamId": 258,
+    "result": 1
   },
   {
-    "id": 401236034,
+    "id": 470,
     "homeScore": 42,
     "awayScore": 6,
     "weekNum": 14,
@@ -15977,10 +17384,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/277.png"
       ]
-    }
+    },
+    "gameId": 401236034,
+    "pickTeamId": 66,
+    "result": 1
   },
   {
-    "id": 401234659,
+    "id": 471,
     "homeScore": 23,
     "awayScore": 13,
     "weekNum": 14,
@@ -16011,10 +17421,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png"
       ]
-    }
+    },
+    "gameId": 401234659,
+    "pickTeamId": 152,
+    "result": 1
   },
   {
-    "id": 401249424,
+    "id": 472,
     "homeScore": 26,
     "awayScore": 31,
     "weekNum": 14,
@@ -16045,10 +17458,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/24.png"
       ]
-    }
+    },
+    "gameId": 401249424,
+    "pickTeamId": 264,
+    "result": 0
   },
   {
-    "id": 401237514,
+    "id": 473,
     "homeScore": 22,
     "awayScore": 17,
     "weekNum": 14,
@@ -16079,10 +17495,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
       ]
-    }
+    },
+    "gameId": 401237514,
+    "pickTeamId": 324,
+    "result": 1
   },
   {
-    "id": 401249033,
+    "id": 474,
     "homeScore": 35,
     "awayScore": 24,
     "weekNum": 14,
@@ -16113,10 +17532,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/62.png"
       ]
-    }
+    },
+    "gameId": 401249033,
+    "pickTeamId": 23,
+    "result": 1
   },
   {
-    "id": 401261675,
+    "id": 475,
     "homeScore": 20,
     "awayScore": 3,
     "weekNum": 14,
@@ -16147,10 +17569,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
       ]
-    }
+    },
+    "gameId": 401261675,
+    "pickTeamId": 290,
+    "result": 1
   },
   {
-    "id": 401249423,
+    "id": 476,
     "homeScore": 21,
     "awayScore": 17,
     "weekNum": 14,
@@ -16181,10 +17606,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png"
       ]
-    }
+    },
+    "gameId": 401249423,
+    "pickTeamId": 25,
+    "result": 1
   },
   {
-    "id": 401249031,
+    "id": 477,
     "homeScore": 29,
     "awayScore": 17,
     "weekNum": 14,
@@ -16215,10 +17643,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/36.png"
       ]
-    }
+    },
+    "gameId": 401249031,
+    "pickTeamId": 21,
+    "result": 1
   },
   {
-    "id": 401249426,
+    "id": 478,
     "homeScore": 13,
     "awayScore": 24,
     "weekNum": 14,
@@ -16249,10 +17680,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png"
       ]
-    }
+    },
+    "gameId": 401249426,
+    "pickTeamId": 12,
+    "result": 0
   },
   {
-    "id": 401234657,
+    "id": 479,
     "homeScore": 10,
     "awayScore": 45,
     "weekNum": 14,
@@ -16283,10 +17717,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
       ]
-    }
+    },
+    "gameId": 401234657,
+    "pickTeamId": 259,
+    "result": 0
   },
   {
-    "id": 401237153,
+    "id": 480,
     "homeScore": 41,
     "awayScore": 18,
     "weekNum": 14,
@@ -16317,10 +17754,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
       ]
-    }
+    },
+    "gameId": 401237153,
+    "pickTeamId": 96,
+    "result": 1
   },
   {
-    "id": 401265817,
+    "id": 481,
     "homeScore": 17,
     "awayScore": 55,
     "weekNum": 14,
@@ -16351,10 +17791,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
       ]
-    }
+    },
+    "gameId": 401265817,
+    "pickTeamId": 99,
+    "result": 0
   },
   {
-    "id": 401266134,
+    "id": 482,
     "homeScore": 0,
     "awayScore": 48,
     "weekNum": 14,
@@ -16385,10 +17828,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
       ]
-    }
+    },
+    "gameId": 401266134,
+    "pickTeamId": 150,
+    "result": 0
   },
   {
-    "id": 401236033,
+    "id": 483,
     "homeScore": 27,
     "awayScore": 14,
     "weekNum": 14,
@@ -16419,10 +17865,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png"
       ]
-    }
+    },
+    "gameId": 401236033,
+    "pickTeamId": 201,
+    "result": 1
   },
   {
-    "id": 401249032,
+    "id": 484,
     "homeScore": 37,
     "awayScore": 26,
     "weekNum": 14,
@@ -16453,10 +17902,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/278.png"
       ]
-    }
+    },
+    "gameId": 401249032,
+    "pickTeamId": 2440,
+    "result": 1
   },
   {
-    "id": 401249425,
+    "id": 485,
     "homeScore": 18,
     "awayScore": 25,
     "weekNum": 14,
@@ -16487,10 +17939,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png"
       ]
-    }
+    },
+    "gameId": 401249425,
+    "pickTeamId": 9,
+    "result": 0
   },
   {
-    "id": 401249422,
+    "id": 486,
     "homeScore": 30,
     "awayScore": 24,
     "weekNum": 14,
@@ -16521,10 +17976,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/204.png"
       ]
-    }
+    },
+    "gameId": 401249422,
+    "pickTeamId": 254,
+    "result": 1
   },
   {
-    "id": 401249034,
+    "id": 487,
     "homeScore": 17,
     "awayScore": 16,
     "weekNum": 14,
@@ -16555,10 +18013,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2751.png"
       ]
-    }
+    },
+    "gameId": 401249034,
+    "pickTeamId": 167,
+    "result": 1
   },
   {
-    "id": 401266789,
+    "id": 488,
     "homeScore": 19,
     "awayScore": 37,
     "weekNum": 14,
@@ -16589,10 +18050,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
       ]
-    }
+    },
+    "gameId": 401266789,
+    "pickTeamId": 2429,
+    "result": 0
   },
   {
-    "id": 401249427,
+    "id": 489,
     "homeScore": 38,
     "awayScore": 13,
     "weekNum": 14,
@@ -16623,10 +18087,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/265.png"
       ]
-    }
+    },
+    "gameId": 401249427,
+    "pickTeamId": 30,
+    "result": 1
   },
   {
-    "id": 401257813,
+    "id": 490,
     "homeScore": 45,
     "awayScore": 31,
     "weekNum": 15,
@@ -16657,10 +18124,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
       ]
-    }
+    },
+    "gameId": 401257813,
+    "pickTeamId": 2572,
+    "result": 1
   },
   {
-    "id": 401261245,
+    "id": 491,
     "homeScore": 20,
     "awayScore": 34,
     "weekNum": 15,
@@ -16691,10 +18161,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/221.png"
       ]
-    }
+    },
+    "gameId": 401261245,
+    "pickTeamId": 59,
+    "result": 0
   },
   {
-    "id": 401257816,
+    "id": 492,
     "homeScore": 43,
     "awayScore": 45,
     "weekNum": 15,
@@ -16725,10 +18198,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png"
       ]
-    }
+    },
+    "gameId": 401257816,
+    "pickTeamId": 2638,
+    "result": 0
   },
   {
-    "id": 401249429,
+    "id": 493,
     "homeScore": 7,
     "awayScore": 70,
     "weekNum": 15,
@@ -16759,10 +18235,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png"
       ]
-    }
+    },
+    "gameId": 401249429,
+    "pickTeamId": 12,
+    "result": 0
   },
   {
-    "id": 401249037,
+    "id": 494,
     "homeScore": 30,
     "awayScore": 20,
     "weekNum": 15,
@@ -16793,10 +18272,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2440.png"
       ]
-    }
+    },
+    "gameId": 401249037,
+    "pickTeamId": 23,
+    "result": 1
   },
   {
-    "id": 401266696,
+    "id": 495,
     "homeScore": 45,
     "awayScore": 21,
     "weekNum": 15,
@@ -16827,10 +18309,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/154.png"
       ]
-    }
+    },
+    "gameId": 401266696,
+    "pickTeamId": 97,
+    "result": 1
   },
   {
-    "id": 401247346,
+    "id": 496,
     "homeScore": 39,
     "awayScore": 24,
     "weekNum": 15,
@@ -16861,10 +18346,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/127.png"
       ]
-    }
+    },
+    "gameId": 401247346,
+    "pickTeamId": 213,
+    "result": 1
   },
   {
-    "id": 401247345,
+    "id": 497,
     "homeScore": 17,
     "awayScore": 24,
     "weekNum": 15,
@@ -16895,10 +18383,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/135.png"
       ]
-    }
+    },
+    "gameId": 401247345,
+    "pickTeamId": 158,
+    "result": 0
   },
   {
-    "id": 401247342,
+    "id": 498,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 15,
@@ -16929,10 +18420,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/164.png"
       ]
-    }
+    },
+    "gameId": 401247342,
+    "pickTeamId": 120,
+    "result": 0
   },
   {
-    "id": 401249885,
+    "id": 499,
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 15,
@@ -16963,10 +18457,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2711.png"
       ]
-    }
+    },
+    "gameId": 401249885,
+    "pickTeamId": 2050,
+    "result": 1
   },
   {
-    "id": 401247344,
+    "id": 500,
     "homeScore": 28,
     "awayScore": 10,
     "weekNum": 15,
@@ -16997,10 +18494,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
       ]
-    }
+    },
+    "gameId": 401247344,
+    "pickTeamId": 77,
+    "result": 1
   },
   {
-    "id": 401249884,
+    "id": 501,
     "homeScore": 41,
     "awayScore": 33,
     "weekNum": 15,
@@ -17031,10 +18531,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2459.png"
       ]
-    }
+    },
+    "gameId": 401249884,
+    "pickTeamId": 2199,
+    "result": 1
   },
   {
-    "id": 401249428,
+    "id": 502,
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 15,
@@ -17065,10 +18568,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/254.png"
       ]
-    }
+    },
+    "gameId": 401249428,
+    "pickTeamId": 38,
+    "result": 0
   },
   {
-    "id": 401267161,
+    "id": 503,
     "homeScore": 14,
     "awayScore": 49,
     "weekNum": 15,
@@ -17099,10 +18605,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
       ]
-    }
+    },
+    "gameId": 401267161,
+    "pickTeamId": 142,
+    "result": 0
   },
   {
-    "id": 401267164,
+    "id": 504,
     "homeScore": 3,
     "awayScore": 52,
     "weekNum": 15,
@@ -17133,10 +18642,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
       ]
-    }
+    },
+    "gameId": 401267164,
+    "pickTeamId": 8,
+    "result": 0
   },
   {
-    "id": 401257815,
+    "id": 505,
     "homeScore": 16,
     "awayScore": 21,
     "weekNum": 15,
@@ -17167,10 +18679,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
       ]
-    }
+    },
+    "gameId": 401257815,
+    "pickTeamId": 242,
+    "result": 0
   },
   {
-    "id": 401249886,
+    "id": 506,
     "homeScore": 56,
     "awayScore": 7,
     "weekNum": 15,
@@ -17201,10 +18716,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png"
       ]
-    }
+    },
+    "gameId": 401249886,
+    "pickTeamId": 2084,
+    "result": 1
   },
   {
-    "id": 401249883,
+    "id": 507,
     "homeScore": 24,
     "awayScore": 23,
     "weekNum": 15,
@@ -17235,10 +18753,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2117.png"
       ]
-    }
+    },
+    "gameId": 401249883,
+    "pickTeamId": 2649,
+    "result": 1
   },
   {
-    "id": 401207203,
+    "id": 508,
     "homeScore": 15,
     "awayScore": 0,
     "weekNum": 15,
@@ -17269,10 +18790,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
       ]
-    }
+    },
+    "gameId": 401207203,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401259671,
+    "id": 509,
     "homeScore": 38,
     "awayScore": 42,
     "weekNum": 15,
@@ -17303,10 +18827,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/324.png"
       ]
-    }
+    },
+    "gameId": 401259671,
+    "pickTeamId": 2653,
+    "result": 0
   },
   {
-    "id": 401234661,
+    "id": 510,
     "homeScore": 26,
     "awayScore": 62,
     "weekNum": 15,
@@ -17337,10 +18864,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/153.png"
       ]
-    }
+    },
+    "gameId": 401234661,
+    "pickTeamId": 2390,
+    "result": 0
   },
   {
-    "id": 401250713,
+    "id": 511,
     "homeScore": 3,
     "awayScore": 42,
     "weekNum": 15,
@@ -17371,10 +18901,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
       ]
-    }
+    },
+    "gameId": 401250713,
+    "pickTeamId": 239,
+    "result": 0
   },
   {
-    "id": 401247347,
+    "id": 512,
     "homeScore": 28,
     "awayScore": 7,
     "weekNum": 15,
@@ -17405,10 +18938,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/275.png"
       ]
-    }
+    },
+    "gameId": 401247347,
+    "pickTeamId": 2294,
+    "result": 1
   },
   {
-    "id": 401264084,
+    "id": 513,
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 15,
@@ -17439,10 +18975,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/248.png"
       ]
-    }
+    },
+    "gameId": 401264084,
+    "pickTeamId": 235,
+    "result": 1
   },
   {
-    "id": 401267163,
+    "id": 514,
     "homeScore": 17,
     "awayScore": 42,
     "weekNum": 15,
@@ -17473,10 +19012,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
       ]
-    }
+    },
+    "gameId": 401267163,
+    "pickTeamId": 238,
+    "result": 0
   },
   {
-    "id": 401266694,
+    "id": 515,
     "homeScore": 56,
     "awayScore": 35,
     "weekNum": 15,
@@ -17507,10 +19049,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
       ]
-    }
+    },
+    "gameId": 401266694,
+    "pickTeamId": 52,
+    "result": 1
   },
   {
-    "id": 401249035,
+    "id": 516,
     "homeScore": 9,
     "awayScore": 17,
     "weekNum": 15,
@@ -17541,10 +19086,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/68.png"
       ]
-    }
+    },
+    "gameId": 401249035,
+    "pickTeamId": 2751,
+    "result": 0
   },
   {
-    "id": 401215309,
+    "id": 517,
     "homeScore": 26,
     "awayScore": 34,
     "weekNum": 15,
@@ -17575,10 +19123,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2026.png"
       ]
-    }
+    },
+    "gameId": 401215309,
+    "pickTeamId": 290,
+    "result": 0
   },
   {
-    "id": 401266711,
+    "id": 518,
     "homeScore": 52,
     "awayScore": 10,
     "weekNum": 15,
@@ -17609,10 +19160,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
       ]
-    }
+    },
+    "gameId": 401266711,
+    "pickTeamId": 2628,
+    "result": 1
   },
   {
-    "id": 401251100,
+    "id": 519,
     "homeScore": 34,
     "awayScore": 37,
     "weekNum": 15,
@@ -17643,10 +19197,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
       ]
-    }
+    },
+    "gameId": 401251100,
+    "pickTeamId": 57,
+    "result": 0
   },
   {
-    "id": 401260157,
+    "id": 520,
     "homeScore": 10,
     "awayScore": 24,
     "weekNum": 15,
@@ -17677,10 +19234,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
       ]
-    }
+    },
+    "gameId": 401260157,
+    "pickTeamId": 344,
+    "result": 0
   },
   {
-    "id": 401249431,
+    "id": 521,
     "homeScore": 38,
     "awayScore": 43,
     "weekNum": 15,
@@ -17711,10 +19271,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/30.png"
       ]
-    }
+    },
+    "gameId": 401249431,
+    "pickTeamId": 26,
+    "result": 0
   },
   {
-    "id": 401234572,
+    "id": 522,
     "homeScore": 33,
     "awayScore": 15,
     "weekNum": 15,
@@ -17745,10 +19308,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png"
       ]
-    }
+    },
+    "gameId": 401234572,
+    "pickTeamId": 259,
+    "result": 1
   },
   {
-    "id": 401249435,
+    "id": 523,
     "homeScore": 28,
     "awayScore": 14,
     "weekNum": 15,
@@ -17779,10 +19345,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/21.png"
       ]
-    }
+    },
+    "gameId": 401249435,
+    "pickTeamId": 252,
+    "result": 1
   },
   {
-    "id": 401249432,
+    "id": 524,
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 15,
@@ -17813,10 +19382,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/24.png"
       ]
-    }
+    },
+    "gameId": 401249432,
+    "pickTeamId": 204,
+    "result": 0
   },
   {
-    "id": 401249036,
+    "id": 525,
     "homeScore": 49,
     "awayScore": 39,
     "weekNum": 15,
@@ -17847,10 +19419,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/278.png"
       ]
-    }
+    },
+    "gameId": 401249036,
+    "pickTeamId": 167,
+    "result": 1
   },
   {
-    "id": 401249038,
+    "id": 526,
     "homeScore": 38,
     "awayScore": 21,
     "weekNum": 15,
@@ -17881,10 +19456,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2439.png"
       ]
-    }
+    },
+    "gameId": 401249038,
+    "pickTeamId": 62,
+    "result": 1
   },
   {
-    "id": 401240101,
+    "id": 527,
     "homeScore": 13,
     "awayScore": 22,
     "weekNum": 16,
@@ -17915,10 +19493,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
       ]
-    }
+    },
+    "gameId": 401240101,
+    "pickTeamId": 276,
+    "result": 0
   },
   {
-    "id": 401249854,
+    "id": 528,
     "homeScore": 28,
     "awayScore": 38,
     "weekNum": 16,
@@ -17949,10 +19530,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2050.png"
       ]
-    }
+    },
+    "gameId": 401249854,
+    "pickTeamId": 2084,
+    "result": 0
   },
   {
-    "id": 401269382,
+    "id": 529,
     "homeScore": 21,
     "awayScore": 28,
     "weekNum": 16,
@@ -17983,10 +19567,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
       ]
-    }
+    },
+    "gameId": 401269382,
+    "pickTeamId": 164,
+    "result": 0
   },
   {
-    "id": 401249434,
+    "id": 530,
     "homeScore": 24,
     "awayScore": 31,
     "weekNum": 16,
@@ -18017,10 +19604,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png"
       ]
-    }
+    },
+    "gameId": 401249434,
+    "pickTeamId": 30,
+    "result": 0
   },
   {
-    "id": 401262060,
+    "id": 531,
     "homeScore": 21,
     "awayScore": 27,
     "weekNum": 16,
@@ -18051,10 +19641,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
       ]
-    }
+    },
+    "gameId": 401262060,
+    "pickTeamId": 66,
+    "result": 0
   },
   {
-    "id": 401247349,
+    "id": 532,
     "homeScore": 22,
     "awayScore": 10,
     "weekNum": 16,
@@ -18085,10 +19678,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
       ]
-    }
+    },
+    "gameId": 401247349,
+    "pickTeamId": 194,
+    "result": 1
   },
   {
-    "id": 401260158,
+    "id": 533,
     "homeScore": 13,
     "awayScore": 34,
     "weekNum": 16,
@@ -18119,10 +19715,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png"
       ]
-    }
+    },
+    "gameId": 401260158,
+    "pickTeamId": 2633,
+    "result": 0
   },
   {
-    "id": 401269375,
+    "id": 534,
     "homeScore": 45,
     "awayScore": 28,
     "weekNum": 16,
@@ -18153,10 +19752,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/265.png"
       ]
-    }
+    },
+    "gameId": 401269375,
+    "pickTeamId": 254,
+    "result": 1
   },
   {
-    "id": 401265699,
+    "id": 535,
     "homeScore": 10,
     "awayScore": 7,
     "weekNum": 16,
@@ -18187,10 +19789,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2005.png"
       ]
-    }
+    },
+    "gameId": 401265699,
+    "pickTeamId": 349,
+    "result": 1
   },
   {
-    "id": 401267165,
+    "id": 536,
     "homeScore": 53,
     "awayScore": 48,
     "weekNum": 16,
@@ -18221,10 +19826,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
       ]
-    }
+    },
+    "gameId": 401267165,
+    "pickTeamId": 99,
+    "result": 1
   },
   {
-    "id": 401267166,
+    "id": 537,
     "homeScore": 51,
     "awayScore": 32,
     "weekNum": 16,
@@ -18255,10 +19863,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
       ]
-    }
+    },
+    "gameId": 401267166,
+    "pickTeamId": 344,
+    "result": 1
   },
   {
-    "id": 401269384,
+    "id": 538,
     "homeScore": 20,
     "awayScore": 17,
     "weekNum": 16,
@@ -18289,10 +19900,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/135.png"
       ]
-    }
+    },
+    "gameId": 401269384,
+    "pickTeamId": 275,
+    "result": 1
   },
   {
-    "id": 401256001,
+    "id": 539,
     "homeScore": 10,
     "awayScore": 34,
     "weekNum": 16,
@@ -18323,10 +19937,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
       ]
-    }
+    },
+    "gameId": 401256001,
+    "pickTeamId": 87,
+    "result": 0
   },
   {
-    "id": 401249043,
+    "id": 540,
     "homeScore": 34,
     "awayScore": 20,
     "weekNum": 16,
@@ -18357,10 +19974,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/68.png"
       ]
-    }
+    },
+    "gameId": 401249043,
+    "pickTeamId": 23,
+    "result": 1
   },
   {
-    "id": 401269381,
+    "id": 541,
     "homeScore": 56,
     "awayScore": 21,
     "weekNum": 16,
@@ -18391,10 +20011,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
       ]
-    }
+    },
+    "gameId": 401269381,
+    "pickTeamId": 213,
+    "result": 1
   },
   {
-    "id": 401269376,
+    "id": 542,
     "homeScore": 47,
     "awayScore": 48,
     "weekNum": 16,
@@ -18425,10 +20048,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/24.png"
       ]
-    }
+    },
+    "gameId": 401269376,
+    "pickTeamId": 26,
+    "result": 0
   },
   {
-    "id": 401237074,
+    "id": 543,
     "homeScore": 46,
     "awayScore": 52,
     "weekNum": 16,
@@ -18459,10 +20085,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
       ]
-    }
+    },
+    "gameId": 401237074,
+    "pickTeamId": 57,
+    "result": 0
   },
   {
-    "id": 401264085,
+    "id": 544,
     "homeScore": 27,
     "awayScore": 24,
     "weekNum": 16,
@@ -18493,10 +20122,13 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/202.png"
       ]
-    }
+    },
+    "gameId": 401264085,
+    "pickTeamId": 2132,
+    "result": 1
   },
   {
-    "id": 401269378,
+    "id": 545,
     "homeScore": 33,
     "awayScore": 46,
     "weekNum": 16,
@@ -18527,6 +20159,9 @@
         "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
         "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png"
       ]
-    }
+    },
+    "gameId": 401269378,
+    "pickTeamId": 204,
+    "result": 0
   }
 ]

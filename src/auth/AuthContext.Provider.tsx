@@ -2,14 +2,14 @@ import React, { useState, createContext, useEffect } from 'react';
 import fakeAuth from './fakeAuth';
 import Cookies from 'js-cookie';
 
-const getUserCookie = (): { name: string } | undefined => {
+const getUserCookie = (): User | undefined => {
   const userJson = Cookies.get('user');
   if (userJson) {
     return JSON.parse(userJson);
   }
   return undefined;
 };
-const setUserCookie = (user: { name: string } | undefined) => {
+const setUserCookie = (user: User | undefined) => {
   if (user) {
     Cookies.set('user', JSON.stringify(user), { expires: 30 });
   } else {
@@ -63,12 +63,18 @@ const ProviderAuth: React.FC = ({ children }) => {
 };
 
 interface Auth {
-  user: { name: string } | undefined;
+  user: User | undefined;
   signin: (
     login: { email: string; password: string },
     cb: (user: { email: string; name: string }) => void
   ) => void;
   signout: (cb: () => void) => void;
+}
+
+export interface User {
+  id: number;
+  name: string;
+  email: string;
 }
 
 export default ProviderAuth;

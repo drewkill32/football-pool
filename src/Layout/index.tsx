@@ -50,6 +50,9 @@ const Layout: React.FC = ({ children }) => {
               <Button color="inherit" onClick={() => history.push('/')}>
                 Home
               </Button>
+              <Button color="inherit" onClick={() => history.push('/admin')}>
+                Admin
+              </Button>
               <AccountButton />
             </nav>
           </Hidden>
@@ -75,7 +78,7 @@ const Layout: React.FC = ({ children }) => {
         </nav>
       </Hidden>
 
-      <Container maxWidth="lg">
+      <Container maxWidth="lg" className={classes.container}>
         <main>
           <div className={classes.toolbar} />
           <div className={classes.content} id="content">
