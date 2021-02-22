@@ -18,11 +18,16 @@ const sleep = (ms: number) =>
 const useStyles = makeStyles(() =>
   createStyles({
     img: {
-      width: '45px',
-      height: '45px',
+      width: '35px',
+      height: '35px',
+      margin: '0 2px',
     },
     team: {
       flexGrow: 1,
+      overflow: 'hidden',
+      whiteSpace: 'nowrap',
+      paddingRight: '20px',
+      textOverflow: 'ellipsis',
     },
     score: {
       marginRight: '10px',
@@ -36,6 +41,7 @@ const TeamLine: React.FC<{
   picked: boolean;
 }> = ({ team, score, picked }) => {
   const classes = useStyles();
+  const teamName = `${team.school} ${team.mascot}`;
 
   return (
     <Grid
@@ -43,13 +49,14 @@ const TeamLine: React.FC<{
       container
       alignContent="center"
       justify="center"
+      wrap="nowrap"
       alignItems="center"
     >
       <Grid item>
         <img src={team.logos?.[0]} alt="" className={classes.img} />
       </Grid>
       <Grid item className={classes.team}>
-        {team.school} {team.mascot}
+        {teamName}
       </Grid>
       <Grid item className={classes.score}>
         {score}

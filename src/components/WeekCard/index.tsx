@@ -27,7 +27,7 @@ const useStyles = makeStyles((theme: Theme) => ({
     borderRadius: 5,
     textAlign: 'center',
     maxWidth: '400px',
-    minWidth: '200px',
+    minWidth: '180px',
     margin: '0 auto',
   },
 }));
