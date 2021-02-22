@@ -3,19 +3,13 @@ import { createStyles, makeStyles } from '@material-ui/core';
 export const useStyles = makeStyles(() =>
   createStyles({
     root: {
-      //padding: '0 10px',
-      //flexGrouth: 1,
       display: 'flex',
       minWidth: '200px',
-      //width: '100%',
       maxHeight: '180px',
       alignItems: 'center',
       justifyContent: 'center',
     },
     slideContainer: {
-      //padding: '0 20px',
-      //width: '100%',
-
       padding: '0 5px',
     },
     slide: {
