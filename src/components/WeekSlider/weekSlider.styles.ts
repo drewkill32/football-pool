@@ -16,7 +16,7 @@ export const useStyles = makeStyles(() =>
       //padding: '0 20px',
       //width: '100%',
 
-      padding: '0 50px',
+      padding: '0 5px',
     },
     slide: {
       minHeight: 100,
