@@ -5,6 +5,7 @@ import { Week } from '../../models';
 import WeekCard, { Arrow } from '../WeekCard';
 import { useStyles } from './weekSlider.styles';
 import { useSelectedWeek } from '../../context/WeekContext.Provider';
+import clsx from 'clsx';
 
 const WeekSlider = () => {
   const [index, setIndex] = useState(0);
@@ -48,10 +49,13 @@ const WeekSlider = () => {
         onChangeIndex={(i) => {
           setIndex(i);
         }}
-        className={classes.root}
+        //className={classes.root}
         slideClassName={classes.slideContainer}
         resistance
       >
+        {/* <div className={clsx(classes.slide, classes.slide1)}>slide n°1</div>
+        <div className={clsx(classes.slide, classes.slide2)}>slide n°2</div>
+        <div className={clsx(classes.slide, classes.slide3)}>slide n°3</div> */}
         {season.map((week) => (
           <WeekCard key={`${week.season}-${week.week}`} week={week} />
         ))}
