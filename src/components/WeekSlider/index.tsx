@@ -5,7 +5,6 @@ import { Week } from '../../models';
 import WeekCard, { Arrow } from '../WeekCard';
 import { useStyles } from './weekSlider.styles';
 import { useSelectedWeek } from '../../context/WeekContext.Provider';
-import clsx from 'clsx';
 
 const WeekSlider = () => {
   const [index, setIndex] = useState(0);
