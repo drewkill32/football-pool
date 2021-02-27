@@ -1,5 +1,6 @@
 import React from 'react';
 import {
+  ButtonBase,
   Checkbox,
   createStyles,
   Grid,
@@ -7,6 +8,7 @@ import {
   Paper,
 } from '@material-ui/core';
 import { Pick, Team } from '../../models';
+import { useHistory } from 'react-router';
 
 const useStyles = makeStyles(() =>
   createStyles({
@@ -29,14 +31,17 @@ const useStyles = makeStyles(() =>
     score: {
       marginRight: '10px',
     },
+    button: {
+      textAlign: 'left',
+      width: '100%',
+    },
   })
 );
 
 const TeamLine: React.FC<{
   team: Team;
   score: number | null | undefined;
-  picked: boolean;
-}> = ({ team, score, picked }) => {
+}> = ({ team, score, children }) => {
   const classes = useStyles();
 
   return (
@@ -57,29 +62,45 @@ const TeamLine: React.FC<{
       <Grid item className={classes.score}>
         {score}
       </Grid>
-      <Checkbox checked={picked} />
+      {children}
     </Grid>
   );
 };
 
 const GameBanner: React.FC<{ pick: Pick }> = ({ pick }) => {
   const classes = useStyles();
+  const history = useHistory();
 
   return (
-    <Paper className={classes.paper}>
-      <Grid container item spacing={1} direction="column">
-        <TeamLine
-          team={pick.away}
-          score={pick.awayScore}
-          picked={pick.pickTeamId === pick.away.id}
-        />
-        <TeamLine
-          team={pick.home}
-          score={pick.homeScore}
-          picked={pick.pickTeamId === pick.home.id}
-        />
-      </Grid>
-    </Paper>
+    <ButtonBase
+      className={classes.button}
+      onClick={() => history.push(`/game/${pick.gameId}`)}
+    >
+      <Paper className={classes.paper}>
+        <Grid container item spacing={1} direction="column">
+          <TeamLine team={pick.away} score={pick.awayScore}>
+            <Grid>
+              <Checkbox checked={pick.pickTeamId === pick.away.id} />
+            </Grid>
+            {pick.head2Headpick && (
+              <Grid>
+                <Checkbox checked={pick.head2Headpick === pick.away.id} />
+              </Grid>
+            )}
+          </TeamLine>
+          <TeamLine team={pick.home} score={pick.homeScore}>
+            <Grid>
+              <Checkbox checked={pick.pickTeamId === pick.home.id} />
+            </Grid>
+            {pick.head2Headpick && (
+              <Grid>
+                <Checkbox checked={pick.head2Headpick === pick.home.id} />
+              </Grid>
+            )}
+          </TeamLine>
+        </Grid>
+      </Paper>
+    </ButtonBase>
   );
 };
 

@@ -4,29 +4,18 @@ import { useAuth } from '../../auth';
 import { useSelectedWeek } from '../../context/WeekContext.Provider';
 import PicksSkeleton from './PicksSkeleton';
 import { Pick } from '../../models';
-import { ButtonBase, createStyles, Grid, makeStyles } from '@material-ui/core';
-import { useHistory } from 'react-router';
+import { Grid } from '@material-ui/core';
+
 import GameBanner from '../GameBanner';
 
 const sleep = (ms: number) =>
   new Promise((response) => setTimeout(response, ms));
 
-const useStyles = makeStyles(() =>
-  createStyles({
-    button: {
-      textAlign: 'left',
-      width: '100%',
-    },
-  })
-);
-
 const Picks: React.FC = () => {
   const [selectedWeek] = useSelectedWeek();
   const [picks, setPicks] = useState<Pick[]>();
   const [loading, setLoading] = useState(false);
-  const classes = useStyles();
   const { user } = useAuth();
-  const history = useHistory();
 
   useEffect(() => {
     const doTheThing = async () => {
@@ -57,12 +46,7 @@ const Picks: React.FC = () => {
         <Grid container spacing={5}>
           {picks?.map((pick) => (
             <Grid item xs={12}>
-              <ButtonBase
-                className={classes.button}
-                onClick={() => history.push(`/game/${pick.gameId}`)}
-              >
-                <GameBanner pick={pick} />
-              </ButtonBase>
+              <GameBanner pick={pick} />
             </Grid>
           ))}
         </Grid>
