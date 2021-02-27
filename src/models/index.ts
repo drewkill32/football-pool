@@ -11,6 +11,7 @@ export interface Pick extends GameData {
   gameId: number;
   pickTeamId: number;
   result: 0 | 1;
+  head2Headpick?: number;
 }
 
 export interface GameData {
@@ -25,7 +26,7 @@ export interface GameData {
   timeTBD: boolean;
   season: string;
   gameCompleted: boolean;
-  isDoublePick: boolean;
+  isHead2Head: boolean;
 }
 
 export interface Team {

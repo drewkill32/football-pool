@@ -109,16 +109,23 @@ const Admin = () => {
       let i = 1;
       setPicks(
         filteredGames.map((g: GameData) => {
-          const pick = Math.round(Math.random()) === 0 ? g.home.id : g.away.id;
+          const pick1 = Math.round(Math.random()) === 0 ? g.home.id : g.away.id;
+          const head2Head =
+            leagueTeamIds.includes(g.home.id) &&
+            leagueTeamIds.includes(g.away.id);
+          const pick2 = head2Head
+            ? Math.round(Math.random()) === 0
+              ? g.home.id
+              : g.away.id
+            : undefined;
           return {
             ...g,
             id: i++,
             gameId: g.id,
-            pickTeamId: pick,
-            result: g.winner === pick ? 1 : 0,
-            isDoublePick:
-              leagueTeamIds.includes(g.home.id) &&
-              leagueTeamIds.includes(g.away.id),
+            pickTeamId: pick1,
+            result: g.winner === pick1 ? 1 : 0,
+            isHead2Head: head2Head,
+            head2Headpick: pick2,
           };
         })
       );
