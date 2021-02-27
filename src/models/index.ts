@@ -21,6 +21,9 @@ export interface GameData {
   awayScore: number | null;
   weekNum: number;
   winner: number;
+  startDate: Date;
+  timeTBD: boolean;
+  season: string;
   gameCompleted: boolean;
   isDoublePick: boolean;
 }

@@ -1,12 +1,17 @@
 import React, { useEffect, useState } from 'react';
-import { Avatar, createStyles, Grid, makeStyles } from '@material-ui/core';
+import {
+  Avatar,
+  createStyles,
+  Divider,
+  Grid,
+  makeStyles,
+} from '@material-ui/core';
 import { useParams } from 'react-router';
 import { useAuth } from '../../auth';
 import GameDetail from '../../components/GameDetail';
 import PicksSkeleton from '../../components/Picks/PicksSkeleton';
 import { Pick } from '../../models';
 import { getOrdinalSuffix } from '../../utils';
-import clsx from 'clsx';
 
 const sleep = (ms: number) =>
   new Promise((response) => setTimeout(response, ms));
@@ -100,12 +105,14 @@ const Game = () => {
       setLoading(true);
       const url = `/sample/db/picks-userid-${user?.id}.json`;
       try {
-        await sleep(700);
+        await sleep(200);
         const response = await fetch(url);
         const data = (await response.json()) as Pick[];
         const idnum = parseInt(gameId);
         const thisGame = data.find((p) => p.gameId === idnum);
-        setPick(thisGame);
+        if (thisGame) {
+          setPick({ ...thisGame, startDate: new Date(thisGame.startDate) });
+        }
       } catch (error) {
         console.error(`unable to fetch data from ${url}. ${error}`);
       } finally {
@@ -120,14 +127,17 @@ const Game = () => {
       {loading || !pick ? <PicksSkeleton /> : <GameDetail game={pick} />}
       {pick && (
         <Grid container className={classes.ownerContainer}>
-          <Grid item xs={6}>
+          <Grid item xs={5}>
             {owners
               .filter((o) => o.pick === 'home')
               .map((x) => (
                 <OwnerChip align="left" key={x.id} owner={x} />
               ))}
           </Grid>
-          <Grid item xs={6}>
+          <Grid item xs={2}>
+            <Divider orientation="vertical" variant="middle" />
+          </Grid>
+          <Grid item xs={5}>
             {owners
               .filter((o) => o.pick === 'away')
               .map((x) => (

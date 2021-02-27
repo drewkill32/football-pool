@@ -18,6 +18,9 @@ const useStyles = makeStyles(() =>
     },
     grid: {
       width: '100%',
+      '& div': {
+        width: '100%',
+      },
     },
   })
 );
@@ -67,17 +70,22 @@ const Admin = () => {
 
   const handleGetTeamData = async () => {
     try {
+      setGames(undefined);
       const [gameData, teamData] = await Promise.all([
-        getData('sample/db/games.json'),
+        getData(
+          'https://api.collegefootballdata.com/games?year=2020&seasonType=regular'
+        ),
         getData('sample/db/teams.json'),
       ]);
-
       const games: GameData[] = gameData.map((g: any) => {
         return {
           id: g.id,
           homeScore: g.home_points,
           awayScore: g.away_points,
           weekNum: g.week,
+          startDate: g.start_date,
+          timeTBD: g.start_time_tbd,
+          season: g.season,
           gameCompleted: isGameCompleted(g),
           winner: getGameWinner(g),
           home: getTeam(g.home_id, teamData),
@@ -101,12 +109,13 @@ const Admin = () => {
       let i = 1;
       setPicks(
         filteredGames.map((g: GameData) => {
+          const pick = Math.round(Math.random()) === 0 ? g.home.id : g.away.id;
           return {
             ...g,
             id: i++,
             gameId: g.id,
-            pickTeamId: Math.round(Math.random()) === 0 ? g.home.id : g.away.id,
-            result: g.winner === g.home.id ? 1 : 0,
+            pickTeamId: pick,
+            result: g.winner === pick ? 1 : 0,
             isDoublePick:
               leagueTeamIds.includes(g.home.id) &&
               leagueTeamIds.includes(g.away.id),
@@ -138,15 +147,17 @@ const Admin = () => {
           </Button>
         </Grid>
         <Grid item xs={12}>
-          <TextField
-            fullWidth
-            multiline
-            rowsMax={15}
-            rows={15}
-            label="Games"
-            variant="outlined"
-            value={games && JSON.stringify(games, undefined, 2)}
-          ></TextField>
+          <div>
+            <TextField
+              fullWidth
+              multiline
+              rowsMax={15}
+              rows={15}
+              label="Games"
+              variant="outlined"
+              value={games && JSON.stringify(games, undefined, 2)}
+            />
+          </div>
         </Grid>
         <Grid item>
           <Button

@@ -16,7 +16,17 @@ const WeekSlider = () => {
       try {
         const response = await fetch('sample/db/seasons.json');
         const data = (await response.json()) as Week[];
-        setSeason(data);
+        if (data) {
+          setSeason(
+            data.map((w) => {
+              return {
+                ...w,
+                firstGameStart: new Date(w.firstGameStart),
+                lastGameStart: new Date(w.lastGameStart),
+              };
+            })
+          );
+        }
       } catch (error) {
         console.error(error);
       }
@@ -47,13 +57,9 @@ const WeekSlider = () => {
         onChangeIndex={(i) => {
           setIndex(i);
         }}
-        //className={classes.root}
         slideClassName={classes.slideContainer}
         resistance
       >
-        {/* <div className={clsx(classes.slide, classes.slide1)}>slide n°1</div>
-        <div className={clsx(classes.slide, classes.slide2)}>slide n°2</div>
-        <div className={clsx(classes.slide, classes.slide3)}>slide n°3</div> */}
         {season.map((week) => (
           <WeekCard key={`${week.season}-${week.week}`} week={week} />
         ))}

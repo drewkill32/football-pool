@@ -12,6 +12,7 @@ import {
 } from '@material-ui/core';
 import { ChevronLeft, ChevronRight } from '@material-ui/icons';
 import { Week } from '../../models';
+import { format, min, setHours, startOfHour } from 'date-fns';
 
 const useStyles = makeStyles((theme: Theme) => ({
   header: {
@@ -50,7 +51,10 @@ export const Arrow: React.FC<{
 
 const WeekCard: React.FC<{ week: Week }> = ({ week }) => {
   const classes = useStyles();
-
+  const dueDate = min([
+    week.firstGameStart,
+    startOfHour(setHours(week.firstGameStart, 11)),
+  ]);
   return (
     <Card variant="outlined" className={classes.card}>
       <CardContent>
@@ -60,7 +64,19 @@ const WeekCard: React.FC<{ week: Week }> = ({ week }) => {
             <Divider />
           </Grid>
           <Grid item xs={12} className={classes.subHeader}>
-            <Typography>Week {week.week}</Typography>
+            <Grid item>
+              <Typography>Week {week.week}</Typography>
+            </Grid>
+            <Grid item xs={12}>
+              <Typography>{`${format(
+                week.firstGameStart,
+                'E MMM do'
+              )} - ${format(week.lastGameStart, 'E MMM do')}`}</Typography>
+              <Typography>{`due by ${format(
+                dueDate,
+                'E MMM do HH:mm a'
+              )}`}</Typography>
+            </Grid>
           </Grid>
           <Grid item xs={6}>
             <Typography color="primary">W-L</Typography>

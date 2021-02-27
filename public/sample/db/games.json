@@ -4,6 +4,9 @@
     "homeScore": 45,
     "awayScore": 35,
     "weekNum": 1,
+    "startDate": "2020-09-04T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 5,
     "home": {
@@ -38,6 +41,9 @@
     "homeScore": 21,
     "awayScore": 32,
     "weekNum": 1,
+    "startDate": "2020-09-04T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 6,
     "home": {
@@ -72,6 +78,9 @@
     "homeScore": 59,
     "awayScore": 0,
     "weekNum": 1,
+    "startDate": "2020-09-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -106,6 +115,9 @@
     "homeScore": 42,
     "awayScore": 0,
     "weekNum": 1,
+    "startDate": "2020-09-05T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -140,6 +152,9 @@
     "homeScore": 24,
     "awayScore": 31,
     "weekNum": 1,
+    "startDate": "2020-09-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -174,6 +189,9 @@
     "homeScore": 57,
     "awayScore": 31,
     "weekNum": 1,
+    "startDate": "2020-09-05T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 249,
     "home": {
@@ -208,6 +226,9 @@
     "homeScore": 37,
     "awayScore": 24,
     "weekNum": 1,
+    "startDate": "2020-09-06T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -242,6 +263,9 @@
     "homeScore": 24,
     "awayScore": 14,
     "weekNum": 1,
+    "startDate": "2020-09-06T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2638,
     "home": {
@@ -276,6 +300,9 @@
     "homeScore": 3,
     "awayScore": 55,
     "weekNum": 1,
+    "startDate": "2020-09-08T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -310,6 +337,9 @@
     "homeScore": null,
     "awayScore": null,
     "weekNum": 1,
+    "startDate": "2020-12-30T21:00:00.000Z",
+    "timeTBD": null,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -344,6 +374,9 @@
     "homeScore": null,
     "awayScore": null,
     "weekNum": 1,
+    "startDate": "2021-01-01T01:00:00.000Z",
+    "timeTBD": null,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 8,
     "home": {
@@ -378,6 +411,9 @@
     "homeScore": 31,
     "awayScore": 14,
     "weekNum": 2,
+    "startDate": "2020-09-11T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -412,6 +448,9 @@
     "homeScore": 56,
     "awayScore": 10,
     "weekNum": 2,
+    "startDate": "2020-09-12T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 277,
     "home": {
@@ -446,6 +485,9 @@
     "homeScore": 31,
     "awayScore": 6,
     "weekNum": 2,
+    "startDate": "2020-09-12T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -480,6 +522,9 @@
     "homeScore": 14,
     "awayScore": 31,
     "weekNum": 2,
+    "startDate": "2020-09-12T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -514,6 +559,9 @@
     "homeScore": 31,
     "awayScore": 35,
     "weekNum": 2,
+    "startDate": "2020-09-12T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2032,
     "home": {
@@ -548,6 +596,9 @@
     "homeScore": 35,
     "awayScore": 20,
     "weekNum": 2,
+    "startDate": "2020-09-12T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -582,6 +633,9 @@
     "homeScore": 37,
     "awayScore": 7,
     "weekNum": 2,
+    "startDate": "2020-09-12T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -616,6 +670,9 @@
     "homeScore": 27,
     "awayScore": 13,
     "weekNum": 2,
+    "startDate": "2020-09-12T18:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -650,6 +707,9 @@
     "homeScore": 48,
     "awayScore": 51,
     "weekNum": 2,
+    "startDate": "2020-09-12T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -684,6 +744,9 @@
     "homeScore": 55,
     "awayScore": 0,
     "weekNum": 2,
+    "startDate": "2020-09-12T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 221,
     "home": {
@@ -718,6 +781,9 @@
     "homeScore": 13,
     "awayScore": 16,
     "weekNum": 2,
+    "startDate": "2020-09-12T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 59,
     "home": {
@@ -752,6 +818,9 @@
     "homeScore": 27,
     "awayScore": 26,
     "weekNum": 2,
+    "startDate": "2020-09-12T20:14:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -786,6 +855,9 @@
     "homeScore": 27,
     "awayScore": 6,
     "weekNum": 2,
+    "startDate": "2020-09-12T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 58,
     "home": {
@@ -820,6 +892,9 @@
     "homeScore": 48,
     "awayScore": 0,
     "weekNum": 2,
+    "startDate": "2020-09-12T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -854,6 +929,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 2,
+    "startDate": "2020-09-12T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2655,
     "home": {
@@ -888,6 +966,9 @@
     "homeScore": 13,
     "awayScore": 37,
     "weekNum": 2,
+    "startDate": "2020-09-12T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -922,6 +1003,9 @@
     "homeScore": 35,
     "awayScore": 33,
     "weekNum": 2,
+    "startDate": "2020-09-13T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2641,
     "home": {
@@ -956,6 +1040,9 @@
     "homeScore": 35,
     "awayScore": 21,
     "weekNum": 2,
+    "startDate": "2020-09-13T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 97,
     "home": {
@@ -990,6 +1077,9 @@
     "homeScore": 59,
     "awayScore": 3,
     "weekNum": 2,
+    "startDate": "2020-09-13T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 251,
     "home": {
@@ -1024,6 +1114,9 @@
     "homeScore": 23,
     "awayScore": 38,
     "weekNum": 2,
+    "startDate": "2020-09-13T02:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -1058,6 +1151,9 @@
     "homeScore": null,
     "awayScore": null,
     "weekNum": 2,
+    "startDate": "2021-02-20T05:00:00.000Z",
+    "timeTBD": null,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2627,
     "home": {
@@ -1092,6 +1188,9 @@
     "homeScore": 43,
     "awayScore": 21,
     "weekNum": 3,
+    "startDate": "2020-09-18T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -1126,6 +1225,9 @@
     "homeScore": 55,
     "awayScore": 20,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -1160,6 +1262,9 @@
     "homeScore": 6,
     "awayScore": 26,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 103,
     "home": {
@@ -1194,6 +1299,9 @@
     "homeScore": 21,
     "awayScore": 10,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 221,
     "home": {
@@ -1228,6 +1336,9 @@
     "homeScore": 24,
     "awayScore": 30,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -1262,6 +1373,9 @@
     "homeScore": 31,
     "awayScore": 34,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -1296,6 +1410,9 @@
     "homeScore": 16,
     "awayScore": 7,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -1330,6 +1447,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 3,
+    "startDate": "2020-09-19T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2426,
     "home": {
@@ -1364,6 +1484,9 @@
     "homeScore": 52,
     "awayScore": 0,
     "weekNum": 3,
+    "startDate": "2020-09-19T18:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -1398,6 +1521,9 @@
     "homeScore": 14,
     "awayScore": 47,
     "weekNum": 3,
+    "startDate": "2020-09-19T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2653,
     "home": {
@@ -1432,6 +1558,9 @@
     "homeScore": 17,
     "awayScore": 7,
     "weekNum": 3,
+    "startDate": "2020-09-19T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -1466,6 +1595,9 @@
     "homeScore": 21,
     "awayScore": 49,
     "weekNum": 3,
+    "startDate": "2020-09-19T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2116,
     "home": {
@@ -1500,6 +1632,9 @@
     "homeScore": 24,
     "awayScore": 10,
     "weekNum": 3,
+    "startDate": "2020-09-19T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -1534,6 +1669,9 @@
     "homeScore": 49,
     "awayScore": 0,
     "weekNum": 3,
+    "startDate": "2020-09-19T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -1568,6 +1706,9 @@
     "homeScore": 35,
     "awayScore": 65,
     "weekNum": 3,
+    "startDate": "2020-09-19T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -1602,6 +1743,9 @@
     "homeScore": 30,
     "awayScore": 31,
     "weekNum": 3,
+    "startDate": "2020-09-19T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2348,
     "home": {
@@ -1636,6 +1780,9 @@
     "homeScore": 34,
     "awayScore": 47,
     "weekNum": 3,
+    "startDate": "2020-09-19T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -1670,6 +1817,9 @@
     "homeScore": 17,
     "awayScore": 38,
     "weekNum": 3,
+    "startDate": "2020-09-19T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 326,
     "home": {
@@ -1704,6 +1854,9 @@
     "homeScore": 45,
     "awayScore": 42,
     "weekNum": 3,
+    "startDate": "2020-09-20T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -1738,6 +1891,9 @@
     "homeScore": 17,
     "awayScore": 13,
     "weekNum": 3,
+    "startDate": "2020-09-20T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2638,
     "home": {
@@ -1772,6 +1928,9 @@
     "homeScore": 10,
     "awayScore": 42,
     "weekNum": 4,
+    "startDate": "2020-09-24T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 5,
     "home": {
@@ -1806,6 +1965,9 @@
     "homeScore": 37,
     "awayScore": 35,
     "weekNum": 4,
+    "startDate": "2020-09-26T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -1840,6 +2002,9 @@
     "homeScore": 28,
     "awayScore": 51,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2116,
     "home": {
@@ -1874,6 +2039,9 @@
     "homeScore": 35,
     "awayScore": 51,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -1908,6 +2076,9 @@
     "homeScore": 35,
     "awayScore": 38,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2306,
     "home": {
@@ -1942,6 +2113,9 @@
     "homeScore": 37,
     "awayScore": 20,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 183,
     "home": {
@@ -1976,6 +2150,9 @@
     "homeScore": 52,
     "awayScore": 21,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -2010,6 +2187,9 @@
     "homeScore": 20,
     "awayScore": 18,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -2044,6 +2224,9 @@
     "homeScore": 23,
     "awayScore": 20,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 221,
     "home": {
@@ -2078,6 +2261,9 @@
     "homeScore": 29,
     "awayScore": 13,
     "weekNum": 4,
+    "startDate": "2020-09-26T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2,
     "home": {
@@ -2112,6 +2298,9 @@
     "homeScore": 36,
     "awayScore": 34,
     "weekNum": 4,
+    "startDate": "2020-09-26T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -2146,6 +2335,9 @@
     "homeScore": 34,
     "awayScore": 37,
     "weekNum": 4,
+    "startDate": "2020-09-26T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -2180,6 +2372,9 @@
     "homeScore": 6,
     "awayScore": 31,
     "weekNum": 4,
+    "startDate": "2020-09-26T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2638,
     "home": {
@@ -2214,6 +2409,9 @@
     "homeScore": 34,
     "awayScore": 44,
     "weekNum": 4,
+    "startDate": "2020-09-26T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 344,
     "home": {
@@ -2248,6 +2446,9 @@
     "homeScore": 56,
     "awayScore": 63,
     "weekNum": 4,
+    "startDate": "2020-09-26T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 251,
     "home": {
@@ -2282,6 +2483,9 @@
     "homeScore": 27,
     "awayScore": 13,
     "weekNum": 4,
+    "startDate": "2020-09-26T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -2316,6 +2520,9 @@
     "homeScore": 24,
     "awayScore": 10,
     "weekNum": 4,
+    "startDate": "2020-09-26T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -2350,6 +2557,9 @@
     "homeScore": 38,
     "awayScore": 20,
     "weekNum": 4,
+    "startDate": "2020-09-26T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 258,
     "home": {
@@ -2384,6 +2594,9 @@
     "homeScore": 10,
     "awayScore": 37,
     "weekNum": 4,
+    "startDate": "2020-09-26T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -2418,6 +2631,9 @@
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 4,
+    "startDate": "2020-09-26T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 103,
     "home": {
@@ -2452,6 +2668,9 @@
     "homeScore": 50,
     "awayScore": 7,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -2486,6 +2705,9 @@
     "homeScore": 66,
     "awayScore": 38,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2348,
     "home": {
@@ -2520,6 +2742,9 @@
     "homeScore": 19,
     "awayScore": 38,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -2554,6 +2779,9 @@
     "homeScore": 24,
     "awayScore": 66,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2655,
     "home": {
@@ -2588,6 +2816,9 @@
     "homeScore": 47,
     "awayScore": 14,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 239,
     "home": {
@@ -2622,6 +2853,9 @@
     "homeScore": 17,
     "awayScore": 12,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -2656,6 +2890,9 @@
     "homeScore": 27,
     "awayScore": 31,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2633,
     "home": {
@@ -2690,6 +2927,9 @@
     "homeScore": 52,
     "awayScore": 10,
     "weekNum": 4,
+    "startDate": "2020-09-26T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -2724,6 +2964,9 @@
     "homeScore": 45,
     "awayScore": 24,
     "weekNum": 4,
+    "startDate": "2020-09-27T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 259,
     "home": {
@@ -2758,6 +3001,9 @@
     "homeScore": 48,
     "awayScore": 7,
     "weekNum": 4,
+    "startDate": "2020-09-27T02:15:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -2792,6 +3038,9 @@
     "homeScore": 66,
     "awayScore": 14,
     "weekNum": 5,
+    "startDate": "2020-10-02T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 154,
     "home": {
@@ -2826,6 +3075,9 @@
     "homeScore": 45,
     "awayScore": 14,
     "weekNum": 5,
+    "startDate": "2020-10-03T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -2860,6 +3112,9 @@
     "homeScore": 35,
     "awayScore": 12,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2633,
     "home": {
@@ -2894,6 +3149,9 @@
     "homeScore": 27,
     "awayScore": 21,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 277,
     "home": {
@@ -2928,6 +3186,9 @@
     "homeScore": 49,
     "awayScore": 29,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2247,
     "home": {
@@ -2962,6 +3223,9 @@
     "homeScore": 52,
     "awayScore": 23,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -2996,6 +3260,9 @@
     "homeScore": 29,
     "awayScore": 30,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -3030,6 +3297,9 @@
     "homeScore": 31,
     "awayScore": 33,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2628,
     "home": {
@@ -3064,6 +3334,9 @@
     "homeScore": 38,
     "awayScore": 24,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -3098,6 +3371,9 @@
     "homeScore": 21,
     "awayScore": 13,
     "weekNum": 5,
+    "startDate": "2020-10-03T16:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 5,
     "home": {
@@ -3132,6 +3408,9 @@
     "homeScore": 28,
     "awayScore": 7,
     "weekNum": 5,
+    "startDate": "2020-10-03T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -3166,6 +3445,9 @@
     "homeScore": 55,
     "awayScore": 23,
     "weekNum": 5,
+    "startDate": "2020-10-03T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -3200,6 +3482,9 @@
     "homeScore": 52,
     "awayScore": 24,
     "weekNum": 5,
+    "startDate": "2020-10-03T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -3234,6 +3519,9 @@
     "homeScore": 22,
     "awayScore": 26,
     "weekNum": 5,
+    "startDate": "2020-10-03T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -3268,6 +3556,9 @@
     "homeScore": 7,
     "awayScore": 47,
     "weekNum": 5,
+    "startDate": "2020-10-03T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -3302,6 +3593,9 @@
     "homeScore": 28,
     "awayScore": 7,
     "weekNum": 5,
+    "startDate": "2020-10-03T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -3336,6 +3630,9 @@
     "homeScore": 31,
     "awayScore": 21,
     "weekNum": 5,
+    "startDate": "2020-10-03T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2306,
     "home": {
@@ -3370,6 +3667,9 @@
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 5,
+    "startDate": "2020-10-03T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -3404,6 +3704,9 @@
     "homeScore": 41,
     "awayScore": 42,
     "weekNum": 5,
+    "startDate": "2020-10-03T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 145,
     "home": {
@@ -3438,6 +3741,9 @@
     "homeScore": 21,
     "awayScore": 17,
     "weekNum": 5,
+    "startDate": "2020-10-03T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2226,
     "home": {
@@ -3472,6 +3778,9 @@
     "homeScore": 41,
     "awayScore": 24,
     "weekNum": 5,
+    "startDate": "2020-10-03T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 52,
     "home": {
@@ -3506,6 +3815,9 @@
     "homeScore": 31,
     "awayScore": 38,
     "weekNum": 5,
+    "startDate": "2020-10-03T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 259,
     "home": {
@@ -3540,6 +3852,9 @@
     "homeScore": 17,
     "awayScore": 20,
     "weekNum": 5,
+    "startDate": "2020-10-03T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 98,
     "home": {
@@ -3574,6 +3889,9 @@
     "homeScore": 40,
     "awayScore": 7,
     "weekNum": 5,
+    "startDate": "2020-10-03T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2005,
     "home": {
@@ -3608,6 +3926,9 @@
     "homeScore": 30,
     "awayScore": 35,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -3642,6 +3963,9 @@
     "homeScore": 31,
     "awayScore": 41,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2572,
     "home": {
@@ -3676,6 +4000,9 @@
     "homeScore": 37,
     "awayScore": 30,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -3710,6 +4037,9 @@
     "homeScore": 26,
     "awayScore": 34,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 202,
     "home": {
@@ -3744,6 +4074,9 @@
     "homeScore": 27,
     "awayScore": 6,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -3778,6 +4111,9 @@
     "homeScore": 7,
     "awayScore": 41,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 99,
     "home": {
@@ -3812,6 +4148,9 @@
     "homeScore": 14,
     "awayScore": 21,
     "weekNum": 5,
+    "startDate": "2020-10-03T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 8,
     "home": {
@@ -3846,6 +4185,9 @@
     "homeScore": 41,
     "awayScore": 23,
     "weekNum": 5,
+    "startDate": "2020-10-04T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -3880,6 +4222,9 @@
     "homeScore": 49,
     "awayScore": 31,
     "weekNum": 6,
+    "startDate": "2020-10-08T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 248,
     "home": {
@@ -3914,6 +4259,9 @@
     "homeScore": 46,
     "awayScore": 27,
     "weekNum": 6,
+    "startDate": "2020-10-09T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 59,
     "home": {
@@ -3948,6 +4296,9 @@
     "homeScore": 40,
     "awayScore": 7,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -3982,6 +4333,9 @@
     "homeScore": 41,
     "awayScore": 38,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -4016,6 +4370,9 @@
     "homeScore": 56,
     "awayScore": 45,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -4050,6 +4407,9 @@
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -4084,6 +4444,9 @@
     "homeScore": 7,
     "awayScore": 41,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2579,
     "home": {
@@ -4118,6 +4481,9 @@
     "homeScore": 41,
     "awayScore": 45,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 142,
     "home": {
@@ -4152,6 +4518,9 @@
     "homeScore": 53,
     "awayScore": 45,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -4186,6 +4555,9 @@
     "homeScore": 24,
     "awayScore": 38,
     "weekNum": 6,
+    "startDate": "2020-10-10T16:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 150,
     "home": {
@@ -4220,6 +4592,9 @@
     "homeScore": 14,
     "awayScore": 9,
     "weekNum": 6,
+    "startDate": "2020-10-10T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -4254,6 +4629,9 @@
     "homeScore": 27,
     "awayScore": 20,
     "weekNum": 6,
+    "startDate": "2020-10-10T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -4288,6 +4666,9 @@
     "homeScore": 50,
     "awayScore": 27,
     "weekNum": 6,
+    "startDate": "2020-10-10T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2032,
     "home": {
@@ -4322,6 +4703,9 @@
     "homeScore": 37,
     "awayScore": 17,
     "weekNum": 6,
+    "startDate": "2020-10-10T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2653,
     "home": {
@@ -4356,6 +4740,9 @@
     "homeScore": 31,
     "awayScore": 15,
     "weekNum": 6,
+    "startDate": "2020-10-10T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -4390,6 +4777,9 @@
     "homeScore": 44,
     "awayScore": 21,
     "weekNum": 6,
+    "startDate": "2020-10-10T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -4424,6 +4814,9 @@
     "homeScore": 28,
     "awayScore": 31,
     "weekNum": 6,
+    "startDate": "2020-10-10T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2393,
     "home": {
@@ -4458,6 +4851,9 @@
     "homeScore": 30,
     "awayScore": 28,
     "weekNum": 6,
+    "startDate": "2020-10-10T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2,
     "home": {
@@ -4492,6 +4888,9 @@
     "homeScore": 31,
     "awayScore": 30,
     "weekNum": 6,
+    "startDate": "2020-10-10T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 103,
     "home": {
@@ -4526,6 +4925,9 @@
     "homeScore": 14,
     "awayScore": 21,
     "weekNum": 6,
+    "startDate": "2020-10-10T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2306,
     "home": {
@@ -4560,6 +4962,9 @@
     "homeScore": 31,
     "awayScore": 29,
     "weekNum": 6,
+    "startDate": "2020-10-10T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2426,
     "home": {
@@ -4594,6 +4999,9 @@
     "homeScore": 24,
     "awayScore": 44,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 151,
     "home": {
@@ -4628,6 +5036,9 @@
     "homeScore": 42,
     "awayScore": 26,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -4662,6 +5073,9 @@
     "homeScore": 42,
     "awayScore": 17,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -4696,6 +5110,9 @@
     "homeScore": 48,
     "awayScore": 63,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -4730,6 +5147,9 @@
     "homeScore": 24,
     "awayScore": 2,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 96,
     "home": {
@@ -4764,6 +5184,9 @@
     "homeScore": 21,
     "awayScore": 17,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2348,
     "home": {
@@ -4798,6 +5221,9 @@
     "homeScore": 14,
     "awayScore": 38,
     "weekNum": 6,
+    "startDate": "2020-10-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -4832,6 +5258,9 @@
     "homeScore": 21,
     "awayScore": 49,
     "weekNum": 6,
+    "startDate": "2020-10-11T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2429,
     "home": {
@@ -4866,6 +5295,9 @@
     "homeScore": 27,
     "awayScore": 30,
     "weekNum": 7,
+    "startDate": "2020-10-14T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -4900,6 +5332,9 @@
     "homeScore": 59,
     "awayScore": 52,
     "weekNum": 7,
+    "startDate": "2020-10-15T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2032,
     "home": {
@@ -4934,6 +5369,9 @@
     "homeScore": 34,
     "awayScore": 37,
     "weekNum": 7,
+    "startDate": "2020-10-16T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -4968,6 +5406,9 @@
     "homeScore": 26,
     "awayScore": 43,
     "weekNum": 7,
+    "startDate": "2020-10-17T01:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -5002,6 +5443,9 @@
     "homeScore": 30,
     "awayScore": 20,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 6,
     "home": {
@@ -5036,6 +5480,9 @@
     "homeScore": 31,
     "awayScore": 19,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -5070,6 +5517,9 @@
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -5104,6 +5554,9 @@
     "homeScore": 30,
     "awayScore": 22,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2579,
     "home": {
@@ -5138,6 +5591,9 @@
     "homeScore": 38,
     "awayScore": 17,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 277,
     "home": {
@@ -5172,6 +5628,9 @@
     "homeScore": 7,
     "awayScore": 73,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -5206,6 +5665,9 @@
     "homeScore": 39,
     "awayScore": 37,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 218,
     "home": {
@@ -5240,6 +5702,9 @@
     "homeScore": 23,
     "awayScore": 27,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2426,
     "home": {
@@ -5274,6 +5739,9 @@
     "homeScore": 7,
     "awayScore": 34,
     "weekNum": 7,
+    "startDate": "2020-10-17T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 96,
     "home": {
@@ -5308,6 +5776,9 @@
     "homeScore": 37,
     "awayScore": 14,
     "weekNum": 7,
+    "startDate": "2020-10-17T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 5,
     "home": {
@@ -5342,6 +5813,9 @@
     "homeScore": 16,
     "awayScore": 28,
     "weekNum": 7,
+    "startDate": "2020-10-17T17:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -5376,6 +5850,9 @@
     "homeScore": 12,
     "awayScore": 7,
     "weekNum": 7,
+    "startDate": "2020-10-17T18:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -5410,6 +5887,9 @@
     "homeScore": 31,
     "awayScore": 20,
     "weekNum": 7,
+    "startDate": "2020-10-17T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -5444,6 +5924,9 @@
     "homeScore": 50,
     "awayScore": 49,
     "weekNum": 7,
+    "startDate": "2020-10-17T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -5478,6 +5961,9 @@
     "homeScore": 33,
     "awayScore": 21,
     "weekNum": 7,
+    "startDate": "2020-10-17T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 8,
     "home": {
@@ -5512,6 +5998,9 @@
     "homeScore": 31,
     "awayScore": 29,
     "weekNum": 7,
+    "startDate": "2020-10-17T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2653,
     "home": {
@@ -5546,6 +6035,9 @@
     "homeScore": 40,
     "awayScore": 23,
     "weekNum": 7,
+    "startDate": "2020-10-17T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 154,
     "home": {
@@ -5580,6 +6072,9 @@
     "homeScore": 41,
     "awayScore": 0,
     "weekNum": 7,
+    "startDate": "2020-10-17T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -5614,6 +6109,9 @@
     "homeScore": 14,
     "awayScore": 28,
     "weekNum": 7,
+    "startDate": "2020-10-17T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -5648,6 +6146,9 @@
     "homeScore": 35,
     "awayScore": 52,
     "weekNum": 7,
+    "startDate": "2020-10-17T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 249,
     "home": {
@@ -5682,6 +6183,9 @@
     "homeScore": 17,
     "awayScore": 35,
     "weekNum": 7,
+    "startDate": "2020-10-17T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -5716,6 +6220,9 @@
     "homeScore": 31,
     "awayScore": 28,
     "weekNum": 7,
+    "startDate": "2020-10-17T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 52,
     "home": {
@@ -5750,6 +6257,9 @@
     "homeScore": 40,
     "awayScore": 14,
     "weekNum": 7,
+    "startDate": "2020-10-18T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 259,
     "home": {
@@ -5784,6 +6294,9 @@
     "homeScore": 41,
     "awayScore": 24,
     "weekNum": 7,
+    "startDate": "2020-10-18T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -5818,6 +6331,9 @@
     "homeScore": 45,
     "awayScore": 17,
     "weekNum": 8,
+    "startDate": "2020-10-22T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -5852,6 +6368,9 @@
     "homeScore": 10,
     "awayScore": 19,
     "weekNum": 8,
+    "startDate": "2020-10-23T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 55,
     "home": {
@@ -5886,6 +6405,9 @@
     "homeScore": 13,
     "awayScore": 42,
     "weekNum": 8,
+    "startDate": "2020-10-23T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 202,
     "home": {
@@ -5920,6 +6442,9 @@
     "homeScore": 20,
     "awayScore": 24,
     "weekNum": 8,
+    "startDate": "2020-10-24T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -5954,6 +6479,9 @@
     "homeScore": 45,
     "awayScore": 7,
     "weekNum": 8,
+    "startDate": "2020-10-24T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 275,
     "home": {
@@ -5988,6 +6516,9 @@
     "homeScore": 28,
     "awayScore": 35,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2,
     "home": {
@@ -6022,6 +6553,9 @@
     "homeScore": 55,
     "awayScore": 14,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2306,
     "home": {
@@ -6056,6 +6590,9 @@
     "homeScore": 48,
     "awayScore": 16,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 97,
     "home": {
@@ -6090,6 +6627,9 @@
     "homeScore": 38,
     "awayScore": 28,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2429,
     "home": {
@@ -6124,6 +6664,9 @@
     "homeScore": 41,
     "awayScore": 29,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -6158,6 +6701,9 @@
     "homeScore": 28,
     "awayScore": 14,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -6192,6 +6738,9 @@
     "homeScore": 48,
     "awayScore": 21,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -6226,6 +6775,9 @@
     "homeScore": 27,
     "awayScore": 38,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 164,
     "home": {
@@ -6260,6 +6812,9 @@
     "homeScore": 14,
     "awayScore": 33,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -6294,6 +6849,9 @@
     "homeScore": 52,
     "awayScore": 17,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 194,
     "home": {
@@ -6328,6 +6886,9 @@
     "homeScore": 49,
     "awayScore": 3,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -6362,6 +6923,9 @@
     "homeScore": 47,
     "awayScore": 21,
     "weekNum": 8,
+    "startDate": "2020-10-24T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -6396,6 +6960,9 @@
     "homeScore": 56,
     "awayScore": 35,
     "weekNum": 8,
+    "startDate": "2020-10-24T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -6430,6 +6997,9 @@
     "homeScore": 51,
     "awayScore": 34,
     "weekNum": 8,
+    "startDate": "2020-10-24T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2116,
     "home": {
@@ -6464,6 +7034,9 @@
     "homeScore": 20,
     "awayScore": 9,
     "weekNum": 8,
+    "startDate": "2020-10-24T18:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -6498,6 +7071,9 @@
     "homeScore": 36,
     "awayScore": 35,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 84,
     "home": {
@@ -6532,6 +7108,9 @@
     "homeScore": 27,
     "awayScore": 16,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 251,
     "home": {
@@ -6566,6 +7145,9 @@
     "homeScore": 21,
     "awayScore": 37,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 248,
     "home": {
@@ -6600,6 +7182,9 @@
     "homeScore": 34,
     "awayScore": 40,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2393,
     "home": {
@@ -6634,6 +7219,9 @@
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -6668,6 +7256,9 @@
     "homeScore": 24,
     "awayScore": 20,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2509,
     "home": {
@@ -6702,6 +7293,9 @@
     "homeScore": 23,
     "awayScore": 16,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 154,
     "home": {
@@ -6736,6 +7330,9 @@
     "homeScore": 17,
     "awayScore": 48,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -6770,6 +7367,9 @@
     "homeScore": 3,
     "awayScore": 45,
     "weekNum": 8,
+    "startDate": "2020-10-24T19:41:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -6804,6 +7404,9 @@
     "homeScore": 34,
     "awayScore": 36,
     "weekNum": 8,
+    "startDate": "2020-10-24T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2247,
     "home": {
@@ -6838,6 +7441,9 @@
     "homeScore": 13,
     "awayScore": 10,
     "weekNum": 8,
+    "startDate": "2020-10-24T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 98,
     "home": {
@@ -6872,6 +7478,9 @@
     "homeScore": 48,
     "awayScore": 27,
     "weekNum": 8,
+    "startDate": "2020-10-24T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 103,
     "home": {
@@ -6906,6 +7515,9 @@
     "homeScore": 20,
     "awayScore": 10,
     "weekNum": 8,
+    "startDate": "2020-10-24T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 142,
     "home": {
@@ -6940,6 +7552,9 @@
     "homeScore": 34,
     "awayScore": 27,
     "weekNum": 8,
+    "startDate": "2020-10-24T21:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2641,
     "home": {
@@ -6974,6 +7589,9 @@
     "homeScore": 42,
     "awayScore": 13,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 68,
     "home": {
@@ -7008,6 +7626,9 @@
     "homeScore": 52,
     "awayScore": 24,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 99,
     "home": {
@@ -7042,6 +7663,9 @@
     "homeScore": 38,
     "awayScore": 14,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 6,
     "home": {
@@ -7076,6 +7700,9 @@
     "homeScore": 37,
     "awayScore": 34,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2440,
     "home": {
@@ -7110,6 +7737,9 @@
     "homeScore": 24,
     "awayScore": 49,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 130,
     "home": {
@@ -7144,6 +7774,9 @@
     "homeScore": 19,
     "awayScore": 34,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 62,
     "home": {
@@ -7178,6 +7811,9 @@
     "homeScore": 43,
     "awayScore": 3,
     "weekNum": 8,
+    "startDate": "2020-10-24T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 77,
     "home": {
@@ -7212,6 +7848,9 @@
     "homeScore": 27,
     "awayScore": 26,
     "weekNum": 8,
+    "startDate": "2020-10-25T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -7246,6 +7885,9 @@
     "homeScore": 19,
     "awayScore": 14,
     "weekNum": 8,
+    "startDate": "2020-10-25T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -7280,6 +7922,9 @@
     "homeScore": 13,
     "awayScore": 42,
     "weekNum": 8,
+    "startDate": "2020-10-25T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -7314,6 +7959,9 @@
     "homeScore": 52,
     "awayScore": 14,
     "weekNum": 8,
+    "startDate": "2020-10-25T02:15:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -7348,6 +7996,9 @@
     "homeScore": 17,
     "awayScore": 6,
     "weekNum": 8,
+    "startDate": "2020-10-25T02:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -7382,6 +8033,9 @@
     "homeScore": 34,
     "awayScore": 6,
     "weekNum": 8,
+    "startDate": "2020-10-25T02:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 21,
     "home": {
@@ -7416,6 +8070,9 @@
     "homeScore": 24,
     "awayScore": 17,
     "weekNum": 9,
+    "startDate": "2020-10-29T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -7450,6 +8107,9 @@
     "homeScore": 38,
     "awayScore": 17,
     "weekNum": 9,
+    "startDate": "2020-10-30T02:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 278,
     "home": {
@@ -7484,6 +8144,9 @@
     "homeScore": 45,
     "awayScore": 44,
     "weekNum": 9,
+    "startDate": "2020-10-30T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 120,
     "home": {
@@ -7518,6 +8181,9 @@
     "homeScore": 34,
     "awayScore": 30,
     "weekNum": 9,
+    "startDate": "2020-10-31T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 202,
     "home": {
@@ -7552,6 +8218,9 @@
     "homeScore": 31,
     "awayScore": 7,
     "weekNum": 9,
+    "startDate": "2020-10-31T01:45:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2751,
     "home": {
@@ -7586,6 +8255,9 @@
     "homeScore": 38,
     "awayScore": 3,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2655,
     "home": {
@@ -7620,6 +8292,9 @@
     "homeScore": 3,
     "awayScore": 14,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -7654,6 +8329,9 @@
     "homeScore": 24,
     "awayScore": 31,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2509,
     "home": {
@@ -7688,6 +8366,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 127,
     "home": {
@@ -7722,6 +8403,9 @@
     "homeScore": 14,
     "awayScore": 38,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 154,
     "home": {
@@ -7756,6 +8440,9 @@
     "homeScore": 22,
     "awayScore": 52,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -7790,6 +8477,9 @@
     "homeScore": 0,
     "awayScore": 51,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -7824,6 +8514,9 @@
     "homeScore": 34,
     "awayScore": 28,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -7858,6 +8551,9 @@
     "homeScore": 49,
     "awayScore": 10,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -7892,6 +8588,9 @@
     "homeScore": 37,
     "awayScore": 10,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 277,
     "home": {
@@ -7926,6 +8625,9 @@
     "homeScore": 24,
     "awayScore": 3,
     "weekNum": 9,
+    "startDate": "2020-10-31T16:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2226,
     "home": {
@@ -7960,6 +8662,9 @@
     "homeScore": 21,
     "awayScore": 44,
     "weekNum": 9,
+    "startDate": "2020-10-31T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2116,
     "home": {
@@ -7994,6 +8699,9 @@
     "homeScore": 6,
     "awayScore": 30,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 242,
     "home": {
@@ -8028,6 +8736,9 @@
     "homeScore": 10,
     "awayScore": 38,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2653,
     "home": {
@@ -8062,6 +8773,9 @@
     "homeScore": 23,
     "awayScore": 33,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2628,
     "home": {
@@ -8096,6 +8810,9 @@
     "homeScore": 20,
     "awayScore": 21,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 77,
     "home": {
@@ -8130,6 +8847,9 @@
     "homeScore": 13,
     "awayScore": 31,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -8164,6 +8884,9 @@
     "homeScore": 48,
     "awayScore": 11,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2,
     "home": {
@@ -8198,6 +8921,9 @@
     "homeScore": 21,
     "awayScore": 37,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 84,
     "home": {
@@ -8232,6 +8958,9 @@
     "homeScore": 37,
     "awayScore": 34,
     "weekNum": 9,
+    "startDate": "2020-10-31T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2348,
     "home": {
@@ -8266,6 +8995,9 @@
     "homeScore": 21,
     "awayScore": 54,
     "weekNum": 9,
+    "startDate": "2020-10-31T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 145,
     "home": {
@@ -8300,6 +9032,9 @@
     "homeScore": 34,
     "awayScore": 41,
     "weekNum": 9,
+    "startDate": "2020-10-31T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 251,
     "home": {
@@ -8334,6 +9069,9 @@
     "homeScore": 35,
     "awayScore": 42,
     "weekNum": 9,
+    "startDate": "2020-10-31T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 259,
     "home": {
@@ -8368,6 +9106,9 @@
     "homeScore": 13,
     "awayScore": 31,
     "weekNum": 9,
+    "startDate": "2020-10-31T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -8402,6 +9143,9 @@
     "homeScore": 30,
     "awayScore": 49,
     "weekNum": 9,
+    "startDate": "2020-10-31T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 68,
     "home": {
@@ -8436,6 +9180,9 @@
     "homeScore": 41,
     "awayScore": 0,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -8470,6 +9217,9 @@
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -8504,6 +9254,9 @@
     "homeScore": 53,
     "awayScore": 19,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 150,
     "home": {
@@ -8538,6 +9291,9 @@
     "homeScore": 42,
     "awayScore": 31,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -8572,6 +9328,9 @@
     "homeScore": 25,
     "awayScore": 38,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 194,
     "home": {
@@ -8606,6 +9365,9 @@
     "homeScore": 41,
     "awayScore": 17,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -8640,6 +9402,9 @@
     "homeScore": 51,
     "awayScore": 37,
     "weekNum": 9,
+    "startDate": "2020-10-31T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -8674,6 +9439,9 @@
     "homeScore": 28,
     "awayScore": 62,
     "weekNum": 9,
+    "startDate": "2020-11-01T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -8708,6 +9476,9 @@
     "homeScore": 44,
     "awayScore": 41,
     "weekNum": 9,
+    "startDate": "2020-11-01T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 258,
     "home": {
@@ -8742,6 +9513,9 @@
     "homeScore": 34,
     "awayScore": 44,
     "weekNum": 9,
+    "startDate": "2020-11-01T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -8776,6 +9550,9 @@
     "homeScore": 7,
     "awayScore": 38,
     "weekNum": 9,
+    "startDate": "2020-11-01T01:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 21,
     "home": {
@@ -8810,6 +9587,9 @@
     "homeScore": 41,
     "awayScore": 10,
     "weekNum": 9,
+    "startDate": "2020-11-01T02:15:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -8844,6 +9624,9 @@
     "homeScore": 19,
     "awayScore": 37,
     "weekNum": 9,
+    "startDate": "2020-11-01T02:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2440,
     "home": {
@@ -8878,6 +9661,9 @@
     "homeScore": 27,
     "awayScore": 23,
     "weekNum": 10,
+    "startDate": "2020-11-04T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2309,
     "home": {
@@ -8912,6 +9698,9 @@
     "homeScore": 13,
     "awayScore": 58,
     "weekNum": 10,
+    "startDate": "2020-11-04T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2711,
     "home": {
@@ -8946,6 +9735,9 @@
     "homeScore": 38,
     "awayScore": 31,
     "weekNum": 10,
+    "startDate": "2020-11-05T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 193,
     "home": {
@@ -8980,6 +9772,9 @@
     "homeScore": 30,
     "awayScore": 49,
     "weekNum": 10,
+    "startDate": "2020-11-05T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2084,
     "home": {
@@ -9014,6 +9809,9 @@
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 10,
+    "startDate": "2020-11-05T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2117,
     "home": {
@@ -9048,6 +9846,9 @@
     "homeScore": 38,
     "awayScore": 3,
     "weekNum": 10,
+    "startDate": "2020-11-05T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2649,
     "home": {
@@ -9082,6 +9883,9 @@
     "homeScore": 34,
     "awayScore": 9,
     "weekNum": 10,
+    "startDate": "2020-11-06T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2440,
     "home": {
@@ -9116,6 +9920,9 @@
     "homeScore": 34,
     "awayScore": 24,
     "weekNum": 10,
+    "startDate": "2020-11-06T02:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 36,
     "home": {
@@ -9150,6 +9957,9 @@
     "homeScore": 41,
     "awayScore": 44,
     "weekNum": 10,
+    "startDate": "2020-11-07T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -9184,6 +9994,9 @@
     "homeScore": 17,
     "awayScore": 28,
     "weekNum": 10,
+    "startDate": "2020-11-07T02:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -9218,6 +10031,9 @@
     "homeScore": 17,
     "awayScore": 51,
     "weekNum": 10,
+    "startDate": "2020-11-07T02:45:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -9252,6 +10068,9 @@
     "homeScore": 27,
     "awayScore": 20,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -9286,6 +10105,9 @@
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2655,
     "home": {
@@ -9320,6 +10142,9 @@
     "homeScore": 52,
     "awayScore": 34,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2247,
     "home": {
@@ -9354,6 +10179,9 @@
     "homeScore": 21,
     "awayScore": 13,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 77,
     "home": {
@@ -9388,6 +10216,9 @@
     "homeScore": 38,
     "awayScore": 21,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 84,
     "home": {
@@ -9422,6 +10253,9 @@
     "homeScore": 34,
     "awayScore": 33,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -9456,6 +10290,9 @@
     "homeScore": 49,
     "awayScore": 7,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -9490,6 +10327,9 @@
     "homeScore": 23,
     "awayScore": 47,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2567,
     "home": {
@@ -9524,6 +10364,9 @@
     "homeScore": 17,
     "awayScore": 13,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 251,
     "home": {
@@ -9558,6 +10401,9 @@
     "homeScore": 28,
     "awayScore": 27,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 30,
     "home": {
@@ -9592,6 +10438,9 @@
     "homeScore": 24,
     "awayScore": 56,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -9626,6 +10475,9 @@
     "homeScore": 35,
     "awayScore": 38,
     "weekNum": 10,
+    "startDate": "2020-11-07T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -9660,6 +10512,9 @@
     "homeScore": 20,
     "awayScore": 13,
     "weekNum": 10,
+    "startDate": "2020-11-07T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -9694,6 +10549,9 @@
     "homeScore": 13,
     "awayScore": 16,
     "weekNum": 10,
+    "startDate": "2020-11-07T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 103,
     "home": {
@@ -9728,6 +10586,9 @@
     "homeScore": 51,
     "awayScore": 10,
     "weekNum": 10,
+    "startDate": "2020-11-07T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -9762,6 +10623,9 @@
     "homeScore": 17,
     "awayScore": 38,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -9796,6 +10660,9 @@
     "homeScore": 24,
     "awayScore": 13,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2572,
     "home": {
@@ -9830,6 +10697,9 @@
     "homeScore": 62,
     "awayScore": 9,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -9864,6 +10734,9 @@
     "homeScore": 38,
     "awayScore": 10,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -9898,6 +10771,9 @@
     "homeScore": 27,
     "awayScore": 40,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 278,
     "home": {
@@ -9932,6 +10808,9 @@
     "homeScore": 34,
     "awayScore": 18,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2628,
     "home": {
@@ -9966,6 +10845,9 @@
     "homeScore": 24,
     "awayScore": 17,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 344,
     "home": {
@@ -10000,6 +10882,9 @@
     "homeScore": 19,
     "awayScore": 35,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 120,
     "home": {
@@ -10034,6 +10919,9 @@
     "homeScore": 14,
     "awayScore": 41,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 135,
     "home": {
@@ -10068,6 +10956,9 @@
     "homeScore": 28,
     "awayScore": 44,
     "weekNum": 10,
+    "startDate": "2020-11-07T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -10102,6 +10993,9 @@
     "homeScore": 17,
     "awayScore": 41,
     "weekNum": 10,
+    "startDate": "2020-11-07T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 221,
     "home": {
@@ -10136,6 +11030,9 @@
     "homeScore": 18,
     "awayScore": 20,
     "weekNum": 10,
+    "startDate": "2020-11-07T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -10170,6 +11067,9 @@
     "homeScore": 10,
     "awayScore": 6,
     "weekNum": 10,
+    "startDate": "2020-11-07T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2226,
     "home": {
@@ -10204,6 +11104,9 @@
     "homeScore": 48,
     "awayScore": 42,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 38,
     "home": {
@@ -10238,6 +11141,9 @@
     "homeScore": 38,
     "awayScore": 31,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -10272,6 +11178,9 @@
     "homeScore": 3,
     "awayScore": 48,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -10306,6 +11215,9 @@
     "homeScore": 24,
     "awayScore": 13,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 8,
     "home": {
@@ -10340,6 +11252,9 @@
     "homeScore": 47,
     "awayScore": 40,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -10374,6 +11289,9 @@
     "homeScore": 49,
     "awayScore": 27,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 194,
     "home": {
@@ -10408,6 +11326,9 @@
     "homeScore": 35,
     "awayScore": 14,
     "weekNum": 10,
+    "startDate": "2020-11-08T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2483,
     "home": {
@@ -10442,6 +11363,9 @@
     "homeScore": 23,
     "awayScore": 6,
     "weekNum": 10,
+    "startDate": "2020-11-08T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -10476,6 +11400,9 @@
     "homeScore": 28,
     "awayScore": 38,
     "weekNum": 10,
+    "startDate": "2020-11-08T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 265,
     "home": {
@@ -10510,6 +11437,9 @@
     "homeScore": 39,
     "awayScore": 33,
     "weekNum": 10,
+    "startDate": "2020-11-08T04:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 62,
     "home": {
@@ -10544,6 +11474,9 @@
     "homeScore": 24,
     "awayScore": 10,
     "weekNum": 11,
+    "startDate": "2020-11-11T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 195,
     "home": {
@@ -10578,6 +11511,9 @@
     "homeScore": 24,
     "awayScore": 62,
     "weekNum": 11,
+    "startDate": "2020-11-11T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2309,
     "home": {
@@ -10612,6 +11548,9 @@
     "homeScore": 42,
     "awayScore": 10,
     "weekNum": 11,
+    "startDate": "2020-11-11T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2084,
     "home": {
@@ -10646,6 +11585,9 @@
     "homeScore": 38,
     "awayScore": 31,
     "weekNum": 11,
+    "startDate": "2020-11-12T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2050,
     "home": {
@@ -10680,6 +11622,9 @@
     "homeScore": 41,
     "awayScore": 38,
     "weekNum": 11,
+    "startDate": "2020-11-12T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2711,
     "home": {
@@ -10714,6 +11659,9 @@
     "homeScore": 10,
     "awayScore": 40,
     "weekNum": 11,
+    "startDate": "2020-11-12T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2117,
     "home": {
@@ -10748,6 +11696,9 @@
     "homeScore": 52,
     "awayScore": 21,
     "weekNum": 11,
+    "startDate": "2020-11-13T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 68,
     "home": {
@@ -10782,6 +11733,9 @@
     "homeScore": 19,
     "awayScore": 38,
     "weekNum": 11,
+    "startDate": "2020-11-14T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2226,
     "home": {
@@ -10816,6 +11770,9 @@
     "homeScore": 7,
     "awayScore": 35,
     "weekNum": 11,
+    "startDate": "2020-11-14T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -10850,6 +11807,9 @@
     "homeScore": 55,
     "awayScore": 17,
     "weekNum": 11,
+    "startDate": "2020-11-14T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -10884,6 +11844,9 @@
     "homeScore": 42,
     "awayScore": 14,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 276,
     "home": {
@@ -10918,6 +11881,9 @@
     "homeScore": 58,
     "awayScore": 14,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -10952,6 +11918,9 @@
     "homeScore": 24,
     "awayScore": 25,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -10986,6 +11955,9 @@
     "homeScore": 0,
     "awayScore": 24,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 84,
     "home": {
@@ -11020,6 +11992,9 @@
     "homeScore": 59,
     "awayScore": 53,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -11054,6 +12029,9 @@
     "homeScore": 30,
     "awayScore": 23,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 158,
     "home": {
@@ -11088,6 +12066,9 @@
     "homeScore": 38,
     "awayScore": 12,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2655,
     "home": {
@@ -11122,6 +12103,9 @@
     "homeScore": 24,
     "awayScore": 6,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 277,
     "home": {
@@ -11156,6 +12140,9 @@
     "homeScore": 38,
     "awayScore": 35,
     "weekNum": 11,
+    "startDate": "2020-11-14T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 96,
     "home": {
@@ -11190,6 +12177,9 @@
     "homeScore": 20,
     "awayScore": 23,
     "weekNum": 11,
+    "startDate": "2020-11-14T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 356,
     "home": {
@@ -11224,6 +12214,9 @@
     "homeScore": 38,
     "awayScore": 10,
     "weekNum": 11,
+    "startDate": "2020-11-14T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -11258,6 +12251,9 @@
     "homeScore": 16,
     "awayScore": 35,
     "weekNum": 11,
+    "startDate": "2020-11-14T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 278,
     "home": {
@@ -11292,6 +12288,9 @@
     "homeScore": 17,
     "awayScore": 13,
     "weekNum": 11,
+    "startDate": "2020-11-14T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -11326,6 +12325,9 @@
     "homeScore": 52,
     "awayScore": 21,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -11360,6 +12362,9 @@
     "homeScore": 31,
     "awayScore": 17,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 258,
     "home": {
@@ -11394,6 +12399,9 @@
     "homeScore": 10,
     "awayScore": 7,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 98,
     "home": {
@@ -11428,6 +12436,9 @@
     "homeScore": 31,
     "awayScore": 45,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -11462,6 +12473,9 @@
     "homeScore": 40,
     "awayScore": 38,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -11496,6 +12510,9 @@
     "homeScore": 30,
     "awayScore": 34,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 30,
     "home": {
@@ -11530,6 +12547,9 @@
     "homeScore": 32,
     "awayScore": 35,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 38,
     "home": {
@@ -11564,6 +12584,9 @@
     "homeScore": 56,
     "awayScore": 21,
     "weekNum": 11,
+    "startDate": "2020-11-14T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 248,
     "home": {
@@ -11598,6 +12621,9 @@
     "homeScore": 24,
     "awayScore": 23,
     "weekNum": 11,
+    "startDate": "2020-11-14T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2641,
     "home": {
@@ -11632,6 +12658,9 @@
     "homeScore": 34,
     "awayScore": 10,
     "weekNum": 11,
+    "startDate": "2020-11-14T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 21,
     "home": {
@@ -11666,6 +12695,9 @@
     "homeScore": 20,
     "awayScore": 27,
     "weekNum": 11,
+    "startDate": "2020-11-14T22:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 77,
     "home": {
@@ -11700,6 +12732,9 @@
     "homeScore": 20,
     "awayScore": 27,
     "weekNum": 11,
+    "startDate": "2020-11-14T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2440,
     "home": {
@@ -11734,6 +12769,9 @@
     "homeScore": 63,
     "awayScore": 35,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -11768,6 +12806,9 @@
     "homeScore": 29,
     "awayScore": 43,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2483,
     "home": {
@@ -11802,6 +12843,9 @@
     "homeScore": 28,
     "awayScore": 24,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 202,
     "home": {
@@ -11836,6 +12880,9 @@
     "homeScore": 38,
     "awayScore": 13,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2116,
     "home": {
@@ -11870,6 +12917,9 @@
     "homeScore": 59,
     "awayScore": 42,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 145,
     "home": {
@@ -11904,6 +12954,9 @@
     "homeScore": 38,
     "awayScore": 22,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -11938,6 +12991,9 @@
     "homeScore": 11,
     "awayScore": 49,
     "weekNum": 11,
+    "startDate": "2020-11-15T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 275,
     "home": {
@@ -11972,6 +13028,9 @@
     "homeScore": 34,
     "awayScore": 17,
     "weekNum": 11,
+    "startDate": "2020-11-15T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -12006,6 +13065,9 @@
     "homeScore": 27,
     "awayScore": 21,
     "weekNum": 11,
+    "startDate": "2020-11-15T04:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 264,
     "home": {
@@ -12040,6 +13102,9 @@
     "homeScore": 34,
     "awayScore": 10,
     "weekNum": 12,
+    "startDate": "2020-11-15T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 26,
     "home": {
@@ -12074,6 +13139,9 @@
     "homeScore": 17,
     "awayScore": 42,
     "weekNum": 12,
+    "startDate": "2020-11-18T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2084,
     "home": {
@@ -12108,6 +13176,9 @@
     "homeScore": 69,
     "awayScore": 35,
     "weekNum": 12,
+    "startDate": "2020-11-18T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2309,
     "home": {
@@ -12142,6 +13213,9 @@
     "homeScore": 31,
     "awayScore": 25,
     "weekNum": 12,
+    "startDate": "2020-11-19T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2050,
     "home": {
@@ -12176,6 +13250,9 @@
     "homeScore": 44,
     "awayScore": 52,
     "weekNum": 12,
+    "startDate": "2020-11-19T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2711,
     "home": {
@@ -12210,6 +13287,9 @@
     "homeScore": 28,
     "awayScore": 45,
     "weekNum": 12,
+    "startDate": "2020-11-19T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2649,
     "home": {
@@ -12244,6 +13324,9 @@
     "homeScore": 30,
     "awayScore": 24,
     "weekNum": 12,
+    "startDate": "2020-11-20T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 202,
     "home": {
@@ -12278,6 +13361,9 @@
     "homeScore": 30,
     "awayScore": 0,
     "weekNum": 12,
+    "startDate": "2020-11-21T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 97,
     "home": {
@@ -12312,6 +13398,9 @@
     "homeScore": 34,
     "awayScore": 31,
     "weekNum": 12,
+    "startDate": "2020-11-21T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 135,
     "home": {
@@ -12346,6 +13435,9 @@
     "homeScore": 24,
     "awayScore": 2,
     "weekNum": 12,
+    "startDate": "2020-11-21T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2226,
     "home": {
@@ -12380,6 +13472,9 @@
     "homeScore": 28,
     "awayScore": 0,
     "weekNum": 12,
+    "startDate": "2020-11-21T02:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2005,
     "home": {
@@ -12414,6 +13509,9 @@
     "homeScore": 34,
     "awayScore": 23,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -12448,6 +13546,9 @@
     "homeScore": 28,
     "awayScore": 27,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -12482,6 +13583,9 @@
     "homeScore": 47,
     "awayScore": 45,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 326,
     "home": {
@@ -12516,6 +13620,9 @@
     "homeScore": 3,
     "awayScore": 28,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 151,
     "home": {
@@ -12550,6 +13657,9 @@
     "homeScore": 56,
     "awayScore": 14,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -12584,6 +13694,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 99,
     "home": {
@@ -12618,6 +13731,9 @@
     "homeScore": 23,
     "awayScore": 41,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 356,
     "home": {
@@ -12652,6 +13768,9 @@
     "homeScore": 17,
     "awayScore": 38,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -12686,6 +13805,9 @@
     "homeScore": 42,
     "awayScore": 35,
     "weekNum": 12,
+    "startDate": "2020-11-21T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 194,
     "home": {
@@ -12720,6 +13842,9 @@
     "homeScore": 38,
     "awayScore": 21,
     "weekNum": 12,
+    "startDate": "2020-11-21T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 98,
     "home": {
@@ -12754,6 +13879,9 @@
     "homeScore": 27,
     "awayScore": 17,
     "weekNum": 12,
+    "startDate": "2020-11-21T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 249,
     "home": {
@@ -12788,6 +13916,9 @@
     "homeScore": 20,
     "awayScore": 23,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -12822,6 +13953,9 @@
     "homeScore": 66,
     "awayScore": 14,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -12856,6 +13990,9 @@
     "homeScore": 17,
     "awayScore": 7,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 77,
     "home": {
@@ -12890,6 +14027,9 @@
     "homeScore": 33,
     "awayScore": 36,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -12924,6 +14064,9 @@
     "homeScore": 31,
     "awayScore": 27,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 204,
     "home": {
@@ -12958,6 +14101,9 @@
     "homeScore": 17,
     "awayScore": 20,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2393,
     "home": {
@@ -12992,6 +14138,9 @@
     "homeScore": 14,
     "awayScore": 31,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2247,
     "home": {
@@ -13026,6 +14175,9 @@
     "homeScore": 38,
     "awayScore": 35,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": true,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2483,
     "home": {
@@ -13060,6 +14212,9 @@
     "homeScore": 21,
     "awayScore": 41,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -13094,6 +14249,9 @@
     "homeScore": 26,
     "awayScore": 21,
     "weekNum": 12,
+    "startDate": "2020-11-21T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2440,
     "home": {
@@ -13128,6 +14286,9 @@
     "homeScore": 63,
     "awayScore": 3,
     "weekNum": 12,
+    "startDate": "2020-11-21T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -13162,6 +14323,9 @@
     "homeScore": 47,
     "awayScore": 14,
     "weekNum": 12,
+    "startDate": "2020-11-21T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 221,
     "home": {
@@ -13196,6 +14360,9 @@
     "homeScore": 55,
     "awayScore": 15,
     "weekNum": 12,
+    "startDate": "2020-11-21T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 258,
     "home": {
@@ -13230,6 +14397,9 @@
     "homeScore": 45,
     "awayScore": 0,
     "weekNum": 12,
+    "startDate": "2020-11-21T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -13264,6 +14434,9 @@
     "homeScore": 30,
     "awayScore": 17,
     "weekNum": 12,
+    "startDate": "2020-11-22T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2,
     "home": {
@@ -13298,6 +14471,9 @@
     "homeScore": 42,
     "awayScore": 48,
     "weekNum": 12,
+    "startDate": "2020-11-22T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 130,
     "home": {
@@ -13332,6 +14508,9 @@
     "homeScore": 31,
     "awayScore": 24,
     "weekNum": 12,
+    "startDate": "2020-11-22T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -13366,6 +14545,9 @@
     "homeScore": 15,
     "awayScore": 14,
     "weekNum": 12,
+    "startDate": "2020-11-22T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -13400,6 +14582,9 @@
     "homeScore": 41,
     "awayScore": 13,
     "weekNum": 12,
+    "startDate": "2020-11-22T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -13434,6 +14619,9 @@
     "homeScore": 10,
     "awayScore": 17,
     "weekNum": 12,
+    "startDate": "2020-11-22T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 142,
     "home": {
@@ -13468,6 +14656,9 @@
     "homeScore": 44,
     "awayScore": 27,
     "weekNum": 12,
+    "startDate": "2020-11-22T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 264,
     "home": {
@@ -13502,6 +14693,9 @@
     "homeScore": 17,
     "awayScore": 33,
     "weekNum": 12,
+    "startDate": "2020-11-22T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 30,
     "home": {
@@ -13536,6 +14730,9 @@
     "homeScore": 32,
     "awayScore": 40,
     "weekNum": 12,
+    "startDate": "2020-11-22T04:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 68,
     "home": {
@@ -13570,6 +14767,9 @@
     "homeScore": 41,
     "awayScore": 27,
     "weekNum": 13,
+    "startDate": "2020-11-27T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 328,
     "home": {
@@ -13604,6 +14804,9 @@
     "homeScore": 20,
     "awayScore": 23,
     "weekNum": 13,
+    "startDate": "2020-11-27T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -13638,6 +14841,9 @@
     "homeScore": 45,
     "awayScore": 0,
     "weekNum": 13,
+    "startDate": "2020-11-27T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2335,
     "home": {
@@ -13672,6 +14878,9 @@
     "homeScore": 26,
     "awayScore": 20,
     "weekNum": 13,
+    "startDate": "2020-11-27T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -13706,6 +14915,9 @@
     "homeScore": 46,
     "awayScore": 58,
     "weekNum": 13,
+    "startDate": "2020-11-27T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2116,
     "home": {
@@ -13740,6 +14952,9 @@
     "homeScore": 17,
     "awayScore": 31,
     "weekNum": 13,
+    "startDate": "2020-11-27T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -13774,6 +14989,9 @@
     "homeScore": 23,
     "awayScore": 31,
     "weekNum": 13,
+    "startDate": "2020-11-27T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2117,
     "home": {
@@ -13808,6 +15026,9 @@
     "homeScore": 14,
     "awayScore": 45,
     "weekNum": 13,
+    "startDate": "2020-11-27T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2751,
     "home": {
@@ -13842,6 +15063,9 @@
     "homeScore": 23,
     "awayScore": 24,
     "weekNum": 13,
+    "startDate": "2020-11-27T21:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 24,
     "home": {
@@ -13876,6 +15100,9 @@
     "homeScore": 41,
     "awayScore": 38,
     "weekNum": 13,
+    "startDate": "2020-11-28T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 204,
     "home": {
@@ -13910,6 +15137,9 @@
     "homeScore": 70,
     "awayScore": 41,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2084,
     "home": {
@@ -13944,6 +15174,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2050,
     "home": {
@@ -13978,6 +15211,9 @@
     "homeScore": 27,
     "awayScore": 11,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 84,
     "home": {
@@ -14012,6 +15248,9 @@
     "homeScore": 29,
     "awayScore": 36,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -14046,6 +15285,9 @@
     "homeScore": 30,
     "awayScore": 24,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2247,
     "home": {
@@ -14080,6 +15322,9 @@
     "homeScore": 17,
     "awayScore": 27,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 213,
     "home": {
@@ -14114,6 +15359,9 @@
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2711,
     "home": {
@@ -14148,6 +15396,9 @@
     "homeScore": 52,
     "awayScore": 10,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 195,
     "home": {
@@ -14182,6 +15433,9 @@
     "homeScore": 41,
     "awayScore": 0,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 142,
     "home": {
@@ -14216,6 +15470,9 @@
     "homeScore": 50,
     "awayScore": 44,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -14250,6 +15507,9 @@
     "homeScore": 34,
     "awayScore": 10,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -14284,6 +15544,9 @@
     "homeScore": 52,
     "awayScore": 38,
     "weekNum": 13,
+    "startDate": "2020-11-28T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 151,
     "home": {
@@ -14318,6 +15581,9 @@
     "homeScore": 7,
     "awayScore": 38,
     "weekNum": 13,
+    "startDate": "2020-11-28T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 193,
     "home": {
@@ -14352,6 +15618,9 @@
     "homeScore": 49,
     "awayScore": 17,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2636,
     "home": {
@@ -14386,6 +15655,9 @@
     "homeScore": 31,
     "awayScore": 38,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 6,
     "home": {
@@ -14420,6 +15692,9 @@
     "homeScore": 20,
     "awayScore": 70,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -14454,6 +15729,9 @@
     "homeScore": 14,
     "awayScore": 49,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -14488,6 +15766,9 @@
     "homeScore": 52,
     "awayScore": 17,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -14522,6 +15803,9 @@
     "homeScore": 47,
     "awayScore": 10,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -14556,6 +15840,9 @@
     "homeScore": 29,
     "awayScore": 20,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 127,
     "home": {
@@ -14590,6 +15877,9 @@
     "homeScore": 42,
     "awayScore": 13,
     "weekNum": 13,
+    "startDate": "2020-11-28T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -14624,6 +15914,9 @@
     "homeScore": 34,
     "awayScore": 27,
     "weekNum": 13,
+    "startDate": "2020-11-28T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 103,
     "home": {
@@ -14658,6 +15951,9 @@
     "homeScore": 30,
     "awayScore": 37,
     "weekNum": 13,
+    "startDate": "2020-11-28T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 164,
     "home": {
@@ -14692,6 +15988,9 @@
     "homeScore": 31,
     "awayScore": 24,
     "weekNum": 13,
+    "startDate": "2020-11-28T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 145,
     "home": {
@@ -14726,6 +16025,9 @@
     "homeScore": 20,
     "awayScore": 10,
     "weekNum": 13,
+    "startDate": "2020-11-28T22:37:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 38,
     "home": {
@@ -14760,6 +16062,9 @@
     "homeScore": 20,
     "awayScore": 7,
     "weekNum": 13,
+    "startDate": "2020-11-29T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -14794,6 +16099,9 @@
     "homeScore": 32,
     "awayScore": 31,
     "weekNum": 13,
+    "startDate": "2020-11-29T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 239,
     "home": {
@@ -14828,6 +16136,9 @@
     "homeScore": 7,
     "awayScore": 10,
     "weekNum": 13,
+    "startDate": "2020-11-29T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -14862,6 +16173,9 @@
     "homeScore": 56,
     "awayScore": 33,
     "weekNum": 13,
+    "startDate": "2020-11-29T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 59,
     "home": {
@@ -14896,6 +16210,9 @@
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 13,
+    "startDate": "2020-11-29T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 264,
     "home": {
@@ -14930,6 +16247,9 @@
     "homeScore": 16,
     "awayScore": 45,
     "weekNum": 13,
+    "startDate": "2020-11-29T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -14964,6 +16284,9 @@
     "homeScore": 27,
     "awayScore": 10,
     "weekNum": 13,
+    "startDate": "2020-11-29T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 26,
     "home": {
@@ -14998,6 +16321,9 @@
     "homeScore": 23,
     "awayScore": 59,
     "weekNum": 13,
+    "startDate": "2020-11-29T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2628,
     "home": {
@@ -15032,6 +16358,9 @@
     "homeScore": 24,
     "awayScore": 21,
     "weekNum": 13,
+    "startDate": "2020-11-29T04:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 62,
     "home": {
@@ -15066,6 +16395,9 @@
     "homeScore": 31,
     "awayScore": 42,
     "weekNum": 14,
+    "startDate": "2020-12-03T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2348,
     "home": {
@@ -15100,6 +16432,9 @@
     "homeScore": 7,
     "awayScore": 35,
     "weekNum": 14,
+    "startDate": "2020-12-04T02:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2005,
     "home": {
@@ -15134,6 +16469,9 @@
     "homeScore": 21,
     "awayScore": 24,
     "weekNum": 14,
+    "startDate": "2020-12-05T01:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 309,
     "home": {
@@ -15168,6 +16506,9 @@
     "homeScore": 29,
     "awayScore": 22,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2628,
     "home": {
@@ -15202,6 +16543,9 @@
     "homeScore": 31,
     "awayScore": 69,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 251,
     "home": {
@@ -15236,6 +16580,9 @@
     "homeScore": 16,
     "awayScore": 13,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2641,
     "home": {
@@ -15270,6 +16617,9 @@
     "homeScore": 49,
     "awayScore": 9,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -15304,6 +16654,9 @@
     "homeScore": 7,
     "awayScore": 23,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 213,
     "home": {
@@ -15338,6 +16691,9 @@
     "homeScore": 27,
     "awayScore": 37,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 158,
     "home": {
@@ -15372,6 +16728,9 @@
     "homeScore": 35,
     "awayScore": 21,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2655,
     "home": {
@@ -15406,6 +16765,9 @@
     "homeScore": 12,
     "awayScore": 52,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 194,
     "home": {
@@ -15440,6 +16802,9 @@
     "homeScore": 0,
     "awayScore": 20,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 242,
     "home": {
@@ -15474,6 +16839,9 @@
     "homeScore": 20,
     "awayScore": 31,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -15508,6 +16876,9 @@
     "homeScore": 24,
     "awayScore": 41,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2649,
     "home": {
@@ -15542,6 +16913,9 @@
     "homeScore": 50,
     "awayScore": 48,
     "weekNum": 14,
+    "startDate": "2020-12-05T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 142,
     "home": {
@@ -15576,6 +16950,9 @@
     "homeScore": 31,
     "awayScore": 3,
     "weekNum": 14,
+    "startDate": "2020-12-05T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2006,
     "home": {
@@ -15610,6 +16987,9 @@
     "homeScore": 20,
     "awayScore": 45,
     "weekNum": 14,
+    "startDate": "2020-12-05T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2050,
     "home": {
@@ -15644,6 +17024,9 @@
     "homeScore": 42,
     "awayScore": 53,
     "weekNum": 14,
+    "startDate": "2020-12-05T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2199,
     "home": {
@@ -15678,6 +17061,9 @@
     "homeScore": 0,
     "awayScore": 29,
     "weekNum": 14,
+    "startDate": "2020-12-05T19:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2653,
     "home": {
@@ -15712,6 +17098,9 @@
     "homeScore": 45,
     "awayScore": 21,
     "weekNum": 14,
+    "startDate": "2020-12-05T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 87,
     "home": {
@@ -15746,6 +17135,9 @@
     "homeScore": 48,
     "awayScore": 15,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2032,
     "home": {
@@ -15780,6 +17172,9 @@
     "homeScore": 19,
     "awayScore": 31,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 57,
     "home": {
@@ -15814,6 +17209,9 @@
     "homeScore": 6,
     "awayScore": 19,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 202,
     "home": {
@@ -15848,6 +17246,9 @@
     "homeScore": 21,
     "awayScore": 35,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -15882,6 +17283,9 @@
     "homeScore": 6,
     "awayScore": 14,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 84,
     "home": {
@@ -15916,6 +17320,9 @@
     "homeScore": 43,
     "awayScore": 32,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 258,
     "home": {
@@ -15950,6 +17357,9 @@
     "homeScore": 42,
     "awayScore": 6,
     "weekNum": 14,
+    "startDate": "2020-12-05T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 66,
     "home": {
@@ -15984,6 +17394,9 @@
     "homeScore": 23,
     "awayScore": 13,
     "weekNum": 14,
+    "startDate": "2020-12-05T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 152,
     "home": {
@@ -16018,6 +17431,9 @@
     "homeScore": 26,
     "awayScore": 31,
     "weekNum": 14,
+    "startDate": "2020-12-05T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 24,
     "home": {
@@ -16052,6 +17468,9 @@
     "homeScore": 22,
     "awayScore": 17,
     "weekNum": 14,
+    "startDate": "2020-12-05T22:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -16086,6 +17505,9 @@
     "homeScore": 35,
     "awayScore": 24,
     "weekNum": 14,
+    "startDate": "2020-12-05T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -16120,6 +17542,9 @@
     "homeScore": 20,
     "awayScore": 3,
     "weekNum": 14,
+    "startDate": "2020-12-05T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 290,
     "home": {
@@ -16154,6 +17579,9 @@
     "homeScore": 21,
     "awayScore": 17,
     "weekNum": 14,
+    "startDate": "2020-12-06T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 25,
     "home": {
@@ -16188,6 +17616,9 @@
     "homeScore": 29,
     "awayScore": 17,
     "weekNum": 14,
+    "startDate": "2020-12-06T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 21,
     "home": {
@@ -16222,6 +17653,9 @@
     "homeScore": 13,
     "awayScore": 24,
     "weekNum": 14,
+    "startDate": "2020-12-06T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 38,
     "home": {
@@ -16256,6 +17690,9 @@
     "homeScore": 10,
     "awayScore": 45,
     "weekNum": 14,
+    "startDate": "2020-12-06T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -16290,6 +17727,9 @@
     "homeScore": 41,
     "awayScore": 18,
     "weekNum": 14,
+    "startDate": "2020-12-06T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 96,
     "home": {
@@ -16324,6 +17764,9 @@
     "homeScore": 17,
     "awayScore": 55,
     "weekNum": 14,
+    "startDate": "2020-12-06T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -16358,6 +17801,9 @@
     "homeScore": 0,
     "awayScore": 48,
     "weekNum": 14,
+    "startDate": "2020-12-06T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2390,
     "home": {
@@ -16392,6 +17838,9 @@
     "homeScore": 27,
     "awayScore": 14,
     "weekNum": 14,
+    "startDate": "2020-12-06T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -16426,6 +17875,9 @@
     "homeScore": 37,
     "awayScore": 26,
     "weekNum": 14,
+    "startDate": "2020-12-06T02:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2440,
     "home": {
@@ -16460,6 +17912,9 @@
     "homeScore": 18,
     "awayScore": 25,
     "weekNum": 14,
+    "startDate": "2020-12-06T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 26,
     "home": {
@@ -16494,6 +17949,9 @@
     "homeScore": 30,
     "awayScore": 24,
     "weekNum": 14,
+    "startDate": "2020-12-06T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 254,
     "home": {
@@ -16528,6 +17986,9 @@
     "homeScore": 17,
     "awayScore": 16,
     "weekNum": 14,
+    "startDate": "2020-12-06T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 167,
     "home": {
@@ -16562,6 +18023,9 @@
     "homeScore": 19,
     "awayScore": 37,
     "weekNum": 14,
+    "startDate": "2020-12-06T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 98,
     "home": {
@@ -16596,6 +18060,9 @@
     "homeScore": 38,
     "awayScore": 13,
     "weekNum": 14,
+    "startDate": "2020-12-07T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 30,
     "home": {
@@ -16630,6 +18097,9 @@
     "homeScore": 45,
     "awayScore": 31,
     "weekNum": 15,
+    "startDate": "2020-12-10T23:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2572,
     "home": {
@@ -16664,6 +18134,9 @@
     "homeScore": 20,
     "awayScore": 34,
     "weekNum": 15,
+    "startDate": "2020-12-11T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 221,
     "home": {
@@ -16698,6 +18171,9 @@
     "homeScore": 43,
     "awayScore": 45,
     "weekNum": 15,
+    "startDate": "2020-12-11T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 249,
     "home": {
@@ -16732,6 +18208,9 @@
     "homeScore": 7,
     "awayScore": 70,
     "weekNum": 15,
+    "startDate": "2020-12-12T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 9,
     "home": {
@@ -16766,6 +18245,9 @@
     "homeScore": 30,
     "awayScore": 20,
     "weekNum": 15,
+    "startDate": "2020-12-12T03:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -16800,6 +18282,9 @@
     "homeScore": 45,
     "awayScore": 21,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 97,
     "home": {
@@ -16834,6 +18319,9 @@
     "homeScore": 39,
     "awayScore": 24,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 213,
     "home": {
@@ -16868,6 +18356,9 @@
     "homeScore": 17,
     "awayScore": 24,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 135,
     "home": {
@@ -16902,6 +18393,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 164,
     "home": {
@@ -16936,6 +18430,9 @@
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2050,
     "home": {
@@ -16970,6 +18467,9 @@
     "homeScore": 28,
     "awayScore": 10,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 77,
     "home": {
@@ -17004,6 +18504,9 @@
     "homeScore": 41,
     "awayScore": 33,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2199,
     "home": {
@@ -17038,6 +18541,9 @@
     "homeScore": 21,
     "awayScore": 38,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 254,
     "home": {
@@ -17072,6 +18578,9 @@
     "homeScore": 14,
     "awayScore": 49,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 61,
     "home": {
@@ -17106,6 +18615,9 @@
     "homeScore": 3,
     "awayScore": 52,
     "weekNum": 15,
+    "startDate": "2020-12-12T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -17140,6 +18652,9 @@
     "homeScore": 16,
     "awayScore": 21,
     "weekNum": 15,
+    "startDate": "2020-12-12T18:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 5,
     "home": {
@@ -17174,6 +18689,9 @@
     "homeScore": 56,
     "awayScore": 7,
     "weekNum": 15,
+    "startDate": "2020-12-12T19:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2084,
     "home": {
@@ -17208,6 +18726,9 @@
     "homeScore": 24,
     "awayScore": 23,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2649,
     "home": {
@@ -17242,6 +18763,9 @@
     "homeScore": 15,
     "awayScore": 0,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -17276,6 +18800,9 @@
     "homeScore": 38,
     "awayScore": 42,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 324,
     "home": {
@@ -17310,6 +18837,9 @@
     "homeScore": 26,
     "awayScore": 62,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 153,
     "home": {
@@ -17344,6 +18874,9 @@
     "homeScore": 3,
     "awayScore": 42,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 197,
     "home": {
@@ -17378,6 +18911,9 @@
     "homeScore": 28,
     "awayScore": 7,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2294,
     "home": {
@@ -17412,6 +18948,9 @@
     "homeScore": 30,
     "awayScore": 27,
     "weekNum": 15,
+    "startDate": "2020-12-12T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 235,
     "home": {
@@ -17446,6 +18985,9 @@
     "homeScore": 17,
     "awayScore": 42,
     "weekNum": 15,
+    "startDate": "2020-12-12T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2633,
     "home": {
@@ -17480,6 +19022,9 @@
     "homeScore": 56,
     "awayScore": 35,
     "weekNum": 15,
+    "startDate": "2020-12-12T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 52,
     "home": {
@@ -17514,6 +19059,9 @@
     "homeScore": 9,
     "awayScore": 17,
     "weekNum": 15,
+    "startDate": "2020-12-12T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 68,
     "home": {
@@ -17548,6 +19096,9 @@
     "homeScore": 26,
     "awayScore": 34,
     "weekNum": 15,
+    "startDate": "2020-12-12T23:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2026,
     "home": {
@@ -17582,6 +19133,9 @@
     "homeScore": 52,
     "awayScore": 10,
     "weekNum": 15,
+    "startDate": "2020-12-13T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2628,
     "home": {
@@ -17616,6 +19170,9 @@
     "homeScore": 34,
     "awayScore": 37,
     "weekNum": 15,
+    "startDate": "2020-12-13T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 99,
     "home": {
@@ -17650,6 +19207,9 @@
     "homeScore": 10,
     "awayScore": 24,
     "weekNum": 15,
+    "startDate": "2020-12-13T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2,
     "home": {
@@ -17684,6 +19244,9 @@
     "homeScore": 38,
     "awayScore": 43,
     "weekNum": 15,
+    "startDate": "2020-12-13T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 30,
     "home": {
@@ -17718,6 +19281,9 @@
     "homeScore": 33,
     "awayScore": 15,
     "weekNum": 15,
+    "startDate": "2020-12-13T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 259,
     "home": {
@@ -17752,6 +19318,9 @@
     "homeScore": 28,
     "awayScore": 14,
     "weekNum": 15,
+    "startDate": "2020-12-13T03:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 252,
     "home": {
@@ -17786,6 +19355,9 @@
     "homeScore": 24,
     "awayScore": 27,
     "weekNum": 15,
+    "startDate": "2020-12-13T03:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 24,
     "home": {
@@ -17820,6 +19392,9 @@
     "homeScore": 49,
     "awayScore": 39,
     "weekNum": 15,
+    "startDate": "2020-12-13T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 167,
     "home": {
@@ -17854,6 +19429,9 @@
     "homeScore": 38,
     "awayScore": 21,
     "weekNum": 15,
+    "startDate": "2020-12-13T04:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 62,
     "home": {
@@ -17888,6 +19466,9 @@
     "homeScore": 13,
     "awayScore": 22,
     "weekNum": 16,
+    "startDate": "2020-12-19T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 5,
     "home": {
@@ -17922,6 +19503,9 @@
     "homeScore": 28,
     "awayScore": 38,
     "weekNum": 16,
+    "startDate": "2020-12-19T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2050,
     "home": {
@@ -17956,6 +19540,9 @@
     "homeScore": 21,
     "awayScore": 28,
     "weekNum": 16,
+    "startDate": "2020-12-19T00:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 158,
     "home": {
@@ -17990,6 +19577,9 @@
     "homeScore": 24,
     "awayScore": 31,
     "weekNum": 16,
+    "startDate": "2020-12-19T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2483,
     "home": {
@@ -18024,6 +19614,9 @@
     "homeScore": 21,
     "awayScore": 27,
     "weekNum": 16,
+    "startDate": "2020-12-19T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 201,
     "home": {
@@ -18058,6 +19651,9 @@
     "homeScore": 22,
     "awayScore": 10,
     "weekNum": 16,
+    "startDate": "2020-12-19T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 194,
     "home": {
@@ -18092,6 +19688,9 @@
     "homeScore": 13,
     "awayScore": 34,
     "weekNum": 16,
+    "startDate": "2020-12-19T17:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 245,
     "home": {
@@ -18126,6 +19725,9 @@
     "homeScore": 45,
     "awayScore": 28,
     "weekNum": 16,
+    "startDate": "2020-12-19T18:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 254,
     "home": {
@@ -18160,6 +19762,9 @@
     "homeScore": 10,
     "awayScore": 7,
     "weekNum": 16,
+    "startDate": "2020-12-19T20:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 349,
     "home": {
@@ -18194,6 +19799,9 @@
     "homeScore": 53,
     "awayScore": 48,
     "weekNum": 16,
+    "startDate": "2020-12-19T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 99,
     "home": {
@@ -18228,6 +19836,9 @@
     "homeScore": 51,
     "awayScore": 32,
     "weekNum": 16,
+    "startDate": "2020-12-19T20:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 344,
     "home": {
@@ -18262,6 +19873,9 @@
     "homeScore": 20,
     "awayScore": 17,
     "weekNum": 16,
+    "startDate": "2020-12-19T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 275,
     "home": {
@@ -18296,6 +19910,9 @@
     "homeScore": 10,
     "awayScore": 34,
     "weekNum": 16,
+    "startDate": "2020-12-19T21:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 228,
     "home": {
@@ -18330,6 +19947,9 @@
     "homeScore": 34,
     "awayScore": 20,
     "weekNum": 16,
+    "startDate": "2020-12-19T21:40:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 23,
     "home": {
@@ -18364,6 +19984,9 @@
     "homeScore": 56,
     "awayScore": 21,
     "weekNum": 16,
+    "startDate": "2020-12-19T22:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 213,
     "home": {
@@ -18398,6 +20021,9 @@
     "homeScore": 47,
     "awayScore": 48,
     "weekNum": 16,
+    "startDate": "2020-12-20T00:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 24,
     "home": {
@@ -18432,6 +20058,9 @@
     "homeScore": 46,
     "awayScore": 52,
     "weekNum": 16,
+    "startDate": "2020-12-20T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 333,
     "home": {
@@ -18466,6 +20095,9 @@
     "homeScore": 27,
     "awayScore": 24,
     "weekNum": 16,
+    "startDate": "2020-12-20T01:00:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 2132,
     "home": {
@@ -18500,6 +20132,9 @@
     "homeScore": 33,
     "awayScore": 46,
     "weekNum": 16,
+    "startDate": "2020-12-20T03:30:00.000Z",
+    "timeTBD": false,
+    "season": 2020,
     "gameCompleted": true,
     "winner": 9,
     "home": {
