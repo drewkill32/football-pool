@@ -10,6 +10,8 @@
 - [ ] leagues
 - [ ] seasons
 - [ ] leaderboard
+- [ ] Logo
+- [ ] themes
 
 ## Backend
 
