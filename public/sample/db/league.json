@@ -22,6 +22,29 @@
           "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png"
         ]
       }
+    },
+    {
+      "id": 1,
+      "name": "Gene",
+      "email": "genemcgrail@gmail.com",
+      "profile_pic": "sample/img/sample-profile.jpg",
+      "team": {
+        "id": 87,
+        "school": "Notre Dame",
+        "mascot": "Fighting Irish",
+        "abbreviation": "ND",
+        "alt_name1": null,
+        "alt_name2": "ND",
+        "alt_name3": "Notre Dame",
+        "conference": "FBS Independents",
+        "division": null,
+        "color": "#00122b",
+        "alt_color": "#ae9142",
+        "logos": [
+          "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+          "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"
+        ]
+      }
     }
   ]
 }

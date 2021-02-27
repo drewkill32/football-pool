@@ -21,7 +21,8 @@ export interface GameData {
   awayScore: number | null;
   weekNum: number;
   winner: number;
-  gameCompleted: true;
+  gameCompleted: boolean;
+  isDoublePick: boolean;
 }
 
 export interface Team {

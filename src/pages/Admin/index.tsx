@@ -22,6 +22,8 @@ const useStyles = makeStyles(() =>
   })
 );
 
+const leagueTeamIds = [2199, 96, 58, 87, 57, 2426, 228, 113, 127, 120, 213];
+
 const getData = async (url: string) => {
   const response = await fetch(url);
   return await response.json();
@@ -82,10 +84,9 @@ const Admin = () => {
           away: getTeam(g.away_id, teamData),
         };
       });
-      console.log(games);
       setGames(games);
     } catch (error) {
-      console.log(`Error fetching data.${error}.`);
+      console.error(`Error fetching data.${error}.`);
     }
   };
 
@@ -93,20 +94,27 @@ const Admin = () => {
     try {
       setPicks(undefined);
       const gameData = (await getData('sample/db/games.json')) as GameData[];
+      const filteredGames = gameData.filter(
+        (g) =>
+          leagueTeamIds.includes(g.away.id) || leagueTeamIds.includes(g.home.id)
+      );
       let i = 1;
       setPicks(
-        gameData.map((g: GameData) => {
+        filteredGames.map((g: GameData) => {
           return {
             ...g,
             id: i++,
             gameId: g.id,
-            pickTeamId: g.home.id,
+            pickTeamId: Math.round(Math.random()) === 0 ? g.home.id : g.away.id,
             result: g.winner === g.home.id ? 1 : 0,
+            isDoublePick:
+              leagueTeamIds.includes(g.home.id) &&
+              leagueTeamIds.includes(g.away.id),
           };
         })
       );
     } catch (error) {
-      console.log(`Error fetching data.${error}.`);
+      console.error(`Error fetching data.${error}.`);
     }
   };
 

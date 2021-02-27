@@ -3,75 +3,30 @@ import React, { useEffect, useState } from 'react';
 import { useAuth } from '../../auth';
 import { useSelectedWeek } from '../../context/WeekContext.Provider';
 import PicksSkeleton from './PicksSkeleton';
-import { Pick, Team } from '../../models';
-import {
-  Checkbox,
-  createStyles,
-  Grid,
-  makeStyles,
-  Paper,
-} from '@material-ui/core';
+import { Pick } from '../../models';
+import { ButtonBase, createStyles, Grid, makeStyles } from '@material-ui/core';
+import { useHistory } from 'react-router';
+import GameBanner from '../GameBanner';
 
 const sleep = (ms: number) =>
   new Promise((response) => setTimeout(response, ms));
 
 const useStyles = makeStyles(() =>
   createStyles({
-    img: {
-      width: '35px',
-      height: '35px',
-      margin: '0 2px',
-    },
-    team: {
-      flexGrow: 1,
-      overflow: 'hidden',
-      whiteSpace: 'nowrap',
-      paddingRight: '20px',
-      textOverflow: 'ellipsis',
-    },
-    score: {
-      marginRight: '10px',
+    button: {
+      textAlign: 'left',
+      width: '100%',
     },
   })
 );
 
-const TeamLine: React.FC<{
-  team: Team;
-  score: number | null | undefined;
-  picked: boolean;
-}> = ({ team, score, picked }) => {
-  const classes = useStyles();
-  const teamName = `${team.school} ${team.mascot}`;
-
-  return (
-    <Grid
-      item
-      container
-      alignContent="center"
-      justify="center"
-      wrap="nowrap"
-      alignItems="center"
-    >
-      <Grid item>
-        <img src={team.logos?.[0]} alt="" className={classes.img} />
-      </Grid>
-      <Grid item className={classes.team}>
-        {teamName}
-      </Grid>
-      <Grid item className={classes.score}>
-        {score}
-      </Grid>
-      <Checkbox checked={picked} />
-    </Grid>
-  );
-};
-
-const Picks: React.FC<{ className: string | undefined }> = ({ className }) => {
+const Picks: React.FC = () => {
   const [selectedWeek] = useSelectedWeek();
   const [picks, setPicks] = useState<Pick[]>();
   const [loading, setLoading] = useState(false);
-
+  const classes = useStyles();
   const { user } = useAuth();
+  const history = useHistory();
 
   useEffect(() => {
     const doTheThing = async () => {
@@ -85,7 +40,6 @@ const Picks: React.FC<{ className: string | undefined }> = ({ className }) => {
           (p) => p.weekNum === selectedWeek?.week
         );
         setPicks(thisWeeksPicks);
-        console.log(thisWeeksPicks);
       } catch (error) {
         console.error(`unable to fetch data from ${url}. ${error}`);
       } finally {
@@ -96,33 +50,19 @@ const Picks: React.FC<{ className: string | undefined }> = ({ className }) => {
   }, [selectedWeek, user?.id]);
 
   return (
-    <div className={className}>
+    <div>
       {loading ? (
         <PicksSkeleton />
       ) : (
         <Grid container spacing={5}>
           {picks?.map((pick) => (
             <Grid item xs={12}>
-              <Paper>
-                <Grid
-                  container
-                  item
-                  spacing={1}
-                  key={pick.id}
-                  direction="column"
-                >
-                  <TeamLine
-                    team={pick.away}
-                    score={pick.awayScore}
-                    picked={pick.pickTeamId === pick.away.id}
-                  />
-                  <TeamLine
-                    team={pick.home}
-                    score={pick.homeScore}
-                    picked={pick.pickTeamId === pick.home.id}
-                  />
-                </Grid>
-              </Paper>
+              <ButtonBase
+                className={classes.button}
+                onClick={() => history.push(`/game/${pick.gameId}`)}
+              >
+                <GameBanner pick={pick} />
+              </ButtonBase>
             </Grid>
           ))}
         </Grid>

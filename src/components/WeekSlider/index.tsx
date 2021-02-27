@@ -7,10 +7,9 @@ import { useStyles } from './weekSlider.styles';
 import { useSelectedWeek } from '../../context/WeekContext.Provider';
 
 const WeekSlider = () => {
-  const [index, setIndex] = useState(0);
+  const [week, setWeek] = useSelectedWeek();
+  const [index, setIndex] = useState(week !== undefined ? week.week - 1 : 0);
   const [season, setSeason] = useState<Week[]>();
-
-  const [, setWeek] = useSelectedWeek();
 
   useEffect(() => {
     const loadData = async () => {
