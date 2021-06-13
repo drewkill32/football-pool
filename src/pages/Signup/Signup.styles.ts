@@ -26,9 +26,9 @@ export const useStyles = makeStyles((theme: Theme) =>
       margin: theme.spacing(1),
     },
     form: {
-      height: '340px',
+      height: '450px',
       display: 'flex',
-      margin: theme.spacing(2),
+      margin: theme.spacing(1),
       justifyContent: 'space-around',
       flexDirection: 'column',
     },

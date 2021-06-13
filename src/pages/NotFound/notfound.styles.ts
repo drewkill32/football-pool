@@ -13,6 +13,7 @@ export const useStyles = makeStyles((theme: Theme) =>
     },
     text: {
       color: theme.palette.primary.contrastText,
+      fontSize: '7vmin',
     },
     button: {
       marginTop: '20px',

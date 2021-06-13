@@ -9,7 +9,7 @@ const NotFound = () => {
   const history = useHistory();
   return (
     <Box className={classes.root}>
-      <Typography variant="h4" className={classes.text}>
+      <Typography variant="h6" className={classes.text}>
         The Page does not exist
       </Typography>
       <Button

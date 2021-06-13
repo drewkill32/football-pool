@@ -35,7 +35,11 @@ const AccountButton = () => {
           Profile
         </MenuItem>
         <MenuItem
-          onClick={() => handleClose(() => signout(() => history.push('/')))}
+          onClick={() =>
+            handleClose(() => {
+              signout().then(() => history.push('/'));
+            })
+          }
         >
           Logout
         </MenuItem>

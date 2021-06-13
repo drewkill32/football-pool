@@ -36,9 +36,9 @@
       ]
     },
     "gameId": 401234576,
-    "pickTeamId": 2426,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 252,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 2,
@@ -79,7 +79,7 @@
     "gameId": 401234574,
     "pickTeamId": 150,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 3,
@@ -120,7 +120,7 @@
     "gameId": 401240039,
     "pickTeamId": 58,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 4,
@@ -159,9 +159,9 @@
       ]
     },
     "gameId": 401234562,
-    "pickTeamId": 228,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 154,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 5,
@@ -200,9 +200,9 @@
       ]
     },
     "gameId": 401212522,
-    "pickTeamId": 2655,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 2426,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 6,
@@ -243,7 +243,8 @@
     "gameId": 401241282,
     "pickTeamId": 87,
     "result": 1,
-    "isDoublePick": true
+    "isHead2Head": true,
+    "head2Headpick": 58
   },
   {
     "id": 7,
@@ -282,9 +283,9 @@
       ]
     },
     "gameId": 401237492,
-    "pickTeamId": 228,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 2643,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 8,
@@ -325,7 +326,7 @@
     "gameId": 401236952,
     "pickTeamId": 145,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 9,
@@ -364,9 +365,9 @@
       ]
     },
     "gameId": 401237034,
-    "pickTeamId": 96,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 2,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 10,
@@ -405,9 +406,9 @@
       ]
     },
     "gameId": 401237096,
-    "pickTeamId": 2579,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 57,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 11,
@@ -446,9 +447,9 @@
       ]
     },
     "gameId": 401212476,
-    "pickTeamId": 58,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 2132,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 12,
@@ -487,9 +488,9 @@
       ]
     },
     "gameId": 401237097,
-    "pickTeamId": 96,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 145,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 13,
@@ -528,9 +529,9 @@
       ]
     },
     "gameId": 401212557,
-    "pickTeamId": 2426,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 2005,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 14,
@@ -569,9 +570,9 @@
       ]
     },
     "gameId": 401234598,
-    "pickTeamId": 228,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 258,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 15,
@@ -610,9 +611,9 @@
       ]
     },
     "gameId": 401237102,
-    "pickTeamId": 57,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 245,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 16,
@@ -653,7 +654,7 @@
     "gameId": 401212515,
     "pickTeamId": 218,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 17,
@@ -692,9 +693,9 @@
       ]
     },
     "gameId": 401212477,
-    "pickTeamId": 58,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 151,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 18,
@@ -733,9 +734,9 @@
       ]
     },
     "gameId": 401234606,
-    "pickTeamId": 52,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 87,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 19,
@@ -774,9 +775,9 @@
       ]
     },
     "gameId": 401234604,
-    "pickTeamId": 228,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 2390,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 20,
@@ -815,9 +816,9 @@
       ]
     },
     "gameId": 401237104,
-    "pickTeamId": 96,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 344,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 21,
@@ -858,7 +859,7 @@
     "gameId": 401234610,
     "pickTeamId": 228,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 22,
@@ -897,9 +898,9 @@
       ]
     },
     "gameId": 401212478,
-    "pickTeamId": 218,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 58,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 23,
@@ -938,9 +939,9 @@
       ]
     },
     "gameId": 401212548,
-    "pickTeamId": 2426,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 151,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 24,
@@ -979,9 +980,9 @@
       ]
     },
     "gameId": 401237111,
-    "pickTeamId": 2633,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 96,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 25,
@@ -1020,9 +1021,9 @@
       ]
     },
     "gameId": 401234613,
-    "pickTeamId": 97,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 87,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 26,
@@ -1063,7 +1064,7 @@
     "gameId": 401250215,
     "pickTeamId": 290,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 27,
@@ -1104,7 +1105,7 @@
     "gameId": 401212479,
     "pickTeamId": 202,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 28,
@@ -1143,9 +1144,9 @@
       ]
     },
     "gameId": 401247299,
-    "pickTeamId": 127,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 164,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 29,
@@ -1186,7 +1187,7 @@
     "gameId": 401234618,
     "pickTeamId": 183,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 30,
@@ -1227,7 +1228,7 @@
     "gameId": 401247295,
     "pickTeamId": 84,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 31,
@@ -1268,7 +1269,7 @@
     "gameId": 401212552,
     "pickTeamId": 248,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 32,
@@ -1309,7 +1310,7 @@
     "gameId": 401234622,
     "pickTeamId": 87,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 33,
@@ -1350,7 +1351,7 @@
     "gameId": 401237122,
     "pickTeamId": 96,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 34,
@@ -1389,9 +1390,9 @@
       ]
     },
     "gameId": 401247298,
-    "pickTeamId": 120,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 77,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 35,
@@ -1430,9 +1431,9 @@
       ]
     },
     "gameId": 401247302,
-    "pickTeamId": 135,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 120,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 36,
@@ -1471,9 +1472,9 @@
       ]
     },
     "gameId": 401237117,
-    "pickTeamId": 96,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 61,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 37,
@@ -1512,9 +1513,9 @@
       ]
     },
     "gameId": 401247305,
-    "pickTeamId": 130,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 127,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 38,
@@ -1553,9 +1554,9 @@
       ]
     },
     "gameId": 401234624,
-    "pickTeamId": 228,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 103,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 39,
@@ -1596,7 +1597,7 @@
     "gameId": 401234626,
     "pickTeamId": 87,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 40,
@@ -1635,9 +1636,9 @@
       ]
     },
     "gameId": 401247306,
-    "pickTeamId": 194,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 213,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 41,
@@ -1676,9 +1677,9 @@
       ]
     },
     "gameId": 401237116,
-    "pickTeamId": 57,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 142,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 42,
@@ -1717,9 +1718,9 @@
       ]
     },
     "gameId": 401212489,
-    "pickTeamId": 2567,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 2426,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 43,
@@ -1758,9 +1759,9 @@
       ]
     },
     "gameId": 401249856,
-    "pickTeamId": 2309,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 2199,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 44,
@@ -1801,7 +1802,7 @@
     "gameId": 401212480,
     "pickTeamId": 235,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 45,
@@ -1842,7 +1843,7 @@
     "gameId": 401247313,
     "pickTeamId": 2294,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 46,
@@ -1881,9 +1882,9 @@
       ]
     },
     "gameId": 401251931,
-    "pickTeamId": 113,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 276,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 47,
@@ -1924,7 +1925,8 @@
     "gameId": 401247312,
     "pickTeamId": 120,
     "result": 1,
-    "isDoublePick": true
+    "isHead2Head": true,
+    "head2Headpick": 213
   },
   {
     "id": 48,
@@ -1965,7 +1967,7 @@
     "gameId": 401237125,
     "pickTeamId": 57,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 49,
@@ -2004,9 +2006,10 @@
       ]
     },
     "gameId": 401234632,
-    "pickTeamId": 228,
-    "result": 0,
-    "isDoublePick": true
+    "pickTeamId": 87,
+    "result": 1,
+    "isHead2Head": true,
+    "head2Headpick": 87
   },
   {
     "id": 50,
@@ -2047,7 +2050,7 @@
     "gameId": 401249865,
     "pickTeamId": 2050,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 51,
@@ -2088,7 +2091,7 @@
     "gameId": 401247316,
     "pickTeamId": 84,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 52,
@@ -2129,7 +2132,7 @@
     "gameId": 401247320,
     "pickTeamId": 213,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 53,
@@ -2170,7 +2173,7 @@
     "gameId": 401237132,
     "pickTeamId": 238,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 54,
@@ -2209,9 +2212,9 @@
       ]
     },
     "gameId": 401234637,
-    "pickTeamId": 103,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 87,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 55,
@@ -2252,7 +2255,7 @@
     "gameId": 401212481,
     "pickTeamId": 58,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 56,
@@ -2293,7 +2296,7 @@
     "gameId": 401237129,
     "pickTeamId": 8,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 57,
@@ -2332,9 +2335,9 @@
       ]
     },
     "gameId": 401249871,
-    "pickTeamId": 2199,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 2649,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 58,
@@ -2375,7 +2378,7 @@
     "gameId": 401261674,
     "pickTeamId": 113,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 59,
@@ -2416,7 +2419,7 @@
     "gameId": 401237138,
     "pickTeamId": 238,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 60,
@@ -2455,9 +2458,9 @@
       ]
     },
     "gameId": 401247327,
-    "pickTeamId": 2294,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 213,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 61,
@@ -2496,9 +2499,9 @@
       ]
     },
     "gameId": 401237135,
-    "pickTeamId": 96,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 333,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 62,
@@ -2539,7 +2542,7 @@
     "gameId": 401251926,
     "pickTeamId": 113,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 63,
@@ -2578,9 +2581,9 @@
       ]
     },
     "gameId": 401212483,
-    "pickTeamId": 2116,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 58,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 64,
@@ -2619,9 +2622,9 @@
       ]
     },
     "gameId": 401234650,
-    "pickTeamId": 87,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 153,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 65,
@@ -2662,7 +2665,7 @@
     "gameId": 401249874,
     "pickTeamId": 2117,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 66,
@@ -2701,9 +2704,9 @@
       ]
     },
     "gameId": 401247329,
-    "pickTeamId": 120,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 84,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 67,
@@ -2744,7 +2747,7 @@
     "gameId": 401247333,
     "pickTeamId": 130,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 68,
@@ -2783,9 +2786,10 @@
       ]
     },
     "gameId": 401237144,
-    "pickTeamId": 57,
-    "result": 1,
-    "isDoublePick": true
+    "pickTeamId": 96,
+    "result": 0,
+    "isHead2Head": true,
+    "head2Headpick": 57
   },
   {
     "id": 69,
@@ -2826,7 +2830,7 @@
     "gameId": 401234651,
     "pickTeamId": 221,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 70,
@@ -2865,9 +2869,9 @@
       ]
     },
     "gameId": 401247330,
-    "pickTeamId": 77,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 127,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 71,
@@ -2906,9 +2910,9 @@
       ]
     },
     "gameId": 401264080,
-    "pickTeamId": 2426,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 235,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 72,
@@ -2949,7 +2953,7 @@
     "gameId": 401247336,
     "pickTeamId": 164,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 73,
@@ -2988,9 +2992,9 @@
       ]
     },
     "gameId": 401247340,
-    "pickTeamId": 194,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 127,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 74,
@@ -3029,9 +3033,9 @@
       ]
     },
     "gameId": 401249879,
-    "pickTeamId": 2199,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 2711,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 75,
@@ -3070,9 +3074,9 @@
       ]
     },
     "gameId": 401234662,
-    "pickTeamId": 87,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 183,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 76,
@@ -3113,7 +3117,7 @@
     "gameId": 401237151,
     "pickTeamId": 57,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 77,
@@ -3154,7 +3158,7 @@
     "gameId": 401264083,
     "pickTeamId": 2426,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 78,
@@ -3193,9 +3197,9 @@
       ]
     },
     "gameId": 401234657,
-    "pickTeamId": 228,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 259,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 79,
@@ -3234,9 +3238,9 @@
       ]
     },
     "gameId": 401237153,
-    "pickTeamId": 2579,
-    "result": 0,
-    "isDoublePick": false
+    "pickTeamId": 96,
+    "result": 1,
+    "isHead2Head": false
   },
   {
     "id": 80,
@@ -3277,7 +3281,8 @@
     "gameId": 401247346,
     "pickTeamId": 213,
     "result": 1,
-    "isDoublePick": true
+    "isHead2Head": true,
+    "head2Headpick": 127
   },
   {
     "id": 81,
@@ -3316,9 +3321,9 @@
       ]
     },
     "gameId": 401247342,
-    "pickTeamId": 164,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 120,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 82,
@@ -3359,7 +3364,7 @@
     "gameId": 401249884,
     "pickTeamId": 2199,
     "result": 1,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 83,
@@ -3398,9 +3403,9 @@
       ]
     },
     "gameId": 401207203,
-    "pickTeamId": 349,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 2426,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 84,
@@ -3439,9 +3444,9 @@
       ]
     },
     "gameId": 401251100,
-    "pickTeamId": 99,
-    "result": 1,
-    "isDoublePick": false
+    "pickTeamId": 57,
+    "result": 0,
+    "isHead2Head": false
   },
   {
     "id": 85,
@@ -3482,7 +3487,8 @@
     "gameId": 401256001,
     "pickTeamId": 87,
     "result": 0,
-    "isDoublePick": true
+    "isHead2Head": true,
+    "head2Headpick": 228
   },
   {
     "id": 86,
@@ -3523,7 +3529,7 @@
     "gameId": 401269381,
     "pickTeamId": 356,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   },
   {
     "id": 87,
@@ -3564,6 +3570,6 @@
     "gameId": 401237074,
     "pickTeamId": 57,
     "result": 0,
-    "isDoublePick": false
+    "isHead2Head": false
   }
 ]

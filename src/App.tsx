@@ -10,6 +10,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import NotFound from './pages/NotFound';
 import Profile from './pages/Profile';
+import Signup from './pages/Signup';
 import GlobalRoute from './routes/GlobalRoute';
 import PrivateRoute from './routes/PrivateRoute';
 
@@ -19,10 +20,13 @@ function App() {
       <ProviderAuth>
         <WeekContextProvider>
           <Router>
-            <GlobalRoute exact path="/login">
-              <Login />
-            </GlobalRoute>
             <Switch>
+              <GlobalRoute path="/login">
+                <Login />
+              </GlobalRoute>
+              <GlobalRoute path="/signup">
+                <Signup />
+              </GlobalRoute>
               <PrivateRoute exact path="/">
                 <Home />
               </PrivateRoute>
@@ -35,7 +39,7 @@ function App() {
               <PrivateRoute path="/game/:id">
                 <Game />
               </PrivateRoute>
-              <GlobalRoute>
+              <GlobalRoute path="*">
                 <NotFound />
               </GlobalRoute>
             </Switch>
