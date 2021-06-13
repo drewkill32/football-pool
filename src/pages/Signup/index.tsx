@@ -1,12 +1,12 @@
 import React from 'react';
-import { Link, Redirect, useHistory, useLocation } from 'react-router-dom';
+import { Link, useHistory, useLocation } from 'react-router-dom';
 import { Form as FinalForm, Field } from 'react-final-form';
 import { Paper, Button, Typography, InputAdornment } from '@material-ui/core';
 import AccountBoxIcon from '@material-ui/icons/AccountBox';
 import LockIcon from '@material-ui/icons/Lock';
 
 import { useAuth } from '../../auth';
-import { useStyles } from './Login.styles';
+import { useStyles } from './Signup.styles';
 import { TextInput } from '../../components/common/forms/TextInput';
 import logo from './logo60.png';
 
@@ -24,29 +24,43 @@ function useFrom(): { pathname: string } {
   ) {
     return location.state.from;
   }
-  return { pathname: '/' };
+  return { pathname: '/profile' };
 }
 
-const Login = () => {
+const Signup = () => {
   const classes = useStyles();
 
   const history = useHistory();
   const auth = useAuth();
   const from = useFrom();
 
-  const login = async (values: { email: string; password: string }) => {
-    await auth.signin(values.email, values.password);
-    history.push(from);
+  const signup = async ({
+    email,
+    password,
+    confirmPassword,
+  }: {
+    email: string;
+    password: string;
+    confirmPassword: string;
+  }) => {
+    if (password !== confirmPassword) {
+      console.error('the passwords do not match.');
+      return;
+    }
+    try {
+      console.log(auth);
+      var creds = await auth.signup(email, password);
+      console.log({ creds: creds });
+      history.replace(from);
+    } catch (error) {
+      console.error(error);
+    }
   };
-
-  if (auth.user) {
-    return <Redirect to="/" />;
-  }
 
   return (
     <div className={classes.root}>
       <img src={logo} alt="logo" />
-      <FinalForm initialValues={{ email: '', password: '' }} onSubmit={login}>
+      <FinalForm initialValues={{ email: '', password: '' }} onSubmit={signup}>
         {({ handleSubmit }) => {
           return (
             <Paper className={classes.paper}>
@@ -60,7 +74,7 @@ const Login = () => {
                   component={TextInput}
                   variant="outlined"
                   required
-                  autoFocus
+                  autofocus
                   type="email"
                   InputProps={{
                     startAdornment: (
@@ -85,11 +99,23 @@ const Login = () => {
                     ),
                   }}
                 />
+                <Field
+                  name="confirmPassword"
+                  label="Comnfirm Password"
+                  component={TextInput}
+                  type="password"
+                  required
+                  variant="outlined"
+                  InputProps={{
+                    startAdornment: (
+                      <InputAdornment position="start">
+                        <LockIcon color="primary" />
+                      </InputAdornment>
+                    ),
+                  }}
+                />
                 <Typography style={{ textAlign: 'center' }}>
-                  Don't have an account? <Link to="/signup">Sign up</Link>
-                </Typography>
-                <Typography style={{ textAlign: 'center' }}>
-                  <Link to="/forgotpassword">Forgot Password</Link>
+                  Already have an account? <Link to="/login">Log In</Link>
                 </Typography>
                 <Button
                   size="large"
@@ -97,7 +123,7 @@ const Login = () => {
                   variant="contained"
                   color="secondary"
                 >
-                  <Typography style={{ color: 'white' }}>Login</Typography>
+                  <Typography style={{ color: 'white' }}>Sign up</Typography>
                 </Button>
               </form>
             </Paper>
@@ -108,4 +134,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default Signup;

@@ -28,7 +28,11 @@ const Picks: React.FC = () => {
         const thisWeeksPicks = data.filter(
           (p) => p.weekNum === selectedWeek?.week
         );
-        setPicks(thisWeeksPicks);
+        setPicks(
+          thisWeeksPicks.map((p) => {
+            return { ...p, startDate: new Date(p.startDate) };
+          })
+        );
       } catch (error) {
         console.error(`unable to fetch data from ${url}. ${error}`);
       } finally {

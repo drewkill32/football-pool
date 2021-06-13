@@ -1,12 +1,12 @@
 import React from 'react';
-import { Link, Redirect, useHistory, useLocation } from 'react-router-dom';
+import { Link, useHistory, useLocation } from 'react-router-dom';
 import { Form as FinalForm, Field } from 'react-final-form';
 import { Paper, Button, Typography, InputAdornment } from '@material-ui/core';
 import AccountBoxIcon from '@material-ui/icons/AccountBox';
 import LockIcon from '@material-ui/icons/Lock';
 
 import { useAuth } from '../../auth';
-import { useStyles } from './Login.styles';
+import { useStyles } from './ForgotPassword.styles';
 import { TextInput } from '../../components/common/forms/TextInput';
 import logo from './logo60.png';
 
@@ -27,7 +27,7 @@ function useFrom(): { pathname: string } {
   return { pathname: '/' };
 }
 
-const Login = () => {
+const ForgotPassword = () => {
   const classes = useStyles();
 
   const history = useHistory();
@@ -38,10 +38,6 @@ const Login = () => {
     await auth.signin(values.email, values.password);
     history.push(from);
   };
-
-  if (auth.user) {
-    return <Redirect to="/" />;
-  }
 
   return (
     <div className={classes.root}>
@@ -60,7 +56,7 @@ const Login = () => {
                   component={TextInput}
                   variant="outlined"
                   required
-                  autoFocus
+                  autofocus
                   type="email"
                   InputProps={{
                     startAdornment: (
@@ -108,4 +104,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default ForgotPassword;

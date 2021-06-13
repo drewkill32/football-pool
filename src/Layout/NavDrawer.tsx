@@ -42,7 +42,10 @@ const NavDrawer = () => {
           </ListItemIcon>
           <ListItemText primary="Profile" />
         </ListItem>
-        <ListItem button onClick={() => signout(() => history.push('/'))}>
+        <ListItem
+          button
+          onClick={() => signout().then(() => history.push('/'))}
+        >
           <ListItemIcon>
             <ExitToApp />
           </ListItemIcon>

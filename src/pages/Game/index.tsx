@@ -5,6 +5,7 @@ import {
   Divider,
   Grid,
   makeStyles,
+  Paper,
 } from '@material-ui/core';
 import { useParams } from 'react-router';
 import { useAuth } from '../../auth';
@@ -124,7 +125,13 @@ const Game = () => {
 
   return (
     <div className={classes.root}>
-      {loading || !pick ? <PicksSkeleton /> : <GameDetail game={pick} />}
+      {loading || !pick ? (
+        <PicksSkeleton />
+      ) : (
+        <Paper>
+          <GameDetail game={pick} />{' '}
+        </Paper>
+      )}
       {pick && (
         <Grid container className={classes.ownerContainer}>
           <Grid item xs={5}>
