@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import {
   Dialog,
   DialogTitle,
@@ -10,7 +10,6 @@ import {
   makeStyles,
 } from '@material-ui/core';
 import PersonIcon from '@material-ui/icons/Person';
-import AddIcon from '@material-ui/icons/Add';
 import { blue } from '@material-ui/core/colors';
 import { firestore } from '../../utils/firebase';
 import { useState } from 'react';
@@ -21,8 +20,6 @@ const useStyles = makeStyles({
     color: blue[600],
   },
 });
-
-const emails = ['username@gmail.com', 'user02@gmail.com'];
 
 const LeagueDialog: React.FC<{
   onClose: (league: string) => void;

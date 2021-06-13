@@ -1,41 +1,35 @@
-import React from "react";
+import React from 'react';
 import {
   ButtonBase,
-  Checkbox,
   createStyles,
   Divider,
   Grid,
   makeStyles,
   Paper,
-} from "@material-ui/core";
+} from '@material-ui/core';
 import {
   Cancel as CancelIcon,
-  CheckCircle as CheckCircleIcon,
   RadioButtonUnchecked as RadioButtonUncheckedIcon,
-} from "@material-ui/icons";
+} from '@material-ui/icons';
 
-import { green, red } from "@material-ui/core/colors";
-import { Pick } from "../../models";
-import { useHistory } from "react-router";
-import GameDetail from "../GameDetail";
+import { red } from '@material-ui/core/colors';
+import { Pick } from '../../models';
+import { useHistory } from 'react-router';
+import GameDetail from '../GameDetail';
 
 const useStyles = makeStyles(() =>
   createStyles({
     paper: {
-      minWidth: "280px",
-      width: "100%",
+      minWidth: '280px',
+      width: '100%',
     },
     button: {
-      textAlign: "left",
-      width: "100%",
+      textAlign: 'left',
+      width: '100%',
     },
     h2hCheckbox: {
-      position: "absolute",
+      position: 'absolute',
       bottom: 0,
-    },
-    button: {
-      textAlign: "left",
-      width: "100%",
     },
   })
 );
