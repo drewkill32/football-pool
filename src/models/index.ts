@@ -40,3 +40,8 @@ export interface Team {
   alt_color: string | undefined;
   logos: string[] | undefined;
 }
+
+export interface League {
+  slug: string;
+  name: string;
+}

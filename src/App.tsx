@@ -13,6 +13,8 @@ import Profile from './pages/Profile';
 import Signup from './pages/Signup';
 import GlobalRoute from './routes/GlobalRoute';
 import PrivateRoute from './routes/PrivateRoute';
+import LeagueHome from './pages/League/Home';
+import Unauthorized from './pages/Unauthorized';
 
 function App() {
   return (
@@ -24,6 +26,9 @@ function App() {
               <GlobalRoute path="/login">
                 <Login />
               </GlobalRoute>
+              <GlobalRoute path="/unauthorized">
+                <Unauthorized />
+              </GlobalRoute>
               <GlobalRoute path="/signup">
                 <Signup />
               </GlobalRoute>
@@ -32,6 +37,9 @@ function App() {
               </PrivateRoute>
               <PrivateRoute path="/profile">
                 <Profile />
+              </PrivateRoute>
+              <PrivateRoute path="/leagues/:league">
+                <LeagueHome />
               </PrivateRoute>
               <PrivateRoute path="/admin">
                 <Admin />

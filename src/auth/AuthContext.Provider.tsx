@@ -1,6 +1,7 @@
 import React, { useState, createContext, useEffect } from 'react';
 import Cookies from 'js-cookie';
 import { auth, firestore } from '../utils/firebase';
+import { League } from '../models';
 
 const getUserCookie = (): User | null => {
   const userJson = Cookies.get('user');
@@ -132,7 +133,7 @@ export interface User {
   name: string | null;
   email: string | null;
   updateEmail: (newEmail: string) => Promise<void>;
-  leagues: string[];
+  leagues: League[];
 }
 
 export default ProviderAuth;

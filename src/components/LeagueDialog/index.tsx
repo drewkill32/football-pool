@@ -13,6 +13,7 @@ import PersonIcon from '@material-ui/icons/Person';
 import { blue } from '@material-ui/core/colors';
 import { firestore } from '../../utils/firebase';
 import { useState } from 'react';
+import { League } from '../../models';
 
 const useStyles = makeStyles({
   avatar: {
@@ -22,13 +23,12 @@ const useStyles = makeStyles({
 });
 
 const LeagueDialog: React.FC<{
-  onClose: (league: string) => void;
-  selectedValue: string;
+  onClose: (league: League) => void;
+  selectedValue: League | undefined;
   open: boolean;
-}> = (props) => {
+}> = ({ onClose, selectedValue, open }) => {
   const classes = useStyles();
-  const { onClose, selectedValue, open } = props;
-  const [leagues, setLeagues] = useState<string[]>([]);
+  const [leagues, setLeagues] = useState<League[]>([]);
 
   const fetchLeagues = async () => {
     console.log('fetching leagues');
@@ -37,10 +37,10 @@ const LeagueDialog: React.FC<{
         .collection('leagues')
         .where('active', '==', true)
         .get();
-      const data: string[] = [];
+      const data: League[] = [];
       snapshot.forEach((doc) => {
-        data.push(doc.id);
-        console.log(doc.id, doc.data());
+        const { name } = doc.data();
+        data.push({ name, slug: doc.id });
       });
       setLeagues(data);
     } catch (error) {
@@ -49,10 +49,12 @@ const LeagueDialog: React.FC<{
   };
 
   const handleClose = () => {
-    onClose(selectedValue);
+    if (selectedValue) {
+      onClose(selectedValue);
+    }
   };
 
-  const handleListItemClick = (value: string) => {
+  const handleListItemClick = (value: League) => {
     onClose(value);
   };
 
@@ -69,14 +71,14 @@ const LeagueDialog: React.FC<{
           <ListItem
             button
             onClick={() => handleListItemClick(league)}
-            key={league}
+            key={league.slug}
           >
             <ListItemAvatar>
               <Avatar className={classes.avatar}>
                 <PersonIcon />
               </Avatar>
             </ListItemAvatar>
-            <ListItemText primary={league} />
+            <ListItemText primary={league.name} />
           </ListItem>
         ))}
       </List>
