@@ -24,6 +24,7 @@
     "concurrently": "^6.0.1",
     "eslint": "^7.30.0",
     "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.4.0",
     "firebase-functions-test": "^0.2.0",
     "typescript": "^3.9.9",
     "webpack": "^5.31.2",
