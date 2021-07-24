@@ -38,9 +38,13 @@ function App() {
               <PrivateRoute path="/profile">
                 <Profile />
               </PrivateRoute>
-              <PrivateRoute path="/leagues/:league">
+              <PrivateRoute exact path="/leagues/:league/admin">
+                <Admin />
+              </PrivateRoute>
+              <PrivateRoute exact path="/leagues/:league">
                 <LeagueHome />
               </PrivateRoute>
+
               <PrivateRoute path="/admin">
                 <Admin />
               </PrivateRoute>

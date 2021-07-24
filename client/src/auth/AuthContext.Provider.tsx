@@ -92,7 +92,8 @@ const useProviderAuth = (): Auth => {
             leagues: data?.leagues,
           }
         : null;
-      setUserCookie(user);
+      console.log('setting user', { user });
+      // setUserCookie(user);
       setUser(user);
     });
   }, []);

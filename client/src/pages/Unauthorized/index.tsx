@@ -2,17 +2,21 @@ import React from 'react';
 
 import { Box, Button, Typography } from '@material-ui/core';
 import { useStyles } from './unauthorized.styles';
-import { useHistory, useLocation } from 'react-router';
+import { useHistory, useLocation, useParams } from 'react-router';
 
 const Unauthorized = () => {
   const classes = useStyles();
   const history = useHistory();
   const location = useLocation();
-  console.log('params', { search: location.search });
+  //get query parameters
+  const { path } = useParams<{ path: string }>();
+  const params = useParams();
+
+  console.log('params', { search: location.search, path, params, history });
   return (
     <Box className={classes.root}>
       <Typography variant="h6" className={classes.text}>
-        You are not authorized to view the site
+        You are not authorized to view this page.
       </Typography>
       <Button
         variant="contained"
